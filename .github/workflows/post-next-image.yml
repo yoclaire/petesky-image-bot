@@ -3,7 +3,7 @@ on:
   # Comment out workflow_dispatch and uncomment the schedule to run daily
   workflow_dispatch:
   # schedule:
-  #  - cron: "30 5 * * *"
+  #  - cron: "30 * * * *"
 
 jobs:
   # On some job, do some stuff and persist variables meant to be re-used in other jobs

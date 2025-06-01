@@ -211,3 +211,7 @@ dist
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,visualstudiocode,yarn
+
+# Pete & Pete video files and raw screenshots
+/videos/
+/raw_screenshots/

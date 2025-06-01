@@ -9,12 +9,12 @@
   },
   "[typescript]": {
     "editor.codeActionsOnSave": {
-      "source.fixAll": true,
-      "source.fixAll.prettier": true
+      "source.fixAll": "explicit",
+      "source.fixAll.prettier": "explicit"
     }
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
-    "source.fixAll.prettier": true
+    "source.fixAll.prettier": "explicit"
   }
 }
