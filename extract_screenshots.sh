@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Pete & Pete Screenshot Extraction Script
+# Pete & Pete Screenshot Extraction Script - Robust Version
 # Extracts I-frames (scene changes) from all video files
 
 echo "🎬 Starting Pete & Pete screenshot extraction..."
@@ -32,69 +32,84 @@ if [ ! -d "videos" ]; then
     exit 1
 fi
 
-# Count video files
-video_count=$(find videos/ -type f \( -iname "*.mp4" -o -iname "*.mkv" -o -iname "*.avi" -o -iname "*.mov" -o -iname "*.m4v" \) | wc -l)
-
-if [ $video_count -eq 0 ]; then
-    echo -e "${RED}❌ No video files found in videos/ directory!${NC}"
-    echo "Supported formats: mp4, mkv, avi, mov, m4v"
-    exit 1
-fi
-
-echo -e "${BLUE}📁 Found $video_count video files${NC}"
-echo ""
-
 # Initialize counters
 processed=0
 total_screenshots=0
 
-# Initialize counters outside the loop
-processed=0
-total_screenshots=0
+echo -e "${BLUE}🔍 Scanning for video files...${NC}"
 
-# Process each video file
-find videos/ -type f \( -iname "*.mp4" -o -iname "*.mkv" -o -iname "*.avi" -o -iname "*.mov" -o -iname "*.m4v" \) -print0 | while IFS= read -r -d '' video_file; do
-    # Get filename without extension and path
+# Process each video file with robust handling
+for video_file in videos/*; do
+    # Skip if not a regular file
+    if [[ ! -f "$video_file" ]]; then
+        continue
+    fi
+    
+    # Get the extension and check if it's a video file
+    extension="${video_file##*.}"
+    # Convert to lowercase using tr for compatibility
+    extension_lower=$(echo "$extension" | tr '[:upper:]' '[:lower:]')
+    case "$extension_lower" in
+        mp4|mkv|avi|mov|m4v)
+            # This is a video file, process it
+            ;;
+        *)
+            # Skip non-video files
+            continue
+            ;;
+    esac
+    
+    # Get filename without path
     filename=$(basename "$video_file")
     name_only="${filename%.*}"
     
-    # Clean filename for use in output (remove special characters)
-    clean_name=$(echo "$name_only" | sed 's/[^a-zA-Z0-9._-]/_/g')
+    # Create a safe filename for output (more permissive cleaning)
+    clean_name=$(echo "$name_only" | sed 's/[\/\\:*?"<>|]/_/g' | sed 's/  */_/g')
     
     echo -e "${YELLOW}🎥 Processing: $filename${NC}"
-    echo -e "${BLUE}   Full path: $video_file${NC}"
+    echo -e "${BLUE}   Clean name: $clean_name${NC}"
     
-    # Extract I-frames (keyframes) - these capture scene changes and major movements
-    ffmpeg -i "$video_file" \
-        -vf "select='eq(pict_type,PICT_TYPE_I)'" \
+    # Test if file is readable by ffmpeg first
+    echo -e "${BLUE}   🔍 Testing file...${NC}"
+    if ! ffprobe -v quiet -select_streams v:0 -show_entries stream=codec_name "$video_file" >/dev/null 2>&1; then
+        echo -e "${RED}❌ File appears corrupted or unreadable${NC}"
+        processed=$((processed + 1))
+        echo ""
+        continue
+    fi
+    
+    echo -e "${BLUE}   ✅ File readable, extracting frames...${NC}"
+    
+    # Extract I-frames with scene detection (no blur filter for compatibility)
+    if ffmpeg -i "$video_file" \
+        -vf "select='eq(pict_type,PICT_TYPE_I)*gt(scene,0.1)'" \
         -vsync vfr \
         -q:v 2 \
         -f image2 \
         "raw_screenshots/${clean_name}-%04d.jpg" \
         -y \
         -loglevel error \
-        -hide_banner
-    
-    # Check if ffmpeg succeeded
-    if [ $? -eq 0 ]; then
+        -hide_banner; then
+        
         # Count screenshots generated for this file
         file_screenshots=$(find raw_screenshots/ -name "${clean_name}-*.jpg" 2>/dev/null | wc -l)
         
-        if [ $file_screenshots -gt 0 ]; then
+        if [ "$file_screenshots" -gt 0 ]; then
             echo -e "${GREEN}✅ Extracted $file_screenshots screenshots${NC}"
             total_screenshots=$((total_screenshots + file_screenshots))
         else
-            echo -e "${RED}❌ No screenshots extracted (ffmpeg succeeded but no files found)${NC}"
+            echo -e "${RED}❌ No screenshots extracted (no I-frames found)${NC}"
         fi
     else
         echo -e "${RED}❌ FFmpeg failed to process this file${NC}"
+        echo -e "${BLUE}   💡 Try converting this file to MP4 first${NC}"
     fi
     
     processed=$((processed + 1))
     echo ""
 done
 
-# Re-count total screenshots after the loop (since variables in pipes create subshells)
+# Final count
 total_screenshots=$(find raw_screenshots/ -name "*.jpg" 2>/dev/null | wc -l)
 
 # Final summary
@@ -104,11 +119,11 @@ echo "  • Videos processed: $processed"
 echo "  • Total screenshots: $total_screenshots"
 echo ""
 
-if [ $total_screenshots -gt 0 ]; then
+if [ "$total_screenshots" -gt 0 ]; then
     echo -e "${YELLOW}📝 Next steps:${NC}"
     echo "1. Review screenshots in 'raw_screenshots/' folder"
     echo "2. Copy your best shots to 'imagequeue/' folder"
-    echo "3. Aim for 100-500 good screenshots for variety"
+    echo "3. Use Gigapixel AI to upscale your favorites"
     echo ""
     echo -e "${BLUE}💡 Pro tip: Look for:${NC}"
     echo "  • Character close-ups and expressions"
@@ -116,7 +131,11 @@ if [ $total_screenshots -gt 0 ]; then
     echo "  • Good lighting and composition"
     echo "  • Avoid blurry or dark frames"
     echo ""
-    echo -e "${GREEN}🤖 Once you've curated your shots, your bot will be ready to post!${NC}"
+    echo -e "${GREEN}🤖 Ready for Gigapixel upscaling!${NC}"
 else
-    echo -e "${RED}❌ No screenshots were extracted. Check your video files and try again.${NC}"
+    echo -e "${RED}❌ No screenshots were extracted.${NC}"
+    echo -e "${BLUE}💡 Troubleshooting:${NC}"
+    echo "  • Check if video files are corrupted"
+    echo "  • Try converting to MP4 format first"
+    echo "  • Ensure files aren't DRM protected"
 fi
