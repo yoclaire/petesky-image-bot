@@ -73,21 +73,31 @@ find videos/ -type f \( -iname "*.mp4" -o -iname "*.mkv" -o -iname "*.avi" -o -i
     echo -e "${BLUE}   📊 Analyzing video...${NC}"
     video_info=$(ffprobe -v quiet -print_format json -show_streams "$video_file" 2>/dev/null)
     
-    if [ $? -eq 0 ]; then
-        width=$(echo "$video_info" | grep -o '"width":[0-9]*' | cut -d':' -f2 | head -1)
-        height=$(echo "$video_info" | grep -o '"height":[0-9]*' | cut -d':' -f2 | head -1)
+    if [ $? -eq 0 ] && [ ! -z "$video_info" ]; then
+        width=$(echo "$video_info" | jq -r '.streams[] | select(.codec_type=="video") | .width' 2>/dev/null | head -1)
+        height=$(echo "$video_info" | jq -r '.streams[] | select(.codec_type=="video") | .height' 2>/dev/null | head -1)
         
-        if [ ! -z "$width" ] && [ ! -z "$height" ]; then
+        # Fallback if jq not available
+        if [ -z "$width" ] || [ "$width" = "null" ]; then
+            width=$(echo "$video_info" | grep -o '"width":[0-9]*' | cut -d':' -f2 | head -1)
+            height=$(echo "$video_info" | grep -o '"height":[0-9]*' | cut -d':' -f2 | head -1)
+        fi
+        
+        if [ ! -z "$width" ] && [ ! -z "$height" ] && [ "$width" != "null" ] && [ "$height" != "null" ]; then
             target_width=$((width * 2))
             target_height=$((height * 2))
             echo -e "${BLUE}   📺 Source: ${width}x${height} → Target: ${target_width}x${target_height}${NC}"
+        else
+            echo -e "${BLUE}   📺 Video analysis: Resolution detection failed, using auto-scaling${NC}"
         fi
+    else
+        echo -e "${BLUE}   📺 Video analysis: Using automatic settings${NC}"
     fi
     
     # High-quality extraction with multiple enhancements
     echo -e "${PURPLE}   🔧 Applying quality filters...${NC}"
     ffmpeg -i "$video_file" \
-        -vf "select='eq(pict_type,PICT_TYPE_I)*gt(scene\,0.3)',scale=iw*2:ih*2:flags=lanczos,unsharp=5:5:1.0:5:5:0.0" \
+        -vf "select='eq(pict_type,PICT_TYPE_I)*gt(scene,0.3)',scale=iw*2:ih*2:flags=lanczos,unsharp=5:5:1.0:5:5:0.0" \
         -vsync vfr \
         -q:v 1 \
         -pix_fmt yuvj420p \
