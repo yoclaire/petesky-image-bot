@@ -19,14 +19,18 @@ function altTextFromImageName(imageName: string): string {
     
     // Try to extract episode title after the episode number
     // Look for patterns like "1x05 - Tool and Die" or "1x05_Tool_and_Die"
-    const titleMatch = imageName.match(/\d+x\d+[\s\-_]+([^\.]+)/);
+    // But stop before any frame numbers like "-0244"
+    const titleMatch = imageName.match(/\d+x\d+[\s\-_]+([^\.]+?)(?:-\d+)?\.jpg$/i);
     
     if (titleMatch) {
       // Clean up the title - replace underscores/multiple spaces with single spaces
-      const title = titleMatch[1]
+      let title = titleMatch[1]
         .replace(/[_\-]+/g, ' ')
         .replace(/\s+/g, ' ')
         .trim();
+      
+      // Fix missing apostrophes: any single letter followed by space before common suffixes
+      title = title.replace(/\b(\w+)\s([smldt])\b/g, "$1'$2");
       
       return `The Adventures of Pete & Pete - Season ${season}, Episode ${episode}: ${title}`;
     } else {
