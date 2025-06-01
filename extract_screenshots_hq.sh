@@ -57,17 +57,44 @@ echo ""
 processed=0
 total_screenshots=0
 
-# Process each video file
-find videos/ -type f \( -iname "*.mp4" -o -iname "*.mkv" -o -iname "*.avi" -o -iname "*.mov" -o -iname "*.m4v" \) -print0 | while IFS= read -r -d '' video_file; do
+# Process each video file with better path handling
+echo -e "${BLUE}🔍 Scanning for video files...${NC}"
+
+# First, let's see what we're working with
+video_files=()
+while IFS= read -r -d '' file; do
+    video_files+=("$file")
+done < <(find videos/ -type f \( -iname "*.mp4" -o -iname "*.mkv" -o -iname "*.avi" -o -iname "*.mov" -o -iname "*.m4v" \) -print0)
+
+echo -e "${BLUE}📁 Found ${#video_files[@]} video files to process${NC}"
+echo ""
+
+for video_file in "${video_files[@]}"; do
     # Get filename without extension and path
     filename=$(basename "$video_file")
     name_only="${filename%.*}"
     
-    # Clean filename for use in output (remove special characters)
-    clean_name=$(echo "$name_only" | sed 's/[^a-zA-Z0-9._-]/_/g')
+    # Clean filename for use in output (remove special characters but keep structure)
+    clean_name=$(echo "$name_only" | sed 's/[^a-zA-Z0-9._& -]/_/g' | sed 's/__*/_/g' | sed 's/^_\+\|_\+$//g')
     
     echo -e "${YELLOW}🎥 Processing: $filename${NC}"
     echo -e "${BLUE}   Full path: $video_file${NC}"
+    echo -e "${BLUE}   Clean name: $clean_name${NC}"
+    
+    # Verify file exists and is readable
+    if [ ! -f "$video_file" ]; then
+        echo -e "${RED}❌ File not found: $video_file${NC}"
+        processed=$((processed + 1))
+        echo ""
+        continue
+    fi
+    
+    if [ ! -r "$video_file" ]; then
+        echo -e "${RED}❌ File not readable: $video_file${NC}"
+        processed=$((processed + 1))
+        echo ""
+        continue
+    fi
     
     # Get video info for better processing
     echo -e "${BLUE}   📊 Analyzing video...${NC}"
@@ -76,17 +103,19 @@ find videos/ -type f \( -iname "*.mp4" -o -iname "*.mkv" -o -iname "*.avi" -o -i
     if [ $? -eq 0 ] && [ ! -z "$video_info" ]; then
         width=$(echo "$video_info" | jq -r '.streams[] | select(.codec_type=="video") | .width' 2>/dev/null | head -1)
         height=$(echo "$video_info" | jq -r '.streams[] | select(.codec_type=="video") | .height' 2>/dev/null | head -1)
+        codec=$(echo "$video_info" | jq -r '.streams[] | select(.codec_type=="video") | .codec_name' 2>/dev/null | head -1)
         
         # Fallback if jq not available
         if [ -z "$width" ] || [ "$width" = "null" ]; then
             width=$(echo "$video_info" | grep -o '"width":[0-9]*' | cut -d':' -f2 | head -1)
             height=$(echo "$video_info" | grep -o '"height":[0-9]*' | cut -d':' -f2 | head -1)
+            codec=$(echo "$video_info" | grep -o '"codec_name":"[^"]*"' | cut -d'"' -f4 | head -1)
         fi
         
         if [ ! -z "$width" ] && [ ! -z "$height" ] && [ "$width" != "null" ] && [ "$height" != "null" ]; then
             target_width=$((width * 2))
             target_height=$((height * 2))
-            echo -e "${BLUE}   📺 Source: ${width}x${height} → Target: ${target_width}x${target_height}${NC}"
+            echo -e "${BLUE}   📺 Source: ${width}x${height} (${codec}) → Target: ${target_width}x${target_height}${NC}"
         else
             echo -e "${BLUE}   📺 Video analysis: Resolution detection failed, using auto-scaling${NC}"
         fi
@@ -94,18 +123,34 @@ find videos/ -type f \( -iname "*.mp4" -o -iname "*.mkv" -o -iname "*.avi" -o -i
         echo -e "${BLUE}   📺 Video analysis: Using automatic settings${NC}"
     fi
     
-    # High-quality extraction with multiple enhancements
+    # High-quality extraction with codec-aware processing
     echo -e "${PURPLE}   🔧 Applying quality filters...${NC}"
-    ffmpeg -i "$video_file" \
-        -vf "select='eq(pict_type,PICT_TYPE_I)*gt(scene,0.3)',scale=iw*2:ih*2:flags=lanczos,unsharp=5:5:1.0:5:5:0.0" \
-        -vsync vfr \
-        -q:v 1 \
-        -pix_fmt yuvj420p \
-        -f image2 \
-        "raw_screenshots_hq/${clean_name}-HQ-%05d.jpg" \
-        -y \
-        -loglevel error \
-        -hide_banner
+    
+    # Check if this is a problematic codec that needs special handling
+    if [ "$codec" = "msmpeg4v2" ] || [ "$codec" = "msmpeg4v3" ] || [ "$codec" = "msmpeg4" ]; then
+        echo -e "${YELLOW}   ⚠️  Detected legacy codec ($codec), using compatibility mode${NC}"
+        # Use a more conservative approach for legacy codecs
+        ffmpeg -i "$video_file" \
+            -vf "select='eq(pict_type,PICT_TYPE_I)',scale=iw*2:ih*2:flags=lanczos,format=rgb24" \
+            -fps_mode vfr \
+            -q:v 2 \
+            -f image2 \
+            "raw_screenshots_hq/${clean_name}-HQ-%05d.jpg" \
+            -y \
+            -loglevel warning \
+            -hide_banner
+    else
+        # Standard high-quality processing for modern codecs
+        ffmpeg -i "$video_file" \
+            -vf "select='eq(pict_type,PICT_TYPE_I)*gt(scene,0.2)',scale=iw*2:ih*2:flags=lanczos,unsharp=5:5:1.0:5:5:0.0,format=yuv420p" \
+            -fps_mode vfr \
+            -q:v 1 \
+            -f image2 \
+            "raw_screenshots_hq/${clean_name}-HQ-%05d.jpg" \
+            -y \
+            -loglevel warning \
+            -hide_banner
+    fi
     
     # Check if ffmpeg succeeded
     if [ $? -eq 0 ]; then
