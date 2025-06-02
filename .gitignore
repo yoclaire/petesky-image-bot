@@ -216,3 +216,7 @@ dist
 /videos/
 /raw_screenshots/
 /raw_screenshots_hq/
+
+# Bot state files (generated during GitHub Actions runs)
+.last_posted_image
+.bot-history.json

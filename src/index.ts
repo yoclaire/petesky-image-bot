@@ -5,6 +5,20 @@ import * as path from 'path';
 import * as dotenv from 'dotenv';
 dotenv.config();
 
+interface PostingHistoryEntry {
+  imageName: string;
+  timestamp: string;
+  altText: string;
+  episode?: string;
+  season?: number;
+  episodeNumber?: number;
+}
+
+interface PostingHistory {
+  entries: PostingHistoryEntry[];
+  lastUpdated: string;
+}
+
 // No text - just pure Pete & Pete imagery
 function postTextFromImageName(imageName: string): string {
   return ""; // Empty string = no caption, no text, no hashtags
@@ -131,17 +145,191 @@ function altTextFromImageName(imageName: string): string {
   return altText;
 }
 
+// Extract episode identifier for clustering prevention
+function extractEpisodeInfo(imageName: string): { season?: number; episode?: number; episodeId?: string } {
+  const cleanName = imageName.replace(/\.(jpg|jpeg|png|gif|bmp)$/i, '');
+  
+  // Try to extract season and episode numbers
+  const patterns = [
+    /(?:Season?\s*)?(\d+)x(\d+)/i,
+    /S(\d+)E(\d+)/i,
+    /(\d+)\s*x\s*(\d+)/i
+  ];
+
+  for (const pattern of patterns) {
+    const match = cleanName.match(pattern);
+    if (match) {
+      const season = parseInt(match[1]);
+      const episode = parseInt(match[2]);
+      return {
+        season,
+        episode,
+        episodeId: `S${season}E${episode}`
+      };
+    }
+  }
+
+  return {};
+}
+
+// Check for seasonal episodes and whether they should be posted now
+function getSeasonalStatus(imageName: string): { isSeasonalEpisode: boolean; currentlySeasonal: boolean; seasonType?: string } {
+  const now = new Date();
+  const month = now.getMonth() + 1; // 1-12
+  const content = imageName.toLowerCase();
+  
+  // Halloween episode: Halloweenie (S02E06)
+  if (content.includes('halloweenie')) {
+    return {
+      isSeasonalEpisode: true,
+      currentlySeasonal: month === 10,
+      seasonType: 'halloween'
+    };
+  }
+  
+  // Christmas episodes: O' Christmas Pete and New Year's Pete
+  if (content.includes('christmas_pete') || content.includes('o\'_christmas_pete') || content.includes('new_year\'s_pete') || content.includes('new_years_pete')) {
+    return {
+      isSeasonalEpisode: true,
+      currentlySeasonal: month === 12,
+      seasonType: 'christmas'
+    };
+  }
+  
+  // Not a seasonal episode
+  return {
+    isSeasonalEpisode: false,
+    currentlySeasonal: true // Non-seasonal episodes can be posted any time
+  };
+}
+
+// Load posting history
+function loadPostingHistory(): PostingHistory {
+  const historyPath = path.join(process.cwd(), '.bot-history.json');
+  
+  if (!fs.existsSync(historyPath)) {
+    return {
+      entries: [],
+      lastUpdated: new Date().toISOString()
+    };
+  }
+  
+  try {
+    const data = fs.readFileSync(historyPath, 'utf8');
+    return JSON.parse(data);
+  } catch (error) {
+    console.warn('Could not load posting history, starting fresh:', error.message);
+    return {
+      entries: [],
+      lastUpdated: new Date().toISOString()
+    };
+  }
+}
+
+// Save posting history
+function savePostingHistory(history: PostingHistory): void {
+  const historyPath = path.join(process.cwd(), '.bot-history.json');
+  history.lastUpdated = new Date().toISOString();
+  
+  try {
+    fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf8');
+  } catch (error) {
+    console.warn('Could not save posting history:', error.message);
+  }
+}
+
+// Check if we should avoid this episode due to recent clustering
+function shouldAvoidEpisode(imageName: string, history: PostingHistory): boolean {
+  const episodeInfo = extractEpisodeInfo(imageName);
+  
+  if (!episodeInfo.episodeId) {
+    return false; // Can't cluster what we can't identify
+  }
+  
+  // Look at last 3 posts
+  const recentPosts = history.entries.slice(-3);
+  const recentEpisodes = recentPosts
+    .map(entry => extractEpisodeInfo(entry.imageName).episodeId)
+    .filter(Boolean);
+  
+  // If 2 of the last 3 posts were from the same episode, avoid it
+  const episodeCount = recentEpisodes.filter(id => id === episodeInfo.episodeId).length;
+  
+  if (episodeCount >= 2) {
+    console.log(`Avoiding episode ${episodeInfo.episodeId} - posted ${episodeCount} times in last 3 posts`);
+    return true;
+  }
+  
+  return false;
+}
+
+// Post with retry logic
+async function postWithRetry(imageData: any, maxRetries = 3): Promise<void> {
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      await postImage(imageData);
+      return;
+    } catch (error) {
+      console.log(`Posting attempt ${attempt} failed:`, error.message);
+      
+      if (attempt === maxRetries) {
+        throw new Error(`Failed to post after ${maxRetries} attempts: ${error.message}`);
+      }
+      
+      // Exponential backoff: 5s, 10s, 20s
+      const delay = 5000 * Math.pow(2, attempt - 1);
+      console.log(`Retrying in ${delay / 1000} seconds...`);
+      await new Promise(resolve => setTimeout(resolve, delay));
+    }
+  }
+}
+
 // Write the posted image name to a file for GitHub Actions to read
 function savePostedImageName(imageName: string): void {
   const filePath = path.join(process.cwd(), '.last_posted_image');
   fs.writeFileSync(filePath, imageName.trim(), 'utf8');
 }
 
+// Enhanced image selection with history awareness
+async function selectImageWithHistory(): Promise<{ imageName: string; absolutePath: string }> {
+  const history = loadPostingHistory();
+  const { LAST_IMAGE_NAME: lastImageName } = process.env;
+  
+  // Try up to 20 times to find a good image
+  for (let attempt = 1; attempt <= 20; attempt++) {
+    const nextImage = await getNextImage({ lastImageName });
+    
+    // Check seasonal appropriateness first
+    const seasonalStatus = getSeasonalStatus(nextImage.imageName);
+    
+    if (seasonalStatus.isSeasonalEpisode && !seasonalStatus.currentlySeasonal) {
+      console.log(`Attempt ${attempt}: Skipping ${nextImage.imageName} - ${seasonalStatus.seasonType} episode outside of season`);
+      continue;
+    }
+    
+    // Check for episode clustering
+    if (shouldAvoidEpisode(nextImage.imageName, history)) {
+      console.log(`Attempt ${attempt}: Skipping ${nextImage.imageName} due to episode clustering`);
+      continue;
+    }
+    
+    // If it's seasonal content being posted in season, note it
+    if (seasonalStatus.isSeasonalEpisode && seasonalStatus.currentlySeasonal) {
+      console.log(`Selected ${seasonalStatus.seasonType} seasonal content: ${nextImage.imageName}`);
+    }
+    
+    return nextImage;
+  }
+  
+  // If we can't find a good image after 20 attempts, just use the last one
+  console.log('Could not find ideal image after 20 attempts, using fallback');
+  return await getNextImage({ lastImageName });
+}
+
 // Main function
 async function main() {
   try {
-    const { LAST_IMAGE_NAME: lastImageName } = process.env;
-    const nextImage = await getNextImage({ lastImageName });
+    const nextImage = await selectImageWithHistory();
 
     console.log(`Posting: ${nextImage.imageName}`);
 
@@ -149,7 +337,14 @@ async function main() {
     const altText = altTextFromImageName(nextImage.imageName);
     console.log(`Alt text: ${altText}`);
 
-    await postImage({
+    // Check for seasonal content
+    const seasonalStatus = getSeasonalStatus(nextImage.imageName);
+    if (seasonalStatus.isSeasonalEpisode && seasonalStatus.currentlySeasonal) {
+      console.log(`Posting seasonal ${seasonalStatus.seasonType} content`);
+    }
+
+    // Post with retry logic
+    await postWithRetry({
       path: nextImage.absolutePath,
       text: postTextFromImageName(nextImage.imageName),
       altText: altText,
@@ -157,8 +352,33 @@ async function main() {
 
     console.log('Successfully posted to Bluesky!');
     
+    // Save to posting history
+    const history = loadPostingHistory();
+    const episodeInfo = extractEpisodeInfo(nextImage.imageName);
+    
+    const entry: PostingHistoryEntry = {
+      imageName: nextImage.imageName,
+      timestamp: new Date().toISOString(),
+      altText: altText,
+      episode: episodeInfo.episodeId,
+      season: episodeInfo.season,
+      episodeNumber: episodeInfo.episode
+    };
+    
+    history.entries.push(entry);
+    
+    // Keep only last 50 entries to prevent file from growing too large
+    if (history.entries.length > 50) {
+      history.entries = history.entries.slice(-50);
+    }
+    
+    savePostingHistory(history);
+    
     // Save the posted image name for GitHub Actions
     savePostedImageName(nextImage.imageName);
+    
+    // Log statistics
+    console.log(`Total posts in history: ${history.entries.length}`);
     
   } catch (error) {
     console.error('Error posting to Bluesky:', error);
