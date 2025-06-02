@@ -1,5 +1,7 @@
 import { postImage } from './clients/at';
 import { getNextImage } from './images';
+import * as fs from 'fs';
+import * as path from 'path';
 import * as dotenv from 'dotenv';
 dotenv.config();
 
@@ -129,7 +131,13 @@ function altTextFromImageName(imageName: string): string {
   return altText;
 }
 
-// Main function - shouldn't need to edit this
+// Write the posted image name to a file for GitHub Actions to read
+function savePostedImageName(imageName: string): void {
+  const filePath = path.join(process.cwd(), '.last_posted_image');
+  fs.writeFileSync(filePath, imageName.trim(), 'utf8');
+}
+
+// Main function
 async function main() {
   try {
     const { LAST_IMAGE_NAME: lastImageName } = process.env;
@@ -149,8 +157,8 @@ async function main() {
 
     console.log('Successfully posted to Bluesky!');
     
-    // Output filename for GitHub Actions to capture
-    console.log(nextImage.imageName);
+    // Save the posted image name for GitHub Actions
+    savePostedImageName(nextImage.imageName);
     
   } catch (error) {
     console.error('Error posting to Bluesky:', error);
