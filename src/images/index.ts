@@ -59,7 +59,7 @@ async function getNextImage(options?: GetNextImageOptions): Promise<NextImage> {
 
   const absolutePath = path.join(imagesDir, selectedImage);
 
-  console.log(`🎲 Randomly selected: ${selectedImage} (${validImageFiles.indexOf(selectedImage) + 1}/${validImageFiles.length})`);
+  console.log(`Randomly selected: ${selectedImage} (${validImageFiles.indexOf(selectedImage) + 1}/${validImageFiles.length})`);
 
   return {
     imageName: selectedImage,
