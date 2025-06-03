@@ -2,8 +2,7 @@ name: 'bsky-image-bot Post Next Image'
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 16-23 * * *"
-  - cron: "0 0-4 * * *"
+  - cron: "0 * * * *"
 
 jobs:
   post-next-image:
