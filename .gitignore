@@ -214,6 +214,7 @@ dist
 
 # Pete & Pete video files and raw screenshots
 /videos/
+/videos_staging/
 /raw_screenshots/
 /raw_screenshots_hq/
 
