@@ -9,15 +9,20 @@
   "dependencies": {
     "@atproto/api": "^0.3.12",
     "dotenv": "^16.3.1",
-    "sharp": "^0.32.1"
+    "sharp": "^0.32.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "commander": "^11.0.0",
+    "cli-progress": "^3.12.0"
   },
   "scripts": {
     "lint": "eslint .",
     "format": "prettier --write .",
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/index.ts",
+    "extract": "ts-node src/extract-screenshots.ts"
   },
   "devDependencies": {
     "@types/node": "^20.3.1",
+    "@types/fluent-ffmpeg": "^2.1.21",
     "@typescript-eslint/eslint-plugin": "^5.60.0",
     "@typescript-eslint/parser": "^5.60.0",
     "eslint": "^8.43.0",

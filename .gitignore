@@ -221,3 +221,10 @@ dist
 # Bot state files (generated during GitHub Actions runs)
 .last_posted_image
 .bot-history.json
+
+# old extract scripts
+extract_screenshots.sh
+extract_screenshots_fixed.sh
+extract_screenshots2.sh
+extract_screenshots2_fixed.sh
+

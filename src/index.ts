@@ -12,6 +12,7 @@ interface PostingHistoryEntry {
   episode?: string;
   season?: number;
   episodeNumber?: number;
+  cycleInfo?: string;
 }
 
 interface PostingHistory {
@@ -238,31 +239,6 @@ function savePostingHistory(history: PostingHistory): void {
   }
 }
 
-// Check if we should avoid this episode due to recent clustering
-function shouldAvoidEpisode(imageName: string, history: PostingHistory): boolean {
-  const episodeInfo = extractEpisodeInfo(imageName);
-  
-  if (!episodeInfo.episodeId) {
-    return false; // Can't cluster what we can't identify
-  }
-  
-  // Look at last 3 posts
-  const recentPosts = history.entries.slice(-3);
-  const recentEpisodes = recentPosts
-    .map(entry => extractEpisodeInfo(entry.imageName).episodeId)
-    .filter(Boolean);
-  
-  // If 2 of the last 3 posts were from the same episode, avoid it
-  const episodeCount = recentEpisodes.filter(id => id === episodeInfo.episodeId).length;
-  
-  if (episodeCount >= 2) {
-    console.log(`Avoiding episode ${episodeInfo.episodeId} - posted ${episodeCount} times in last 3 posts`);
-    return true;
-  }
-  
-  return false;
-}
-
 // Post with retry logic
 async function postWithRetry(imageData: any, maxRetries = 3): Promise<void> {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
@@ -290,58 +266,30 @@ function savePostedImageName(imageName: string): void {
   fs.writeFileSync(filePath, imageName.trim(), 'utf8');
 }
 
-// Enhanced image selection with history awareness
-async function selectImageWithHistory(): Promise<{ imageName: string; absolutePath: string }> {
-  const history = loadPostingHistory();
+// Enhanced image selection with large-scale system (seasonal rules built-in)
+async function selectImageWithLargeScale(): Promise<{ imageName: string; absolutePath: string; cycleInfo?: string }> {
   const { LAST_IMAGE_NAME: lastImageName } = process.env;
   
-  // Try up to 20 times to find a good image
-  for (let attempt = 1; attempt <= 20; attempt++) {
-    const nextImage = await getNextImage({ lastImageName });
-    
-    // Check seasonal appropriateness first
-    const seasonalStatus = getSeasonalStatus(nextImage.imageName);
-    
-    if (seasonalStatus.isSeasonalEpisode && !seasonalStatus.currentlySeasonal) {
-      console.log(`Attempt ${attempt}: Skipping ${nextImage.imageName} - ${seasonalStatus.seasonType} episode outside of season`);
-      continue;
-    }
-    
-    // Check for episode clustering
-    if (shouldAvoidEpisode(nextImage.imageName, history)) {
-      console.log(`Attempt ${attempt}: Skipping ${nextImage.imageName} due to episode clustering`);
-      continue;
-    }
-    
-    // If it's seasonal content being posted in season, note it
-    if (seasonalStatus.isSeasonalEpisode && seasonalStatus.currentlySeasonal) {
-      console.log(`Selected ${seasonalStatus.seasonType} seasonal content: ${nextImage.imageName}`);
-    }
-    
-    return nextImage;
-  }
+  // The large-scale selector handles all seasonal rules internally
+  // No need for multiple attempts - it will only return seasonally appropriate images
+  const nextImage = await getNextImage({ lastImageName });
   
-  // If we can't find a good image after 20 attempts, just use the last one
-  console.log('Could not find ideal image after 20 attempts, using fallback');
-  return await getNextImage({ lastImageName });
+  return nextImage;
 }
 
 // Main function
 async function main() {
   try {
-    const nextImage = await selectImageWithHistory();
+    const nextImage = await selectImageWithLargeScale();
 
     console.log(`Posting: ${nextImage.imageName}`);
+    if (nextImage.cycleInfo) {
+      console.log(`Large-scale status: ${nextImage.cycleInfo}`);
+    }
 
     // Generate alt text and log it for debugging
     const altText = altTextFromImageName(nextImage.imageName);
     console.log(`Alt text: ${altText}`);
-
-    // Check for seasonal content
-    const seasonalStatus = getSeasonalStatus(nextImage.imageName);
-    if (seasonalStatus.isSeasonalEpisode && seasonalStatus.currentlySeasonal) {
-      console.log(`Posting seasonal ${seasonalStatus.seasonType} content`);
-    }
 
     // Post with retry logic
     await postWithRetry({
@@ -362,14 +310,15 @@ async function main() {
       altText: altText,
       episode: episodeInfo.episodeId,
       season: episodeInfo.season,
-      episodeNumber: episodeInfo.episode
+      episodeNumber: episodeInfo.episode,
+      cycleInfo: nextImage.cycleInfo
     };
     
     history.entries.push(entry);
     
-    // Keep only last 50 entries to prevent file from growing too large
-    if (history.entries.length > 50) {
-      history.entries = history.entries.slice(-50);
+    // Keep last 100 entries (increased for large-scale tracking)
+    if (history.entries.length > 100) {
+      history.entries = history.entries.slice(-100);
     }
     
     savePostingHistory(history);
