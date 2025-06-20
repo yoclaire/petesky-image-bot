@@ -1,7 +1,7 @@
 import { BskyAgent, stringifyLex, jsonToLex } from '@atproto/api';
 import * as fs from 'fs';
 import * as util from 'util';
-import * as sharp from 'sharp';
+import sharp from 'sharp';
 
 const GET_TIMEOUT = 15e3; // 15s
 const POST_TIMEOUT = 60e3; // 60s
