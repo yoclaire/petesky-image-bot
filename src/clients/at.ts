@@ -123,6 +123,10 @@ async function postImage({ path, text, altText }: PostImageOptions) {
         {
           image: testUpload.data.blob,
           alt: altText,
+          aspectRatio: {
+            width: 4,
+            height: 3
+          }
         },
       ],
       $type: 'app.bsky.embed.images',
