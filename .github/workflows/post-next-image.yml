@@ -4,6 +4,11 @@ on:
   schedule:
   - cron: "0 * * * *"
 
+# Grant GITHUB_TOKEN the minimum permissions needed
+permissions:
+  contents: write      # Required to push commits
+  actions: write       # Required to update repository variables
+
 jobs:
   post-next-image:
     name: Post Next Image
@@ -11,20 +16,17 @@ jobs:
     outputs:
       posted_image: ${{ steps.post.outputs.posted_image }}
     steps:
-      - uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.REPO_ACCESS_TOKEN }}
+      - uses: actions/checkout@v4
+        # Uses GITHUB_TOKEN automatically with granted permissions
 
       - name: Use Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 20
-
-      - name: Install Yarn
-        run: npm install -g yarn
+          cache: 'yarn'
 
       - name: Install dependencies
-        run: yarn install
+        run: yarn install --frozen-lockfile
       
       - name: Post to Bluesky
         id: post
@@ -44,10 +46,9 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # Add any history files that were created/updated
+          # Add history files if they exist
           git add -f .large-scale-history.json || true
           git add -f .bot-history.json || true
-          git add -f .small-collection-history.json || true
           
           # Only commit if there are changes
           if ! git diff --staged --quiet; then
@@ -59,8 +60,8 @@ jobs:
           fi
 
       - name: Update repository variable
-        uses: action-pack/set-variable@v1
-        with:
-          name: 'LAST_IMAGE_NAME'
-          value: ${{ steps.post.outputs.posted_image }}
-          token: ${{ secrets.REPO_ACCESS_TOKEN }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh variable set LAST_IMAGE_NAME --body "${{ steps.post.outputs.posted_image }}"
+          echo "✅ Updated LAST_IMAGE_NAME variable"
