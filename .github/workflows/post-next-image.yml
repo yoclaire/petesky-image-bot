@@ -2,7 +2,7 @@ name: 'bsky-image-bot Post Next Image'
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 * * * *"
+  - cron: "0,30 * * * *"
 
 # Only need contents:write - no external tokens required
 permissions:
