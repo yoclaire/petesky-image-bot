@@ -62,7 +62,16 @@
       "season": 3,
       "episodeNumber": 2,
       "cycleInfo": "Post 7 - 8113 available (0.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0110.jpg",
+      "timestamp": "2025-07-07T23:38:15.953Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 8 - 8112 available (0.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-07T23:28:57.485Z"
+  "lastUpdated": "2025-07-07T23:38:15.953Z"
 }
