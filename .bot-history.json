@@ -53,7 +53,16 @@
       "season": 3,
       "episodeNumber": 1,
       "cycleInfo": "Post 6 - 8114 available (0.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0222.jpg",
+      "timestamp": "2025-07-07T23:28:57.485Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 7 - 8113 available (0.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-07T23:02:12.749Z"
+  "lastUpdated": "2025-07-07T23:28:57.485Z"
 }
