@@ -4,20 +4,16 @@ on:
   schedule:
   - cron: "0 * * * *"
 
-# Grant GITHUB_TOKEN the minimum permissions needed
+# Only need contents:write - no external tokens required
 permissions:
-  contents: write      # Required to push commits
-  actions: write       # Required to update repository variables
+  contents: write
 
 jobs:
   post-next-image:
     name: Post Next Image
     runs-on: ubuntu-latest
-    outputs:
-      posted_image: ${{ steps.post.outputs.posted_image }}
     steps:
       - uses: actions/checkout@v4
-        # Uses GITHUB_TOKEN automatically with granted permissions
 
       - name: Use Node.js
         uses: actions/setup-node@v4
@@ -27,13 +23,26 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+
+      - name: Get last posted image from history
+        id: get_last_image
+        run: |
+          if [ -f ".bot-history.json" ]; then
+            # Extract last posted image from history file
+            last_image=$(jq -r '.entries[-1].imageName // ""' .bot-history.json)
+            echo "last_image=$last_image" >> $GITHUB_OUTPUT
+            echo "Found last posted image: $last_image"
+          else
+            echo "last_image=" >> $GITHUB_OUTPUT
+            echo "No history file found - first run"
+          fi
       
       - name: Post to Bluesky
         id: post
         env:
           BSKY_IDENTIFIER: ${{ secrets.BSKY_IDENTIFIER }}
           BSKY_PASSWORD: ${{ secrets.BSKY_PASSWORD }}
-          LAST_IMAGE_NAME: ${{ vars.LAST_IMAGE_NAME }}
+          LAST_IMAGE_NAME: ${{ steps.get_last_image.outputs.last_image }}
         run: |
           echo "Previous image name: $LAST_IMAGE_NAME"
           yarn --silent run start
@@ -55,13 +64,7 @@ jobs:
             git commit -m "Update bot history files [skip ci]"
             git push
             echo "✅ History files committed successfully"
+            echo "✅ Last image state saved in history file"
           else
             echo "ℹ️  No history file changes to commit"
           fi
-
-      - name: Update repository variable
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh variable set LAST_IMAGE_NAME --body "${{ steps.post.outputs.posted_image }}"
-          echo "✅ Updated LAST_IMAGE_NAME variable"
