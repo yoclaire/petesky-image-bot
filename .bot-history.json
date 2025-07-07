@@ -44,7 +44,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 5 - 8115 available (0.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0069.jpg",
+      "timestamp": "2025-07-07T23:02:12.749Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 6 - 8114 available (0.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-07T22:02:33.777Z"
+  "lastUpdated": "2025-07-07T23:02:12.749Z"
 }
