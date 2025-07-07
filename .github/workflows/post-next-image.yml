@@ -12,6 +12,8 @@ jobs:
       posted_image: ${{ steps.post.outputs.posted_image }}
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
 
       - name: Use Node.js
         uses: actions/setup-node@v3
@@ -36,6 +38,25 @@ jobs:
           posted_image=$(cat .last_posted_image)
           echo "posted_image=$posted_image" >> $GITHUB_OUTPUT
           echo "Posted image: $posted_image"
+
+      - name: Commit history files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add any history files that were created/updated
+          git add -f .large-scale-history.json || true
+          git add -f .bot-history.json || true
+          git add -f .small-collection-history.json || true
+          
+          # Only commit if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "Update bot history files [skip ci]"
+            git push
+            echo "✅ History files committed successfully"
+          else
+            echo "ℹ️  No history file changes to commit"
+          fi
 
       - name: Update repository variable
         uses: action-pack/set-variable@v1

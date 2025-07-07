@@ -22,10 +22,10 @@ class LargeScaleImageSelector {
     this.historyPath = path.join(process.cwd(), '.large-scale-history.json');
     
     // Scale exclusion size based on collection size
-    // For 9,396 images, exclude last ~400 (gives 95% chance of new image)
+    // For 8,973 images, exclude last ~1,346 (15% - good for hourly bot variety)
     this.recentExclusionSize = Math.min(
-      Math.floor(validImageFiles.length * 0.05), // 5% of collection
-      500 // Cap at 500 for memory efficiency
+      Math.floor(validImageFiles.length * 0.15), // 15% of collection
+      2000 // Cap at 2000 for memory efficiency
     );
     
     console.log(`Managing ${validImageFiles.length} images with ${this.recentExclusionSize}-image exclusion list`);
