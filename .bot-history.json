@@ -89,7 +89,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 10 - 8110 available (0.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0099.jpg",
+      "timestamp": "2025-07-08T01:34:47.107Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 11 - 8109 available (0.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-08T00:51:07.829Z"
+  "lastUpdated": "2025-07-08T01:34:47.107Z"
 }
