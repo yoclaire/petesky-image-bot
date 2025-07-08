@@ -2,8 +2,6 @@
 
 Automatically posts screenshots from "The Adventures of Pete & Pete" to Bluesky every 30 minutes with smart duplicate prevention and seasonal posting.
 
-Currently managing 8,973 screenshots. Halloween episodes only appear in October, Christmas episodes only in December.
-
 ## What it does
 
 Posts a different Pete & Pete screenshot to Bluesky every 30 minutes. Features include:
@@ -13,19 +11,6 @@ Posts a different Pete & Pete screenshot to Bluesky every 30 minutes. Features i
 - Handles large collections efficiently
 
 Runs on GitHub Actions with no manual intervention required.
-
-## Quick setup
-
-1. **Fork this repo** and clone it
-2. **Add screenshots** to the `imagequeue/` folder 
-3. **Get a Bluesky app password** at https://bsky.app/settings/app-passwords
-4. **Add GitHub secrets**:
-   - Go to your repo → Settings → Secrets and variables → Actions
-   - Add `BSKY_IDENTIFIER` (your handle like `yourname.bsky.social`)
-   - Add `BSKY_PASSWORD` (the app password, not your account password)
-5. **Test it**: Go to Actions → "Post Pete & Pete Image" → Run workflow
-
-The bot will start posting every 30 minutes automatically.
 
 ## How selection works
 
@@ -40,7 +25,7 @@ Avoids posting multiple screenshots from the same episode consecutively.
 
 **October**: Only Halloweenie episode (S02E06) screenshots.
 
-**December**: Only Christmas Pete (S03E11) and New Year's Pete (S00E05) screenshots.
+**December**: Only O' Christmas Pete (S03E11) and New Year's Pete (S00E05) screenshots.
 
 **Other months**: All episodes except seasonal ones.
 
