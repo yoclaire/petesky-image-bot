@@ -251,7 +251,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 28 - 8092 available (0.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E05_-_Dance_Fever-0063.jpg",
+      "timestamp": "2025-07-08T11:06:14.129Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
+      "episode": "S3E5",
+      "season": 3,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 29 - 8091 available (0.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-08T10:39:49.869Z"
+  "lastUpdated": "2025-07-08T11:06:14.129Z"
 }
