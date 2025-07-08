@@ -215,7 +215,16 @@
       "season": 3,
       "episodeNumber": 13,
       "cycleInfo": "Post 24 - 8096 available (0.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0041.jpg",
+      "timestamp": "2025-07-08T09:08:04.731Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 25 - 8095 available (0.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-08T08:41:45.210Z"
+  "lastUpdated": "2025-07-08T09:08:04.731Z"
 }
