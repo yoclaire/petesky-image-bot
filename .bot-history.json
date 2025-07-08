@@ -170,7 +170,16 @@
       "season": 0,
       "episodeNumber": 20,
       "cycleInfo": "Post 19 - 8101 available (0.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E07_-_Last_Laugh-0114.jpg",
+      "timestamp": "2025-07-08T06:43:42.339Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
+      "episode": "S3E7",
+      "season": 3,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 20 - 8100 available (0.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-08T06:09:12.836Z"
+  "lastUpdated": "2025-07-08T06:43:42.339Z"
 }
