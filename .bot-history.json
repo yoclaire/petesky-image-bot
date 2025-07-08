@@ -449,7 +449,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 50 - 8070 available (0.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0106.jpg",
+      "timestamp": "2025-07-08T22:06:02.171Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 51 - 8069 available (0.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-08T21:36:08.467Z"
+  "lastUpdated": "2025-07-08T22:06:02.171Z"
 }
