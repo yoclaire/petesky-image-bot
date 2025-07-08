@@ -143,7 +143,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 16 - 8104 available (0.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0148.jpg",
+      "timestamp": "2025-07-08T05:07:44.086Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 17 - 8103 available (0.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-08T04:41:59.327Z"
+  "lastUpdated": "2025-07-08T05:07:44.086Z"
 }
