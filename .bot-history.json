@@ -692,7 +692,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 77 - 8043 available (0.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0071.jpg",
+      "timestamp": "2025-07-09T13:16:00.715Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 78 - 8042 available (1.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T12:47:19.270Z"
+  "lastUpdated": "2025-07-09T13:16:00.715Z"
 }
