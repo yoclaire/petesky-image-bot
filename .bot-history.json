@@ -629,7 +629,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 70 - 8050 available (0.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0075.jpg",
+      "timestamp": "2025-07-09T09:38:49.061Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 71 - 8049 available (0.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T09:08:15.284Z"
+  "lastUpdated": "2025-07-09T09:38:49.061Z"
 }
