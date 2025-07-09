@@ -557,7 +557,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 62 - 8058 available (0.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0124.jpg",
+      "timestamp": "2025-07-09T05:40:41.117Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 63 - 8057 available (0.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T05:09:28.982Z"
+  "lastUpdated": "2025-07-09T05:40:41.117Z"
 }
