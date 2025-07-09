@@ -764,7 +764,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 85 - 8035 available (1.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0106.jpg",
+      "timestamp": "2025-07-09T17:07:25.836Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 86 - 8034 available (1.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T16:41:52.405Z"
+  "lastUpdated": "2025-07-09T17:07:25.836Z"
 }
