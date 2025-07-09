@@ -647,7 +647,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 72 - 8048 available (0.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0161.jpg",
+      "timestamp": "2025-07-09T10:40:23.876Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 73 - 8047 available (0.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T10:06:53.515Z"
+  "lastUpdated": "2025-07-09T10:40:23.876Z"
 }
