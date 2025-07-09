@@ -872,7 +872,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 97 - 8023 available (1.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E13_-_Sick_Day-0152.jpg",
+      "timestamp": "2025-07-09T23:06:18.298Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
+      "episode": "S2E13",
+      "season": 2,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 98 - 8022 available (1.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T22:38:16.902Z"
+  "lastUpdated": "2025-07-09T23:06:18.298Z"
 }
