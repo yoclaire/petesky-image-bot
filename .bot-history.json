@@ -485,7 +485,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 54 - 8066 available (0.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0120.jpg",
+      "timestamp": "2025-07-09T00:27:27.728Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 55 - 8065 available (0.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-08T23:36:08.345Z"
+  "lastUpdated": "2025-07-09T00:27:27.728Z"
 }
