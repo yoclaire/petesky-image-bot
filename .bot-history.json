@@ -494,7 +494,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 55 - 8065 available (0.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0134.jpg",
+      "timestamp": "2025-07-09T00:52:40.189Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 56 - 8064 available (0.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T00:27:27.728Z"
+  "lastUpdated": "2025-07-09T00:52:40.189Z"
 }
