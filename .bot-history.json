@@ -530,7 +530,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 59 - 8061 available (0.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E08_-_Allnighter-0073.jpg",
+      "timestamp": "2025-07-09T04:15:18.076Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
+      "episode": "S3E8",
+      "season": 3,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 60 - 8060 available (0.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T03:31:46.655Z"
+  "lastUpdated": "2025-07-09T04:15:18.076Z"
 }
