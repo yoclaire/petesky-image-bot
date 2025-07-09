@@ -701,7 +701,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 78 - 8042 available (1.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0084.jpg",
+      "timestamp": "2025-07-09T13:43:33.104Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 79 - 8041 available (1.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T13:16:00.715Z"
+  "lastUpdated": "2025-07-09T13:43:33.104Z"
 }
