@@ -575,7 +575,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 64 - 8056 available (0.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0065.jpg",
+      "timestamp": "2025-07-09T06:43:57.387Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 65 - 8055 available (0.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T06:09:07.733Z"
+  "lastUpdated": "2025-07-09T06:43:57.387Z"
 }
