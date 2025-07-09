@@ -593,7 +593,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 66 - 8054 available (0.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0153.jpg",
+      "timestamp": "2025-07-09T07:36:52.068Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 67 - 8053 available (0.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-09T07:07:30.257Z"
+  "lastUpdated": "2025-07-09T07:36:52.068Z"
 }
