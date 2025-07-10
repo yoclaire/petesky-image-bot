@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0195.jpg",
-      "timestamp": "2025-07-08T00:51:07.829Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 10 - 8110 available (0.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0099.jpg",
       "timestamp": "2025-07-08T01:34:47.107Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 109 - 8011 available (1.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E01_-_Valentine's_Day_Massacre-0139.jpg",
+      "timestamp": "2025-07-10T06:44:15.030Z",
+      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 110 - 8010 available (1.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-10T06:09:15.993Z"
+  "lastUpdated": "2025-07-10T06:44:15.030Z"
 }
