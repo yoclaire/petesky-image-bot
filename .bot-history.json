@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0273.jpg",
-      "timestamp": "2025-07-08T12:47:17.674Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 32 - 8088 available (0.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0079.jpg",
       "timestamp": "2025-07-08T13:16:34.761Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 131 - 7989 available (1.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0165.jpg",
+      "timestamp": "2025-07-10T17:38:09.971Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 132 - 7988 available (1.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-10T17:07:47.752Z"
+  "lastUpdated": "2025-07-10T17:38:09.971Z"
 }
