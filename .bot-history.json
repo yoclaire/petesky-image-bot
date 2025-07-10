@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0069.jpg",
-      "timestamp": "2025-07-07T23:02:12.749Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 6 - 8114 available (0.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0222.jpg",
       "timestamp": "2025-07-07T23:28:57.485Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 105 - 8015 available (1.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0136.jpg",
+      "timestamp": "2025-07-10T04:43:12.791Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 106 - 8014 available (1.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-10T04:14:14.597Z"
+  "lastUpdated": "2025-07-10T04:43:12.791Z"
 }
