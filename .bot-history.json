@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0042.jpg",
-      "timestamp": "2025-07-07T21:02:28.835Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 2 - 8118 available (0.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0128.jpg",
       "timestamp": "2025-07-07T21:12:17.031Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 101 - 8019 available (1.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0218.jpg",
+      "timestamp": "2025-07-10T01:34:43.027Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 102 - 8018 available (1.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-10T00:51:57.063Z"
+  "lastUpdated": "2025-07-10T01:34:43.027Z"
 }
