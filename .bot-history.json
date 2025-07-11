@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0175.jpg",
-      "timestamp": "2025-07-09T10:06:53.515Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 72 - 8048 available (0.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0161.jpg",
       "timestamp": "2025-07-09T10:40:23.876Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 171 - 7949 available (2.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0164.jpg",
+      "timestamp": "2025-07-11T15:06:25.483Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 172 - 7948 available (2.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-11T14:39:01.134Z"
+  "lastUpdated": "2025-07-11T15:06:25.483Z"
 }
