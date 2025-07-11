@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0018.jpg",
-      "timestamp": "2025-07-08T20:06:49.603Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 47 - 8073 available (0.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E06_-_Don't_Tread_on_Pete-0289.jpg",
       "timestamp": "2025-07-08T20:37:59.178Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 146 - 7974 available (1.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0001.jpg",
+      "timestamp": "2025-07-11T01:34:58.651Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 147 - 7973 available (1.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-11T00:52:10.064Z"
+  "lastUpdated": "2025-07-11T01:34:58.651Z"
 }
