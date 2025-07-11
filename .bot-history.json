@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E01_-_Valentine's_Day_Massacre-0141.jpg",
-      "timestamp": "2025-07-09T08:41:37.815Z",
-      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
-      "episode": "S0E1",
-      "season": 0,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 69 - 8051 available (0.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0149.jpg",
       "timestamp": "2025-07-09T09:08:15.284Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 168 - 7952 available (2.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0276.jpg",
+      "timestamp": "2025-07-11T13:42:41.181Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 169 - 7951 available (2.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-11T13:15:17.621Z"
+  "lastUpdated": "2025-07-11T13:42:41.181Z"
 }
