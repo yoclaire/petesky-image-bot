@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0150.jpg",
-      "timestamp": "2025-07-08T19:34:17.287Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 46 - 8074 available (0.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0018.jpg",
       "timestamp": "2025-07-08T20:06:49.603Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 145 - 7975 available (1.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0252.jpg",
+      "timestamp": "2025-07-11T00:52:10.064Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 146 - 7974 available (1.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-11T00:27:08.743Z"
+  "lastUpdated": "2025-07-11T00:52:10.064Z"
 }
