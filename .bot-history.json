@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0073.jpg",
-      "timestamp": "2025-07-09T04:15:18.076Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 60 - 8060 available (0.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0170.jpg",
       "timestamp": "2025-07-09T04:44:03.231Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 159 - 7961 available (2.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0105.jpg",
+      "timestamp": "2025-07-11T09:07:39.095Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 160 - 7960 available (2.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-11T08:41:26.129Z"
+  "lastUpdated": "2025-07-11T09:07:39.095Z"
 }
