@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0170.jpg",
-      "timestamp": "2025-07-09T03:31:46.655Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 59 - 8061 available (0.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0073.jpg",
       "timestamp": "2025-07-09T04:15:18.076Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 158 - 7962 available (1.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E07_-_Last_Laugh-0104.jpg",
+      "timestamp": "2025-07-11T08:41:26.129Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
+      "episode": "S3E7",
+      "season": 3,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 159 - 7961 available (2.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-11T08:08:29.326Z"
+  "lastUpdated": "2025-07-11T08:41:26.129Z"
 }
