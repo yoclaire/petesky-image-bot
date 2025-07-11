@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0006.jpg",
-      "timestamp": "2025-07-08T23:36:08.345Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 54 - 8066 available (0.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0120.jpg",
       "timestamp": "2025-07-09T00:27:27.728Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 153 - 7967 available (1.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E13_-_Saturday-0174.jpg",
+      "timestamp": "2025-07-11T06:09:07.500Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
+      "episode": "S3E13",
+      "season": 3,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 154 - 7966 available (1.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-11T05:40:19.752Z"
+  "lastUpdated": "2025-07-11T06:09:07.500Z"
 }
