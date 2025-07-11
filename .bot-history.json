@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0112.jpg",
-      "timestamp": "2025-07-09T18:08:20.843Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 88 - 8032 available (1.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0197.jpg",
       "timestamp": "2025-07-09T18:43:07.721Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 187 - 7933 available (2.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0101.jpg",
+      "timestamp": "2025-07-11T23:06:10.562Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 188 - 7932 available (2.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-11T22:38:44.867Z"
+  "lastUpdated": "2025-07-11T23:06:10.562Z"
 }
