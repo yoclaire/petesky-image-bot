@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E03_-_The_Nightcrawlers-0003.jpg",
-      "timestamp": "2025-07-10T11:35:31.416Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
-      "episode": "S1E3",
-      "season": 1,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 120 - 8000 available (1.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0008.jpg",
       "timestamp": "2025-07-10T12:10:32.421Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 1,
       "cycleInfo": "Post 219 - 7901 available (2.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0033.jpg",
+      "timestamp": "2025-07-12T16:39:45.442Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 220 - 7900 available (2.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T16:06:27.003Z"
+  "lastUpdated": "2025-07-12T16:39:45.442Z"
 }
