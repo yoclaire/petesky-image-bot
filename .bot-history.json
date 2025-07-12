@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0040.jpg",
-      "timestamp": "2025-07-10T13:44:02.748Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 124 - 7996 available (1.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0171.jpg",
       "timestamp": "2025-07-10T14:07:02.600Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 223 - 7897 available (2.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0184.jpg",
+      "timestamp": "2025-07-12T18:40:49.439Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 224 - 7896 available (2.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T18:07:32.133Z"
+  "lastUpdated": "2025-07-12T18:40:49.439Z"
 }
