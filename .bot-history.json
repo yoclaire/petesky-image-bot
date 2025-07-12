@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E13_-_Sick_Day-0152.jpg",
-      "timestamp": "2025-07-09T23:06:18.298Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
-      "episode": "S2E13",
-      "season": 2,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 98 - 8022 available (1.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0168.jpg",
       "timestamp": "2025-07-09T23:36:19.113Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 197 - 7923 available (2.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E13_-_Saturday-0018.jpg",
+      "timestamp": "2025-07-12T05:38:44.050Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
+      "episode": "S3E13",
+      "season": 3,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 198 - 7922 available (2.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T05:06:59.698Z"
+  "lastUpdated": "2025-07-12T05:38:44.050Z"
 }
