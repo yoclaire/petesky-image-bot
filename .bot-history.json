@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E13_-_Saturday-0041.jpg",
-      "timestamp": "2025-07-09T21:06:03.434Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
-      "episode": "S3E13",
-      "season": 3,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 94 - 8026 available (1.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0120.jpg",
       "timestamp": "2025-07-09T21:36:20.999Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 193 - 7927 available (2.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0066.jpg",
+      "timestamp": "2025-07-12T03:33:01.729Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 194 - 7926 available (2.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T02:42:02.049Z"
+  "lastUpdated": "2025-07-12T03:33:01.729Z"
 }
