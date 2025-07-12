@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0144.jpg",
-      "timestamp": "2025-07-10T12:47:13.144Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 122 - 7998 available (1.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0226.jpg",
       "timestamp": "2025-07-10T13:16:10.875Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 221 - 7899 available (2.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0027.jpg",
+      "timestamp": "2025-07-12T17:36:18.845Z",
+      "altText": "The Adventures of Pete & Pete - Staremaster",
+      "episode": "S0E26",
+      "season": 0,
+      "episodeNumber": 26,
+      "cycleInfo": "Post 222 - 7898 available (2.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T17:05:04.358Z"
+  "lastUpdated": "2025-07-12T17:36:18.845Z"
 }
