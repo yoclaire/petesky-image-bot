@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0017.jpg",
-      "timestamp": "2025-07-10T16:07:11.732Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 129 - 7991 available (1.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0081.jpg",
       "timestamp": "2025-07-10T16:42:23.402Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 228 - 7892 available (2.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0157.jpg",
+      "timestamp": "2025-07-12T21:05:26.591Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 229 - 7891 available (2.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T20:36:55.860Z"
+  "lastUpdated": "2025-07-12T21:05:26.591Z"
 }
