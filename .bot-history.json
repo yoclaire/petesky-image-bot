@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0212.jpg",
-      "timestamp": "2025-07-10T06:09:15.993Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 109 - 8011 available (1.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E01_-_Valentine's_Day_Massacre-0139.jpg",
       "timestamp": "2025-07-10T06:44:15.030Z",
       "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 208 - 7912 available (2.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E03_-_The_Call-0160.jpg",
+      "timestamp": "2025-07-12T11:05:16.650Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
+      "episode": "S2E3",
+      "season": 2,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 209 - 7911 available (2.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T10:39:00.420Z"
+  "lastUpdated": "2025-07-12T11:05:16.650Z"
 }
