@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0089.jpg",
-      "timestamp": "2025-07-10T18:42:29.386Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 134 - 7986 available (1.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0119.jpg",
       "timestamp": "2025-07-10T19:05:29.254Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 233 - 7887 available (2.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0176.jpg",
+      "timestamp": "2025-07-12T23:37:02.020Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 234 - 7886 available (2.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T23:06:00.705Z"
+  "lastUpdated": "2025-07-12T23:37:02.020Z"
 }
