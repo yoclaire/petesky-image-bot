@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0013.jpg",
-      "timestamp": "2025-07-09T20:06:40.123Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 92 - 8028 available (1.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0148.jpg",
       "timestamp": "2025-07-09T20:37:49.018Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 7,
       "cycleInfo": "Post 191 - 7929 available (2.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0292.jpg",
+      "timestamp": "2025-07-12T01:34:58.687Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 192 - 7928 available (2.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T00:51:31.747Z"
+  "lastUpdated": "2025-07-12T01:34:58.687Z"
 }
