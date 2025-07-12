@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0068.jpg",
-      "timestamp": "2025-07-10T04:14:14.597Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 105 - 8015 available (1.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0136.jpg",
       "timestamp": "2025-07-10T04:43:12.791Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 1,
       "cycleInfo": "Post 204 - 7916 available (2.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0126.jpg",
+      "timestamp": "2025-07-12T09:06:44.854Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 205 - 7915 available (2.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-12T08:39:13.392Z"
+  "lastUpdated": "2025-07-12T09:06:44.854Z"
 }
