@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x20_-_The_Punishment-0005.jpg",
-      "timestamp": "2025-07-10T23:36:07.887Z",
-      "altText": "The Adventures of Pete & Pete - The Punishment",
-      "episode": "S0E20",
-      "season": 0,
-      "episodeNumber": 20,
-      "cycleInfo": "Post 144 - 7976 available (1.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E09_-_On_Golden_Pete-0010.jpg",
       "timestamp": "2025-07-11T00:27:08.742Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 243 - 7877 available (3.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0133.jpg",
+      "timestamp": "2025-07-13T06:08:15.563Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 244 - 7876 available (3.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-13T05:38:54.637Z"
+  "lastUpdated": "2025-07-13T06:08:15.564Z"
 }
