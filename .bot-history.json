@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0121.jpg",
-      "timestamp": "2025-07-11T06:43:50.240Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 155 - 7965 available (1.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E05_-_Dance_Fever-0030.jpg",
       "timestamp": "2025-07-11T07:07:46.873Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 254 - 7866 available (3.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0082.jpg",
+      "timestamp": "2025-07-13T11:35:02.387Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 255 - 7865 available (3.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-13T11:05:15.591Z"
+  "lastUpdated": "2025-07-13T11:35:02.388Z"
 }
