@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0211.jpg",
-      "timestamp": "2025-07-11T16:41:02.324Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 175 - 7945 available (2.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0050.jpg",
       "timestamp": "2025-07-11T17:06:42.568Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 274 - 7846 available (3.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0085.jpg",
+      "timestamp": "2025-07-13T21:35:09.818Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 275 - 7845 available (3.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-13T21:05:33.651Z"
+  "lastUpdated": "2025-07-13T21:35:09.818Z"
 }
