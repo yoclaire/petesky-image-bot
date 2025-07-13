@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0192.jpg",
-      "timestamp": "2025-07-11T12:10:17.912Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 166 - 7954 available (2.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0184.jpg",
       "timestamp": "2025-07-11T12:47:09.829Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 265 - 7855 available (3.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0004.jpg",
+      "timestamp": "2025-07-13T17:05:32.093Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 266 - 7854 available (3.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-13T16:39:33.324Z"
+  "lastUpdated": "2025-07-13T17:05:32.093Z"
 }
