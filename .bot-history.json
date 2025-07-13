@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0182.jpg",
-      "timestamp": "2025-07-11T10:06:37.500Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 162 - 7958 available (2.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0138.jpg",
       "timestamp": "2025-07-11T10:39:41.602Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 261 - 7859 available (3.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0037.jpg",
+      "timestamp": "2025-07-13T15:05:31.260Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 262 - 7858 available (3.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-13T14:37:08.217Z"
+  "lastUpdated": "2025-07-13T15:05:31.260Z"
 }
