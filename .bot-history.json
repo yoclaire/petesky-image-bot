@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0165.jpg",
-      "timestamp": "2025-07-12T06:08:13.203Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 199 - 7921 available (2.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E05_-_Tool_and_Die-0127.jpg",
       "timestamp": "2025-07-12T06:42:32.877Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 8,
       "cycleInfo": "Post 298 - 7822 available (3.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0198.jpg",
+      "timestamp": "2025-07-14T11:06:06.648Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 299 - 7821 available (3.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-14T10:41:14.499Z"
+  "lastUpdated": "2025-07-14T11:06:06.648Z"
 }
