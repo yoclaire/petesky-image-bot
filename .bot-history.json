@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0037.jpg",
-      "timestamp": "2025-07-12T17:05:04.358Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 221 - 7899 available (2.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0027.jpg",
       "timestamp": "2025-07-12T17:36:18.845Z",
       "altText": "The Adventures of Pete & Pete - Staremaster",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 320 - 7800 available (3.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0109.jpg",
+      "timestamp": "2025-07-14T22:05:58.865Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 321 - 7799 available (4.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-14T21:36:02.758Z"
+  "lastUpdated": "2025-07-14T22:05:58.865Z"
 }
