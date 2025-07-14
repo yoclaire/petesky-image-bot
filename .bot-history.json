@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0101.jpg",
-      "timestamp": "2025-07-11T23:06:10.562Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 188 - 7932 available (2.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0257.jpg",
       "timestamp": "2025-07-11T23:36:02.280Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 4,
       "cycleInfo": "Post 287 - 7833 available (3.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0180.jpg",
+      "timestamp": "2025-07-14T05:41:14.443Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 288 - 7832 available (3.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-14T05:10:46.083Z"
+  "lastUpdated": "2025-07-14T05:41:14.443Z"
 }
