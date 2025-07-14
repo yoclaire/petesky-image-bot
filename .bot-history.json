@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0043.jpg",
-      "timestamp": "2025-07-12T11:34:39.998Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 210 - 7910 available (2.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0048.jpg",
       "timestamp": "2025-07-12T12:09:24.313Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 309 - 7811 available (3.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0043.jpg",
+      "timestamp": "2025-07-14T16:41:40.839Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 310 - 7810 available (3.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-14T16:07:44.302Z"
+  "lastUpdated": "2025-07-14T16:41:40.839Z"
 }
