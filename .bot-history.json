@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0195.jpg",
-      "timestamp": "2025-07-11T22:38:44.867Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 187 - 7933 available (2.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0101.jpg",
       "timestamp": "2025-07-11T23:06:10.562Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 286 - 7834 available (3.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0116.jpg",
+      "timestamp": "2025-07-14T05:10:46.083Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 287 - 7833 available (3.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-14T04:46:36.725Z"
+  "lastUpdated": "2025-07-14T05:10:46.083Z"
 }
