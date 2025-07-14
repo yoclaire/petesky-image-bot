@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0253.jpg",
-      "timestamp": "2025-07-11T20:06:51.574Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 182 - 7938 available (2.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0103.jpg",
       "timestamp": "2025-07-11T20:38:00.783Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 281 - 7839 available (3.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0109.jpg",
+      "timestamp": "2025-07-14T01:35:44.143Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 282 - 7838 available (3.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-14T00:55:00.460Z"
+  "lastUpdated": "2025-07-14T01:35:44.143Z"
 }
