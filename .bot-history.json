@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0131.jpg",
-      "timestamp": "2025-07-13T14:05:34.665Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 260 - 7860 available (3.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0215.jpg",
       "timestamp": "2025-07-13T14:37:08.217Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 20,
       "cycleInfo": "Post 359 - 7761 available (4.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0155.jpg",
+      "timestamp": "2025-07-15T19:06:27.278Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 360 - 7760 available (4.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-15T18:44:16.012Z"
+  "lastUpdated": "2025-07-15T19:06:27.278Z"
 }
