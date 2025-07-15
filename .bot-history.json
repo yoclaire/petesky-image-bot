@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0157.jpg",
-      "timestamp": "2025-07-12T21:05:26.591Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 229 - 7891 available (2.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0053.jpg",
       "timestamp": "2025-07-12T21:35:15.213Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 328 - 7792 available (4.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0188.jpg",
+      "timestamp": "2025-07-15T03:34:21.148Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 329 - 7791 available (4.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-15T02:44:58.857Z"
+  "lastUpdated": "2025-07-15T03:34:21.148Z"
 }
