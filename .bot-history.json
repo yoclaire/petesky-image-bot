@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0168.jpg",
-      "timestamp": "2025-07-13T11:05:15.591Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 254 - 7866 available (3.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E05_-_Tool_and_Die-0082.jpg",
       "timestamp": "2025-07-13T11:35:02.387Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 353 - 7767 available (4.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0187.jpg",
+      "timestamp": "2025-07-15T16:07:31.600Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 354 - 7766 available (4.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-15T15:38:32.116Z"
+  "lastUpdated": "2025-07-15T16:07:31.600Z"
 }
