@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0215.jpg",
-      "timestamp": "2025-07-13T14:37:08.217Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 261 - 7859 available (3.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0037.jpg",
       "timestamp": "2025-07-13T15:05:31.260Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 360 - 7760 available (4.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0157.jpg",
+      "timestamp": "2025-07-15T19:35:20.659Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 361 - 7759 available (4.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-15T19:06:27.278Z"
+  "lastUpdated": "2025-07-15T19:35:20.659Z"
 }
