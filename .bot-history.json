@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0122.jpg",
-      "timestamp": "2025-07-14T00:55:00.459Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 281 - 7839 available (3.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0109.jpg",
       "timestamp": "2025-07-14T01:35:44.143Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 380 - 7740 available (4.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0272.jpg",
+      "timestamp": "2025-07-16T07:08:13.412Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 381 - 7739 available (4.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-16T06:44:59.635Z"
+  "lastUpdated": "2025-07-16T07:08:13.412Z"
 }
