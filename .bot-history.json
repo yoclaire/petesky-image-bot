@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0080.jpg",
-      "timestamp": "2025-07-14T14:06:54.043Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 305 - 7815 available (3.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E05_-_Time_Tunnel-0289.jpg",
       "timestamp": "2025-07-14T14:39:51.736Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 404 - 7716 available (5.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E08_-_Allnighter-0114.jpg",
+      "timestamp": "2025-07-16T19:06:28.221Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
+      "episode": "S3E8",
+      "season": 3,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 405 - 7715 available (5.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-16T18:44:13.110Z"
+  "lastUpdated": "2025-07-16T19:06:28.221Z"
 }
