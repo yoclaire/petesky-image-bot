@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0004.jpg",
-      "timestamp": "2025-07-14T18:44:42.314Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 314 - 7806 available (3.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E01_-_Grounded_For_Life-0131.jpg",
       "timestamp": "2025-07-14T19:06:49.749Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 413 - 7707 available (5.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E05_-_Dance_Fever-0172.jpg",
+      "timestamp": "2025-07-16T23:36:51.093Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
+      "episode": "S3E5",
+      "season": 3,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 414 - 7706 available (5.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-16T23:06:40.111Z"
+  "lastUpdated": "2025-07-16T23:36:51.093Z"
 }
