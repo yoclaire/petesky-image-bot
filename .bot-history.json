@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0198.jpg",
-      "timestamp": "2025-07-14T11:06:06.648Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 299 - 7821 available (3.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0066.jpg",
       "timestamp": "2025-07-14T11:35:55.331Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 398 - 7722 available (4.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0031.jpg",
+      "timestamp": "2025-07-16T16:07:37.590Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 399 - 7721 available (4.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-16T15:39:02.212Z"
+  "lastUpdated": "2025-07-16T16:07:37.590Z"
 }
