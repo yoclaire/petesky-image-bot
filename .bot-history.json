@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0109.jpg",
-      "timestamp": "2025-07-14T01:35:44.143Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 282 - 7838 available (3.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0144.jpg",
       "timestamp": "2025-07-14T02:45:51.940Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 381 - 7739 available (4.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0080.jpg",
+      "timestamp": "2025-07-16T07:37:53.584Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 382 - 7738 available (4.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-16T07:08:13.412Z"
+  "lastUpdated": "2025-07-16T07:37:53.584Z"
 }
