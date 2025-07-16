@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0076.jpg",
-      "timestamp": "2025-07-14T09:10:21.609Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 295 - 7825 available (3.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E09_-_On_Golden_Pete-0042.jpg",
       "timestamp": "2025-07-14T09:41:32.577Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 394 - 7726 available (4.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0126.jpg",
+      "timestamp": "2025-07-16T14:06:33.938Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 395 - 7725 available (4.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-16T13:45:10.743Z"
+  "lastUpdated": "2025-07-16T14:06:33.938Z"
 }
