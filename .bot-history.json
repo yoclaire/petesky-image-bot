@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0123.jpg",
-      "timestamp": "2025-07-14T08:09:23.815Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 293 - 7827 available (3.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E05_-_Dance_Fever-0117.jpg",
       "timestamp": "2025-07-14T08:44:10.927Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 392 - 7728 available (4.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0070.jpg",
+      "timestamp": "2025-07-16T13:17:38.107Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 393 - 7727 available (4.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-16T12:47:24.484Z"
+  "lastUpdated": "2025-07-16T13:17:38.107Z"
 }
