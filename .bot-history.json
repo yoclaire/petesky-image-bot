@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0188.jpg",
-      "timestamp": "2025-07-15T03:34:21.148Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 329 - 7791 available (4.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0068.jpg",
       "timestamp": "2025-07-15T04:21:07.600Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 428 - 7692 available (5.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0236.jpg",
+      "timestamp": "2025-07-17T08:42:19.628Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 429 - 7691 available (5.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-17T08:08:53.059Z"
+  "lastUpdated": "2025-07-17T08:42:19.628Z"
 }
