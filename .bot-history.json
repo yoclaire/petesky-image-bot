@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x02_-_Freeze_Tag-0003.jpg",
-      "timestamp": "2025-07-15T02:44:58.857Z",
-      "altText": "The Adventures of Pete & Pete - Freeze Tag",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 328 - 7792 available (4.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E05_-_Tool_and_Die-0188.jpg",
       "timestamp": "2025-07-15T03:34:21.148Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 427 - 7693 available (5.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0064.jpg",
+      "timestamp": "2025-07-17T08:08:53.059Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 428 - 7692 available (5.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-17T07:37:33.712Z"
+  "lastUpdated": "2025-07-17T08:08:53.059Z"
 }
