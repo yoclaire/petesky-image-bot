@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0069.jpg",
-      "timestamp": "2025-07-15T14:07:14.800Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 350 - 7770 available (4.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0001.jpg",
       "timestamp": "2025-07-15T14:39:20.341Z",
       "altText": "The Adventures of Pete & Pete - Staremaster",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 449 - 7671 available (5.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E06_-_Don't_Tread_on_Pete-0281.jpg",
+      "timestamp": "2025-07-17T19:06:37.933Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
+      "episode": "S1E6",
+      "season": 1,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 450 - 7670 available (5.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-17T18:44:24.111Z"
+  "lastUpdated": "2025-07-17T19:06:37.933Z"
 }
