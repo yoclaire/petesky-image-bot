@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0004.jpg",
-      "timestamp": "2025-07-14T23:36:24.722Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 324 - 7796 available (4.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0099.jpg",
       "timestamp": "2025-07-15T00:28:05.929Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 423 - 7697 available (5.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0073.jpg",
+      "timestamp": "2025-07-17T06:09:17.097Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 424 - 7696 available (5.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-17T05:41:11.608Z"
+  "lastUpdated": "2025-07-17T06:09:17.097Z"
 }
