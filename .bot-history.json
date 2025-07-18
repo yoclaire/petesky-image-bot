@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0080.jpg",
-      "timestamp": "2025-07-16T07:37:53.584Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 382 - 7738 available (4.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0039.jpg",
       "timestamp": "2025-07-16T08:08:42.671Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 481 - 7639 available (5.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0141.jpg",
+      "timestamp": "2025-07-18T12:47:47.371Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 482 - 7638 available (5.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-18T12:11:02.713Z"
+  "lastUpdated": "2025-07-18T12:47:47.371Z"
 }
