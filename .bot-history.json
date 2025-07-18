@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0055.jpg",
-      "timestamp": "2025-07-15T23:36:20.562Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 369 - 7751 available (4.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0058.jpg",
       "timestamp": "2025-07-16T00:27:25.254Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 468 - 7652 available (5.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0153.jpg",
+      "timestamp": "2025-07-18T06:09:21.994Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 469 - 7651 available (5.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-18T05:42:11.582Z"
+  "lastUpdated": "2025-07-18T06:09:21.994Z"
 }
