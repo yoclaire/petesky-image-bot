@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0157.jpg",
-      "timestamp": "2025-07-15T19:35:20.659Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 361 - 7759 available (4.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0031.jpg",
       "timestamp": "2025-07-15T20:06:49.696Z",
       "altText": "The Adventures of Pete & Pete - Staremaster",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 1,
       "cycleInfo": "Post 460 - 7660 available (5.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0129.jpg",
+      "timestamp": "2025-07-18T00:52:14.715Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 461 - 7659 available (5.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-18T00:27:15.345Z"
+  "lastUpdated": "2025-07-18T00:52:14.715Z"
 }
