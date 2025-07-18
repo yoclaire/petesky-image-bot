@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0213.jpg",
-      "timestamp": "2025-07-15T23:05:50.452Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 368 - 7752 available (4.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0055.jpg",
       "timestamp": "2025-07-15T23:36:20.562Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 13,
       "cycleInfo": "Post 467 - 7653 available (5.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0152.jpg",
+      "timestamp": "2025-07-18T05:42:11.582Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 468 - 7652 available (5.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-18T05:11:17.303Z"
+  "lastUpdated": "2025-07-18T05:42:11.582Z"
 }
