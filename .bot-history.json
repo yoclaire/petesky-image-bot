@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0074.jpg",
-      "timestamp": "2025-07-15T21:05:18.563Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 364 - 7756 available (4.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0109.jpg",
       "timestamp": "2025-07-15T21:36:59.329Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 463 - 7657 available (5.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0163.jpg",
+      "timestamp": "2025-07-18T03:34:03.058Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 464 - 7656 available (5.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-18T02:44:27.096Z"
+  "lastUpdated": "2025-07-18T03:34:03.058Z"
 }
