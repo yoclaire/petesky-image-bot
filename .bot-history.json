@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E03_-_The_Nightcrawlers-0167.jpg",
-      "timestamp": "2025-07-17T10:07:04.039Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
-      "episode": "S1E3",
-      "season": 1,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 432 - 7688 available (5.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0127.jpg",
       "timestamp": "2025-07-17T10:40:51.776Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 531 - 7589 available (6.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0252.jpg",
+      "timestamp": "2025-07-19T15:06:22.477Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 532 - 7588 available (6.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-19T14:37:45.900Z"
+  "lastUpdated": "2025-07-19T15:06:22.478Z"
 }
