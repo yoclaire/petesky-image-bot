@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0213.jpg",
-      "timestamp": "2025-07-18T11:06:09.743Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 479 - 7641 available (5.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0097.jpg",
       "timestamp": "2025-07-18T11:36:19.308Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 578 - 7542 available (7.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0239.jpg",
+      "timestamp": "2025-07-20T16:39:52.499Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 579 - 7541 available (7.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-20T16:06:40.767Z"
+  "lastUpdated": "2025-07-20T16:39:52.499Z"
 }
