@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x15_-_The_Burping_Room-0007.jpg",
-      "timestamp": "2025-07-17T23:36:46.646Z",
-      "altText": "The Adventures of Pete & Pete - The Burping Room",
-      "episode": "S0E15",
-      "season": 0,
-      "episodeNumber": 15,
-      "cycleInfo": "Post 459 - 7661 available (5.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0268.jpg",
       "timestamp": "2025-07-18T00:27:15.345Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 558 - 7562 available (6.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0058.jpg",
+      "timestamp": "2025-07-20T06:42:54.328Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 559 - 7561 available (6.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-20T06:08:41.734Z"
+  "lastUpdated": "2025-07-20T06:42:54.328Z"
 }
