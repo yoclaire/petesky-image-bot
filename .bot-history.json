@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0066.jpg",
-      "timestamp": "2025-07-18T06:45:11.739Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 470 - 7650 available (5.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0088.jpg",
       "timestamp": "2025-07-18T07:08:46.617Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 569 - 7551 available (7.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E02_-_Field_of_Pete-0136.jpg",
+      "timestamp": "2025-07-20T12:09:51.449Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
+      "episode": "S2E2",
+      "season": 2,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 570 - 7550 available (7.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-20T11:34:47.645Z"
+  "lastUpdated": "2025-07-20T12:09:51.449Z"
 }
