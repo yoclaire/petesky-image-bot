@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0073.jpg",
-      "timestamp": "2025-07-18T22:39:00.842Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 502 - 7618 available (6.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0194.jpg",
       "timestamp": "2025-07-18T23:06:27.519Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 601 - 7519 available (7.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0047.jpg",
+      "timestamp": "2025-07-21T05:42:26.091Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 602 - 7518 available (7.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-21T05:11:55.988Z"
+  "lastUpdated": "2025-07-21T05:42:26.091Z"
 }
