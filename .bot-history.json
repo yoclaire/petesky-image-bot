@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0075.jpg",
-      "timestamp": "2025-07-19T04:42:21.419Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 511 - 7609 available (6.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0219.jpg",
       "timestamp": "2025-07-19T05:08:34.078Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 610 - 7510 available (7.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0076.jpg",
+      "timestamp": "2025-07-21T10:07:17.379Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
+      "episode": "S2E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 611 - 7509 available (7.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-21T09:41:30.589Z"
+  "lastUpdated": "2025-07-21T10:07:17.379Z"
 }
