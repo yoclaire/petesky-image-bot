@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E09_-_Road_Warrior-0205.jpg",
-      "timestamp": "2025-07-19T11:05:41.620Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
-      "episode": "S3E9",
-      "season": 3,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 524 - 7596 available (6.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0178.jpg",
       "timestamp": "2025-07-19T11:34:48.903Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 623 - 7497 available (7.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0046.jpg",
+      "timestamp": "2025-07-21T16:42:03.913Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 624 - 7496 available (7.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-21T16:07:16.447Z"
+  "lastUpdated": "2025-07-21T16:42:03.913Z"
 }
