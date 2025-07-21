@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0058.jpg",
-      "timestamp": "2025-07-19T07:35:41.470Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 517 - 7603 available (6.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0102.jpg",
       "timestamp": "2025-07-19T08:07:44.715Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 616 - 7504 available (7.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0130.jpg",
+      "timestamp": "2025-07-21T13:18:08.769Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 617 - 7503 available (7.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-21T12:47:28.116Z"
+  "lastUpdated": "2025-07-21T13:18:08.769Z"
 }
