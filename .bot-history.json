@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0063.jpg",
-      "timestamp": "2025-07-19T07:06:36.882Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 516 - 7604 available (6.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0058.jpg",
       "timestamp": "2025-07-19T07:35:41.470Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 615 - 7505 available (7.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E13_-_Sick_Day-0100.jpg",
+      "timestamp": "2025-07-21T12:47:28.116Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
+      "episode": "S2E13",
+      "season": 2,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 616 - 7504 available (7.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-21T12:11:17.561Z"
+  "lastUpdated": "2025-07-21T12:47:28.116Z"
 }
