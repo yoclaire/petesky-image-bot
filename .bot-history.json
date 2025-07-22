@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0058.jpg",
-      "timestamp": "2025-07-20T06:42:54.328Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 559 - 7561 available (6.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0191.jpg",
       "timestamp": "2025-07-20T07:05:57.087Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 4,
       "cycleInfo": "Post 658 - 7462 available (8.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0015.jpg",
+      "timestamp": "2025-07-22T11:36:06.474Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 659 - 7461 available (8.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-22T11:06:08.930Z"
+  "lastUpdated": "2025-07-22T11:36:06.474Z"
 }
