@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0136.jpg",
-      "timestamp": "2025-07-20T12:09:51.449Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 570 - 7550 available (7.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0199.jpg",
       "timestamp": "2025-07-20T12:46:59.941Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 669 - 7451 available (8.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0244.jpg",
+      "timestamp": "2025-07-22T17:10:28.211Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 670 - 7450 available (8.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-22T16:42:33.115Z"
+  "lastUpdated": "2025-07-22T17:10:28.212Z"
 }
