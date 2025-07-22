@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0283.jpg",
-      "timestamp": "2025-07-19T21:05:37.490Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 544 - 7576 available (6.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0030.jpg",
       "timestamp": "2025-07-19T21:36:04.847Z",
       "altText": "The Adventures of Pete & Pete - Staremaster",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 643 - 7477 available (7.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0107.jpg",
+      "timestamp": "2025-07-22T04:19:43.764Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 644 - 7476 available (7.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-22T03:34:21.912Z"
+  "lastUpdated": "2025-07-22T04:19:43.764Z"
 }
