@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0117.jpg",
-      "timestamp": "2025-07-20T19:05:05.240Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 584 - 7536 available (7.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0267.jpg",
       "timestamp": "2025-07-20T19:34:17.724Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 1,
       "cycleInfo": "Post 683 - 7437 available (8.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0183.jpg",
+      "timestamp": "2025-07-23T00:27:53.721Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 684 - 7436 available (8.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-22T23:36:46.320Z"
+  "lastUpdated": "2025-07-23T00:27:53.721Z"
 }
