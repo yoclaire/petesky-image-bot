@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E01_-_Valentine's_Day_Massacre-0184.jpg",
-      "timestamp": "2025-07-21T15:39:19.574Z",
-      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
-      "episode": "S0E1",
-      "season": 0,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 622 - 7498 available (7.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0238.jpg",
       "timestamp": "2025-07-21T16:07:16.447Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 721 - 7399 available (8.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E13_-_Sick_Day-0001.jpg",
+      "timestamp": "2025-07-23T20:39:04.823Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
+      "episode": "S2E13",
+      "season": 2,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 722 - 7398 available (8.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-23T20:07:11.348Z"
+  "lastUpdated": "2025-07-23T20:39:04.823Z"
 }
