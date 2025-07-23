@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0107.jpg",
-      "timestamp": "2025-07-21T05:11:55.988Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 601 - 7519 available (7.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0047.jpg",
       "timestamp": "2025-07-21T05:42:26.091Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 7,
       "cycleInfo": "Post 700 - 7420 available (8.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E07_-_Last_Laugh-0037.jpg",
+      "timestamp": "2025-07-23T10:06:58.948Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
+      "episode": "S3E7",
+      "season": 3,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 701 - 7419 available (8.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-23T09:41:02.624Z"
+  "lastUpdated": "2025-07-23T10:06:58.948Z"
 }
