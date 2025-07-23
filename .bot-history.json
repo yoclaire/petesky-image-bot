@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E07_-_Inspector_34-0099.jpg",
-      "timestamp": "2025-07-20T20:06:36.556Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
-      "episode": "S2E7",
-      "season": 2,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 586 - 7534 available (7.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E06_-_Don't_Tread_on_Pete-0108.jpg",
       "timestamp": "2025-07-20T20:37:43.295Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 685 - 7435 available (8.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0133.jpg",
+      "timestamp": "2025-07-23T01:35:32.906Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 686 - 7434 available (8.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-23T00:53:19.914Z"
+  "lastUpdated": "2025-07-23T01:35:32.906Z"
 }
