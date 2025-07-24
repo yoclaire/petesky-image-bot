@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0244.jpg",
-      "timestamp": "2025-07-22T17:10:28.211Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 670 - 7450 available (8.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0116.jpg",
       "timestamp": "2025-07-22T17:39:14.265Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 769 - 7351 available (9.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0298.jpg",
+      "timestamp": "2025-07-24T22:06:43.835Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 770 - 7350 available (9.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-24T21:36:52.105Z"
+  "lastUpdated": "2025-07-24T22:06:43.835Z"
 }
