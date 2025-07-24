@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0062.jpg",
-      "timestamp": "2025-07-22T18:44:25.942Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
-      "episode": "S2E10",
-      "season": 2,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 673 - 7447 available (8.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0205.jpg",
       "timestamp": "2025-07-22T19:06:31.202Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 772 - 7348 available (9.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0165.jpg",
+      "timestamp": "2025-07-24T23:36:56.919Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 773 - 7347 available (9.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-24T23:06:26.192Z"
+  "lastUpdated": "2025-07-24T23:36:56.920Z"
 }
