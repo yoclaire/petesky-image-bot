@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E09_-_Road_Warrior-0107.jpg",
-      "timestamp": "2025-07-22T04:19:43.764Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
-      "episode": "S3E9",
-      "season": 3,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 644 - 7476 available (7.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0096.jpg",
       "timestamp": "2025-07-22T04:45:47.265Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 743 - 7377 available (9.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0050.jpg",
+      "timestamp": "2025-07-24T09:09:08.964Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 744 - 7376 available (9.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-24T08:42:44.317Z"
+  "lastUpdated": "2025-07-24T09:09:08.964Z"
 }
