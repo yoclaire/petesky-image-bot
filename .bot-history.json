@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E12_-_Das_Bus-0293.jpg",
-      "timestamp": "2025-07-23T18:07:53.769Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
-      "episode": "S3E12",
-      "season": 3,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 717 - 7403 available (8.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0054.jpg",
       "timestamp": "2025-07-23T18:44:12.916Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 816 - 7304 available (10.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0148.jpg",
+      "timestamp": "2025-07-25T23:06:39.531Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 817 - 7303 available (10.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-25T22:39:16.976Z"
+  "lastUpdated": "2025-07-25T23:06:39.531Z"
 }
