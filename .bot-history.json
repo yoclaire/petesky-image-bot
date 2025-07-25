@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0077.jpg",
-      "timestamp": "2025-07-23T10:41:26.578Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 702 - 7418 available (8.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0143.jpg",
       "timestamp": "2025-07-23T11:06:18.593Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 801 - 7319 available (9.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x01_-_What_Would_You_Do_for_a_Dollar-0012.jpg",
+      "timestamp": "2025-07-25T15:38:33.047Z",
+      "altText": "The Adventures of Pete & Pete - What Would You Do for a Dollar",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 802 - 7318 available (9.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-25T15:06:39.438Z"
+  "lastUpdated": "2025-07-25T15:38:33.047Z"
 }
