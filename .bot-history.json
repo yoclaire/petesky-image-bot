@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0032.jpg",
-      "timestamp": "2025-07-23T00:53:19.914Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 685 - 7435 available (8.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0133.jpg",
       "timestamp": "2025-07-23T01:35:32.906Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 1,
       "cycleInfo": "Post 784 - 7336 available (9.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0145.jpg",
+      "timestamp": "2025-07-25T07:08:42.580Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 785 - 7335 available (9.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-25T06:45:13.377Z"
+  "lastUpdated": "2025-07-25T07:08:42.580Z"
 }
