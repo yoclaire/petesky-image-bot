@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0150.jpg",
-      "timestamp": "2025-07-23T14:07:35.404Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 709 - 7411 available (8.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0044.jpg",
       "timestamp": "2025-07-23T14:40:43.852Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 808 - 7312 available (10.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0167.jpg",
+      "timestamp": "2025-07-25T19:06:22.483Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 809 - 7311 available (10.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-25T18:44:11.601Z"
+  "lastUpdated": "2025-07-25T19:06:22.483Z"
 }
