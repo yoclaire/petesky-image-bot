@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0128.jpg",
-      "timestamp": "2025-07-23T05:42:48.238Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 692 - 7428 available (8.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0146.jpg",
       "timestamp": "2025-07-23T06:09:41.220Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 791 - 7329 available (9.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0113.jpg",
+      "timestamp": "2025-07-25T10:41:20.717Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 792 - 7328 available (9.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-25T10:06:55.484Z"
+  "lastUpdated": "2025-07-25T10:41:20.717Z"
 }
