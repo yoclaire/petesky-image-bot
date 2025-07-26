@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0115.jpg",
-      "timestamp": "2025-07-24T01:35:19.509Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 731 - 7389 available (9.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0083.jpg",
       "timestamp": "2025-07-24T02:43:59.246Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 4,
       "cycleInfo": "Post 830 - 7290 available (10.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E08_-_Allnighter-0139.jpg",
+      "timestamp": "2025-07-26T07:36:07.340Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
+      "episode": "S3E8",
+      "season": 3,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 831 - 7289 available (10.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-26T07:06:57.223Z"
+  "lastUpdated": "2025-07-26T07:36:07.340Z"
 }
