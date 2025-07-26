@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0177.jpg",
-      "timestamp": "2025-07-23T21:36:54.575Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 724 - 7396 available (8.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0204.jpg",
       "timestamp": "2025-07-23T22:06:06.459Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 823 - 7297 available (10.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x17_-_Halloween-0004.jpg",
+      "timestamp": "2025-07-26T04:17:27.313Z",
+      "altText": "The Adventures of Pete & Pete - Halloween",
+      "episode": "S0E17",
+      "season": 0,
+      "episodeNumber": 17,
+      "cycleInfo": "Post 824 - 7296 available (10.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-26T03:34:03.070Z"
+  "lastUpdated": "2025-07-26T04:17:27.313Z"
 }
