@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0204.jpg",
-      "timestamp": "2025-07-23T22:06:06.459Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 725 - 7395 available (8.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0135.jpg",
       "timestamp": "2025-07-23T22:39:07.022Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 17,
       "cycleInfo": "Post 824 - 7296 available (10.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0104.jpg",
+      "timestamp": "2025-07-26T04:44:44.047Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 825 - 7295 available (10.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-26T04:17:27.313Z"
+  "lastUpdated": "2025-07-26T04:44:44.047Z"
 }
