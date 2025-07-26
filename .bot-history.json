@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0115.jpg",
-      "timestamp": "2025-07-23T19:35:45.643Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 720 - 7400 available (8.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0230.jpg",
       "timestamp": "2025-07-23T20:07:11.348Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 819 - 7301 available (10.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0173.jpg",
+      "timestamp": "2025-07-26T00:51:50.794Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 820 - 7300 available (10.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-26T00:26:51.487Z"
+  "lastUpdated": "2025-07-26T00:51:50.794Z"
 }
