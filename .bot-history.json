@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0042.jpg",
-      "timestamp": "2025-07-24T03:34:25.936Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 733 - 7387 available (9.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E05_-_Tool_and_Die-0135.jpg",
       "timestamp": "2025-07-24T04:20:08.418Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 16,
       "cycleInfo": "Post 832 - 7288 available (10.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0155.jpg",
+      "timestamp": "2025-07-26T08:40:17.001Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 833 - 7287 available (10.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-26T08:07:31.623Z"
+  "lastUpdated": "2025-07-26T08:40:17.001Z"
 }
