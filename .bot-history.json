@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E09_-_Road_Warrior-0111.jpg",
-      "timestamp": "2025-07-23T23:06:20.841Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
-      "episode": "S3E9",
-      "season": 3,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 727 - 7393 available (9.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0093.jpg",
       "timestamp": "2025-07-23T23:37:02.369Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 826 - 7294 available (10.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E06_-_Don't_Tread_on_Pete-0096.jpg",
+      "timestamp": "2025-07-26T05:39:57.519Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
+      "episode": "S1E6",
+      "season": 1,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 827 - 7293 available (10.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-26T05:08:48.027Z"
+  "lastUpdated": "2025-07-26T05:39:57.519Z"
 }
