@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0088.jpg",
-      "timestamp": "2025-07-25T14:07:12.485Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 799 - 7321 available (9.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0106.jpg",
       "timestamp": "2025-07-25T14:39:28.996Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 8,
       "cycleInfo": "Post 898 - 7222 available (11.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0275.jpg",
+      "timestamp": "2025-07-27T19:34:55.088Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 899 - 7221 available (11.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-27T19:05:50.171Z"
+  "lastUpdated": "2025-07-27T19:34:55.088Z"
 }
