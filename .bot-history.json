@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0162.jpg",
-      "timestamp": "2025-07-25T06:45:13.377Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 784 - 7336 available (9.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E05_-_Time_Tunnel-0145.jpg",
       "timestamp": "2025-07-25T07:08:42.580Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 13,
       "cycleInfo": "Post 883 - 7237 available (10.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0099.jpg",
+      "timestamp": "2025-07-27T12:10:00.932Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 884 - 7236 available (10.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-27T11:34:45.360Z"
+  "lastUpdated": "2025-07-27T12:10:00.932Z"
 }
