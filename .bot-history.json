@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0053.jpg",
-      "timestamp": "2025-07-25T16:41:48.411Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 804 - 7316 available (9.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0202.jpg",
       "timestamp": "2025-07-25T17:07:19.053Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 903 - 7217 available (11.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0187.jpg",
+      "timestamp": "2025-07-27T22:05:59.457Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 904 - 7216 available (11.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-27T21:36:01.017Z"
+  "lastUpdated": "2025-07-27T22:05:59.457Z"
 }
