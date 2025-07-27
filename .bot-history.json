@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0152.jpg",
-      "timestamp": "2025-07-24T20:06:09.534Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 766 - 7354 available (9.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0195.jpg",
       "timestamp": "2025-07-24T20:38:27.918Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 3,
       "cycleInfo": "Post 865 - 7255 available (10.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0252.jpg",
+      "timestamp": "2025-07-27T02:50:26.118Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 866 - 7254 available (10.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-27T01:35:30.946Z"
+  "lastUpdated": "2025-07-27T02:50:26.118Z"
 }
