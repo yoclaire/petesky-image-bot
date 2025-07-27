@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0195.jpg",
-      "timestamp": "2025-07-24T20:38:27.918Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 767 - 7353 available (9.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0042.jpg",
       "timestamp": "2025-07-24T21:06:25.304Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 866 - 7254 available (10.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E07_-_Last_Laugh-0074.jpg",
+      "timestamp": "2025-07-27T03:37:05.546Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
+      "episode": "S3E7",
+      "season": 3,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 867 - 7253 available (10.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-27T02:50:26.118Z"
+  "lastUpdated": "2025-07-27T03:37:05.546Z"
 }
