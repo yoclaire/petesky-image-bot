@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0004.jpg",
-      "timestamp": "2025-07-25T09:09:08.689Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 789 - 7331 available (9.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0016.jpg",
       "timestamp": "2025-07-25T09:40:26.298Z",
       "altText": "The Adventures of Pete & Pete - Staremaster",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 17,
       "cycleInfo": "Post 888 - 7232 available (10.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0194.jpg",
+      "timestamp": "2025-07-27T14:37:53.905Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 889 - 7231 available (10.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-27T14:05:44.648Z"
+  "lastUpdated": "2025-07-27T14:37:53.905Z"
 }
