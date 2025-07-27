@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0016.jpg",
-      "timestamp": "2025-07-25T09:40:26.298Z",
-      "altText": "The Adventures of Pete & Pete - Staremaster",
-      "episode": "S0E26",
-      "season": 0,
-      "episodeNumber": 26,
-      "cycleInfo": "Post 790 - 7330 available (9.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0100.jpg",
       "timestamp": "2025-07-25T10:06:55.484Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 889 - 7231 available (10.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0141.jpg",
+      "timestamp": "2025-07-27T15:05:55.651Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 890 - 7230 available (11.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-27T14:37:53.905Z"
+  "lastUpdated": "2025-07-27T15:05:55.651Z"
 }
