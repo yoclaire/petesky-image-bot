@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0155.jpg",
-      "timestamp": "2025-07-26T08:40:17.001Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 833 - 7287 available (10.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0237.jpg",
       "timestamp": "2025-07-26T09:06:13.835Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 932 - 7188 available (11.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0216.jpg",
+      "timestamp": "2025-07-28T14:07:58.634Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 933 - 7187 available (11.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-28T13:45:50.300Z"
+  "lastUpdated": "2025-07-28T14:07:58.635Z"
 }
