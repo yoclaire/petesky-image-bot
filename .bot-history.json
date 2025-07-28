@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0118.jpg",
-      "timestamp": "2025-07-26T06:43:16.006Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 829 - 7291 available (10.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0217.jpg",
       "timestamp": "2025-07-26T07:06:57.223Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 928 - 7192 available (11.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E03_-_The_Call-0006.jpg",
+      "timestamp": "2025-07-28T12:11:13.977Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
+      "episode": "S2E3",
+      "season": 2,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 929 - 7191 available (11.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-28T11:36:22.402Z"
+  "lastUpdated": "2025-07-28T12:11:13.977Z"
 }
