@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0189.jpg",
-      "timestamp": "2025-07-26T12:47:05.666Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 841 - 7279 available (10.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0197.jpg",
       "timestamp": "2025-07-26T13:14:02.112Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 940 - 7180 available (11.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0029.jpg",
+      "timestamp": "2025-07-28T18:08:55.973Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 941 - 7179 available (11.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-28T17:38:58.380Z"
+  "lastUpdated": "2025-07-28T18:08:55.973Z"
 }
