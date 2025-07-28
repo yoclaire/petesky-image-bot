@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E13_-_Sick_Day-0238.jpg",
-      "timestamp": "2025-07-26T14:38:22.159Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
-      "episode": "S2E13",
-      "season": 2,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 845 - 7275 available (10.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0114.jpg",
       "timestamp": "2025-07-26T15:06:13.022Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 944 - 7176 available (11.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0069.jpg",
+      "timestamp": "2025-07-28T20:07:03.255Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 945 - 7175 available (11.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-28T19:35:40.272Z"
+  "lastUpdated": "2025-07-28T20:07:03.255Z"
 }
