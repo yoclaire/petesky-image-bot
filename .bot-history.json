@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0223.jpg",
-      "timestamp": "2025-07-25T20:06:47.553Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 811 - 7309 available (10.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0160.jpg",
       "timestamp": "2025-07-25T20:38:48.488Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 910 - 7210 available (11.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0093.jpg",
+      "timestamp": "2025-07-28T02:49:16.384Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 911 - 7209 available (11.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-28T01:38:13.638Z"
+  "lastUpdated": "2025-07-28T02:49:16.384Z"
 }
