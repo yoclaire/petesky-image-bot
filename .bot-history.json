@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0265.jpg",
-      "timestamp": "2025-07-26T11:05:39.266Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 838 - 7282 available (10.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E06_-_Don't_Tread_on_Pete-0148.jpg",
       "timestamp": "2025-07-26T11:35:12.532Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 937 - 7183 available (11.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0102.jpg",
+      "timestamp": "2025-07-28T16:42:45.548Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 938 - 7182 available (11.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-28T16:07:35.455Z"
+  "lastUpdated": "2025-07-28T16:42:45.548Z"
 }
