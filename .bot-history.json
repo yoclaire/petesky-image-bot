@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0168.jpg",
-      "timestamp": "2025-07-26T12:09:32.723Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 840 - 7280 available (10.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0189.jpg",
       "timestamp": "2025-07-26T12:47:05.666Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 939 - 7181 available (11.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0213.jpg",
+      "timestamp": "2025-07-28T17:38:58.380Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 940 - 7180 available (11.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-28T17:08:31.842Z"
+  "lastUpdated": "2025-07-28T17:38:58.380Z"
 }
