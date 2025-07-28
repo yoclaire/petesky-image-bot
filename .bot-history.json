@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0286.jpg",
-      "timestamp": "2025-07-26T14:05:32.796Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 844 - 7276 available (10.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0238.jpg",
       "timestamp": "2025-07-26T14:38:22.159Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 6,
       "cycleInfo": "Post 943 - 7177 available (11.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E05_-_Dance_Fever-0108.jpg",
+      "timestamp": "2025-07-28T19:35:40.272Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
+      "episode": "S3E5",
+      "season": 3,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 944 - 7176 available (11.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-28T19:07:12.112Z"
+  "lastUpdated": "2025-07-28T19:35:40.272Z"
 }
