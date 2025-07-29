@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E03_-_The_Nightcrawlers-0099.jpg",
-      "timestamp": "2025-07-27T12:10:00.932Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
-      "episode": "S1E3",
-      "season": 1,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 884 - 7236 available (10.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0036.jpg",
       "timestamp": "2025-07-27T12:47:00.176Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 983 - 7137 available (12.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E09_-_On_Golden_Pete-0185.jpg",
+      "timestamp": "2025-07-29T18:45:34.516Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
+      "episode": "S2E9",
+      "season": 2,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 984 - 7136 available (12.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-29T18:09:00.841Z"
+  "lastUpdated": "2025-07-29T18:45:34.516Z"
 }
