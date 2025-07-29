@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0001.jpg",
-      "timestamp": "2025-07-27T09:37:17.171Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 879 - 7241 available (10.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0088.jpg",
       "timestamp": "2025-07-27T10:06:24.110Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 978 - 7142 available (12.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x18_-_The_Dot-0004.jpg",
+      "timestamp": "2025-07-29T16:08:05.318Z",
+      "altText": "The Adventures of Pete & Pete - The Dot",
+      "episode": "S0E18",
+      "season": 0,
+      "episodeNumber": 18,
+      "cycleInfo": "Post 979 - 7141 available (12.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-29T15:40:19.552Z"
+  "lastUpdated": "2025-07-29T16:08:05.318Z"
 }
