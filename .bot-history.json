@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0020.jpg",
-      "timestamp": "2025-07-27T08:40:20.427Z",
-      "altText": "The Adventures of Pete & Pete - The Artie Workout",
-      "episode": "S0E25",
-      "season": 0,
-      "episodeNumber": 25,
-      "cycleInfo": "Post 877 - 7243 available (10.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0160.jpg",
       "timestamp": "2025-07-27T09:06:25.151Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 4,
       "cycleInfo": "Post 976 - 7144 available (12.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0129.jpg",
+      "timestamp": "2025-07-29T15:08:11.410Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 977 - 7143 available (12.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-29T14:41:36.806Z"
+  "lastUpdated": "2025-07-29T15:08:11.410Z"
 }
