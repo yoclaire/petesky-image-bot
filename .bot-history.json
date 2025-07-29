@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0075.jpg",
-      "timestamp": "2025-07-27T08:07:37.047Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 876 - 7244 available (10.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0020.jpg",
       "timestamp": "2025-07-27T08:40:20.427Z",
       "altText": "The Adventures of Pete & Pete - The Artie Workout",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 975 - 7145 available (12.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0084.jpg",
+      "timestamp": "2025-07-29T14:41:36.806Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 976 - 7144 available (12.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-29T14:08:58.984Z"
+  "lastUpdated": "2025-07-29T14:41:36.806Z"
 }
