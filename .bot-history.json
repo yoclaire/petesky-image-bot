@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E06_-_Don't_Tread_on_Pete-0279.jpg",
-      "timestamp": "2025-07-27T10:39:42.154Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
-      "episode": "S1E6",
-      "season": 1,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 881 - 7239 available (10.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0239.jpg",
       "timestamp": "2025-07-27T11:05:14.335Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 980 - 7140 available (12.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0056.jpg",
+      "timestamp": "2025-07-29T17:08:22.514Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 981 - 7139 available (12.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-29T16:42:29.625Z"
+  "lastUpdated": "2025-07-29T17:08:22.514Z"
 }
