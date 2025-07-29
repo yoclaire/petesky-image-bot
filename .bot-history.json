@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0261.jpg",
-      "timestamp": "2025-07-26T18:42:11.440Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 853 - 7267 available (10.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0077.jpg",
       "timestamp": "2025-07-26T19:05:10.890Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 952 - 7168 available (11.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0125.jpg",
+      "timestamp": "2025-07-29T01:36:32.747Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 953 - 7167 available (11.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-29T00:30:43.064Z"
+  "lastUpdated": "2025-07-29T01:36:32.747Z"
 }
