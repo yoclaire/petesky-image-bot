@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E13_-_Saturday-0067.jpg",
-      "timestamp": "2025-07-27T11:34:45.360Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
-      "episode": "S3E13",
-      "season": 3,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 883 - 7237 available (10.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0099.jpg",
       "timestamp": "2025-07-27T12:10:00.932Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 982 - 7138 available (12.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E02_-_Field_of_Pete-0049.jpg",
+      "timestamp": "2025-07-29T18:09:00.841Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
+      "episode": "S2E2",
+      "season": 2,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 983 - 7137 available (12.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-29T17:39:54.846Z"
+  "lastUpdated": "2025-07-29T18:09:00.841Z"
 }
