@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E12_-_Das_Bus-0077.jpg",
-      "timestamp": "2025-07-26T19:05:10.890Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
-      "episode": "S3E12",
-      "season": 3,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 854 - 7266 available (10.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0094.jpg",
       "timestamp": "2025-07-26T19:34:18.009Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 953 - 7167 available (11.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0037.jpg",
+      "timestamp": "2025-07-29T02:51:40.962Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 954 - 7166 available (11.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-29T01:36:32.747Z"
+  "lastUpdated": "2025-07-29T02:51:40.962Z"
 }
