@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0216.jpg",
-      "timestamp": "2025-07-28T14:07:58.634Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 933 - 7187 available (11.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0226.jpg",
       "timestamp": "2025-07-28T14:40:53.294Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 1032 - 7088 available (12.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0065.jpg",
+      "timestamp": "2025-07-30T20:38:16.532Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 1033 - 7087 available (12.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-30T20:06:27.298Z"
+  "lastUpdated": "2025-07-30T20:38:16.532Z"
 }
