@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E13_-_Sick_Day-0201.jpg",
-      "timestamp": "2025-07-28T13:45:50.300Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
-      "episode": "S2E13",
-      "season": 2,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 932 - 7188 available (11.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0216.jpg",
       "timestamp": "2025-07-28T14:07:58.634Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 1031 - 7089 available (12.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E01_-_Valentine's_Day_Massacre-0172.jpg",
+      "timestamp": "2025-07-30T20:06:27.298Z",
+      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1032 - 7088 available (12.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-30T19:35:51.046Z"
+  "lastUpdated": "2025-07-30T20:06:27.298Z"
 }
