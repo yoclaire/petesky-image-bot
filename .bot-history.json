@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E07_-_Inspector_34-0226.jpg",
-      "timestamp": "2025-07-28T14:40:53.294Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
-      "episode": "S2E7",
-      "season": 2,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 934 - 7186 available (11.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0107.jpg",
       "timestamp": "2025-07-28T15:07:19.814Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 1033 - 7087 available (12.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0002.jpg",
+      "timestamp": "2025-07-30T21:06:03.129Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1034 - 7086 available (12.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-30T20:38:16.532Z"
+  "lastUpdated": "2025-07-30T21:06:03.129Z"
 }
