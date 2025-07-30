@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0093.jpg",
-      "timestamp": "2025-07-28T02:49:16.384Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 911 - 7209 available (11.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0008.jpg",
       "timestamp": "2025-07-28T03:36:30.148Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 1010 - 7110 available (12.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0086.jpg",
+      "timestamp": "2025-07-30T09:42:04.735Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1011 - 7109 available (12.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-30T09:10:34.554Z"
+  "lastUpdated": "2025-07-30T09:42:04.735Z"
 }
