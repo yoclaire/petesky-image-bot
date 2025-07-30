@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x16_-_Route_34-0002.jpg",
-      "timestamp": "2025-07-27T23:06:06.998Z",
-      "altText": "The Adventures of Pete & Pete - Route 34",
-      "episode": "S0E16",
-      "season": 0,
-      "episodeNumber": 16,
-      "cycleInfo": "Post 906 - 7214 available (11.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0272.jpg",
       "timestamp": "2025-07-27T23:37:13.321Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 1005 - 7115 available (12.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E13_-_Saturday-0093.jpg",
+      "timestamp": "2025-07-30T07:09:58.607Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
+      "episode": "S3E13",
+      "season": 3,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 1006 - 7114 available (12.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-30T06:46:13.155Z"
+  "lastUpdated": "2025-07-30T07:09:58.607Z"
 }
