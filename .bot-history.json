@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0076.jpg",
-      "timestamp": "2025-07-27T20:38:15.738Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 901 - 7219 available (11.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0008.jpg",
       "timestamp": "2025-07-27T21:05:54.308Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 1000 - 7120 available (12.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0252.jpg",
+      "timestamp": "2025-07-30T04:47:27.598Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1001 - 7119 available (12.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-30T04:22:17.816Z"
+  "lastUpdated": "2025-07-30T04:47:27.598Z"
 }
