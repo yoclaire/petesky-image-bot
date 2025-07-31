@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0108.jpg",
-      "timestamp": "2025-07-28T19:35:40.272Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 944 - 7176 available (11.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0069.jpg",
       "timestamp": "2025-07-28T20:07:03.255Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 1043 - 7077 available (12.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0019.jpg",
+      "timestamp": "2025-07-31T03:35:34.439Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1044 - 7076 available (12.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-31T02:46:17.640Z"
+  "lastUpdated": "2025-07-31T03:35:34.439Z"
 }
