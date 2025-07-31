@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0052.jpg",
-      "timestamp": "2025-07-28T18:45:11.872Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 942 - 7178 available (11.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x06_-_Revenge_of_the_Petes-0001.jpg",
       "timestamp": "2025-07-28T19:07:12.112Z",
       "altText": "The Adventures of Pete & Pete - Revenge of the Petes",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 1041 - 7079 available (12.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0037.jpg",
+      "timestamp": "2025-07-31T01:35:33.989Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1042 - 7078 available (12.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-31T00:53:50.157Z"
+  "lastUpdated": "2025-07-31T01:35:33.989Z"
 }
