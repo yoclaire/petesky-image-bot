@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0064.jpg",
-      "timestamp": "2025-07-29T15:40:19.552Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 978 - 7142 available (12.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x18_-_The_Dot-0004.jpg",
       "timestamp": "2025-07-29T16:08:05.318Z",
       "altText": "The Adventures of Pete & Pete - The Dot",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 1077 - 7043 available (13.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x18_-_The_Dot-0001.jpg",
+      "timestamp": "2025-07-31T20:39:20.419Z",
+      "altText": "The Adventures of Pete & Pete - The Dot",
+      "episode": "S0E18",
+      "season": 0,
+      "episodeNumber": 18,
+      "cycleInfo": "Post 1078 - 7042 available (13.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-31T20:07:03.558Z"
+  "lastUpdated": "2025-07-31T20:39:20.419Z"
 }
