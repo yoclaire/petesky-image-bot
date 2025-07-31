@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0049.jpg",
-      "timestamp": "2025-07-29T18:09:00.841Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 983 - 7137 available (12.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E09_-_On_Golden_Pete-0185.jpg",
       "timestamp": "2025-07-29T18:45:34.516Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 1082 - 7038 available (13.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0147.jpg",
+      "timestamp": "2025-07-31T23:06:42.210Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 1083 - 7037 available (13.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-31T22:39:29.086Z"
+  "lastUpdated": "2025-07-31T23:06:42.210Z"
 }
