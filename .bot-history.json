@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x18_-_The_Dot-0004.jpg",
-      "timestamp": "2025-07-29T16:08:05.318Z",
-      "altText": "The Adventures of Pete & Pete - The Dot",
-      "episode": "S0E18",
-      "season": 0,
-      "episodeNumber": 18,
-      "cycleInfo": "Post 979 - 7141 available (12.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0066.jpg",
       "timestamp": "2025-07-29T16:42:29.625Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 18,
       "cycleInfo": "Post 1078 - 7042 available (13.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E09_-_On_Golden_Pete-0083.jpg",
+      "timestamp": "2025-07-31T21:06:14.186Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
+      "episode": "S2E9",
+      "season": 2,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 1079 - 7041 available (13.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-07-31T20:39:20.419Z"
+  "lastUpdated": "2025-07-31T21:06:14.186Z"
 }
