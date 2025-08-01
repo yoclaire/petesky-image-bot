@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E03_-_The_Nightcrawlers-0179.jpg",
-      "timestamp": "2025-07-30T00:28:18.109Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
-      "episode": "S1E3",
-      "season": 1,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 995 - 7125 available (12.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0087.jpg",
       "timestamp": "2025-07-30T00:53:56.794Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 1094 - 7026 available (13.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0107.jpg",
+      "timestamp": "2025-08-01T07:10:26.778Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1095 - 7025 available (13.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-01T06:46:15.547Z"
+  "lastUpdated": "2025-08-01T07:10:26.778Z"
 }
