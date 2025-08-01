@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0174.jpg",
-      "timestamp": "2025-07-30T15:06:43.098Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 1022 - 7098 available (12.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0264.jpg",
       "timestamp": "2025-07-30T15:39:28.255Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 1121 - 6999 available (13.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0150.jpg",
+      "timestamp": "2025-08-01T20:39:03.072Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1122 - 6998 available (13.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-01T20:06:58.725Z"
+  "lastUpdated": "2025-08-01T20:39:03.072Z"
 }
