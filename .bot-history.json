@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0002.jpg",
-      "timestamp": "2025-07-30T06:46:13.155Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1005 - 7115 available (12.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0093.jpg",
       "timestamp": "2025-07-30T07:09:58.607Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 1104 - 7016 available (13.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0039.jpg",
+      "timestamp": "2025-08-01T12:11:04.677Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1105 - 7015 available (13.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-01T11:36:05.417Z"
+  "lastUpdated": "2025-08-01T12:11:04.677Z"
 }
