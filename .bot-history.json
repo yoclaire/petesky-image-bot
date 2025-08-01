@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0158.jpg",
-      "timestamp": "2025-07-30T05:43:17.574Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1003 - 7117 available (12.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0038.jpg",
       "timestamp": "2025-07-30T06:10:13.656Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 1102 - 7018 available (13.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0087.jpg",
+      "timestamp": "2025-08-01T11:06:09.314Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1103 - 7017 available (13.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-01T10:41:23.348Z"
+  "lastUpdated": "2025-08-01T11:06:09.314Z"
 }
