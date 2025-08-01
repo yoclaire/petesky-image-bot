@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0060.jpg",
-      "timestamp": "2025-07-29T21:37:16.201Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 990 - 7130 available (12.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E02_-_Field_of_Pete-0007.jpg",
       "timestamp": "2025-07-29T22:06:32.865Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 1089 - 7031 available (13.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0095.jpg",
+      "timestamp": "2025-08-01T04:52:32.409Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 1090 - 7030 available (13.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-01T04:28:46.723Z"
+  "lastUpdated": "2025-08-01T04:52:32.409Z"
 }
