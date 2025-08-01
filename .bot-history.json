@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0124.jpg",
-      "timestamp": "2025-07-29T20:07:06.385Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 987 - 7133 available (12.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0249.jpg",
       "timestamp": "2025-07-29T20:39:26.949Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 1086 - 7034 available (13.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E13_-_Sick_Day-0262.jpg",
+      "timestamp": "2025-08-01T02:53:25.949Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
+      "episode": "S2E13",
+      "season": 2,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 1087 - 7033 available (13.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-01T01:36:19.740Z"
+  "lastUpdated": "2025-08-01T02:53:25.949Z"
 }
