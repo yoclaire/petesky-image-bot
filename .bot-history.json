@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0249.jpg",
-      "timestamp": "2025-07-29T20:39:26.949Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 988 - 7132 available (12.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0157.jpg",
       "timestamp": "2025-07-29T21:06:23.376Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 1087 - 7033 available (13.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0208.jpg",
+      "timestamp": "2025-08-01T03:42:21.447Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1088 - 7032 available (13.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-01T02:53:25.949Z"
+  "lastUpdated": "2025-08-01T03:42:21.447Z"
 }
