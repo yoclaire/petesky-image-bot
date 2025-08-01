@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0090.jpg",
-      "timestamp": "2025-07-30T13:18:59.173Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1018 - 7102 available (12.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0102.jpg",
       "timestamp": "2025-07-30T13:46:12.430Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 1117 - 7003 available (13.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0003.jpg",
+      "timestamp": "2025-08-01T18:44:38.734Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1118 - 7002 available (13.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-01T18:08:37.925Z"
+  "lastUpdated": "2025-08-01T18:44:38.734Z"
 }
