@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0123.jpg",
-      "timestamp": "2025-07-31T13:45:42.451Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1064 - 7056 available (13.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0025.jpg",
       "timestamp": "2025-07-31T14:07:40.228Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 1163 - 6957 available (14.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0213.jpg",
+      "timestamp": "2025-08-02T19:05:29.945Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1164 - 6956 available (14.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-02T18:42:47.640Z"
+  "lastUpdated": "2025-08-02T19:05:29.945Z"
 }
