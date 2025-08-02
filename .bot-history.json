@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E01_-_Valentine's_Day_Massacre-0172.jpg",
-      "timestamp": "2025-07-30T20:06:27.298Z",
-      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
-      "episode": "S0E1",
-      "season": 0,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1032 - 7088 available (12.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0065.jpg",
       "timestamp": "2025-07-30T20:38:16.532Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 2,
       "cycleInfo": "Post 1131 - 6989 available (13.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0258.jpg",
+      "timestamp": "2025-08-02T02:41:17.541Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1132 - 6988 available (13.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-02T01:34:43.098Z"
+  "lastUpdated": "2025-08-02T02:41:17.541Z"
 }
