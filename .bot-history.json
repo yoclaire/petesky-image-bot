@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0176.jpg",
-      "timestamp": "2025-07-31T12:09:52.645Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1061 - 7059 available (13.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0177.jpg",
       "timestamp": "2025-07-31T12:47:27.602Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 1160 - 6960 available (14.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0227.jpg",
+      "timestamp": "2025-08-02T17:38:12.421Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1161 - 6959 available (14.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-02T17:05:41.447Z"
+  "lastUpdated": "2025-08-02T17:38:12.421Z"
 }
