@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0065.jpg",
-      "timestamp": "2025-07-30T20:38:16.532Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1033 - 7087 available (12.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0002.jpg",
       "timestamp": "2025-07-30T21:06:03.129Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 1132 - 6988 available (13.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0213.jpg",
+      "timestamp": "2025-08-02T03:33:20.559Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 1133 - 6987 available (14.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-02T02:41:17.541Z"
+  "lastUpdated": "2025-08-02T03:33:20.559Z"
 }
