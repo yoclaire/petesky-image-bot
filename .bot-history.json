@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E03_-_The_Nightcrawlers-0219.jpg",
-      "timestamp": "2025-08-01T05:15:04.008Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
-      "episode": "S1E3",
-      "season": 1,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 1091 - 7029 available (13.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0093.jpg",
       "timestamp": "2025-08-01T05:43:46.478Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 1190 - 6930 available (14.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0066.jpg",
+      "timestamp": "2025-08-03T10:39:39.005Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1191 - 6929 available (14.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-03T10:06:10.290Z"
+  "lastUpdated": "2025-08-03T10:39:39.005Z"
 }
