@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0248.jpg",
-      "timestamp": "2025-07-31T21:37:21.373Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1080 - 7040 available (13.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x01_-_What_Would_You_Do_for_a_Dollar-0018.jpg",
       "timestamp": "2025-07-31T22:06:33.336Z",
       "altText": "The Adventures of Pete & Pete - What Would You Do for a Dollar",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 1179 - 6941 available (14.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E08_-_Allnighter-0066.jpg",
+      "timestamp": "2025-08-03T05:12:44.611Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
+      "episode": "S3E8",
+      "season": 3,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1180 - 6940 available (14.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-03T04:47:55.266Z"
+  "lastUpdated": "2025-08-03T05:12:44.611Z"
 }
