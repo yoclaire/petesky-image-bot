@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0029.jpg",
-      "timestamp": "2025-08-01T13:45:12.828Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1108 - 7012 available (13.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0151.jpg",
       "timestamp": "2025-08-01T14:07:52.011Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 1207 - 6913 available (14.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0006.jpg",
+      "timestamp": "2025-08-03T19:05:48.745Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 1208 - 6912 available (14.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-03T18:43:07.723Z"
+  "lastUpdated": "2025-08-03T19:05:48.745Z"
 }
