@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0196.jpg",
-      "timestamp": "2025-08-01T14:40:37.364Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1110 - 7010 available (13.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0089.jpg",
       "timestamp": "2025-08-01T15:06:57.179Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 1209 - 6911 available (14.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E02_-_Field_of_Pete-0039.jpg",
+      "timestamp": "2025-08-03T20:06:48.308Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
+      "episode": "S2E2",
+      "season": 2,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1210 - 6910 available (14.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-03T19:35:05.474Z"
+  "lastUpdated": "2025-08-03T20:06:48.308Z"
 }
