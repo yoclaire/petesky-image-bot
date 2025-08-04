@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0131.jpg",
-      "timestamp": "2025-08-02T00:52:07.095Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 1130 - 6990 available (13.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0167.jpg",
       "timestamp": "2025-08-02T01:34:43.098Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 1229 - 6891 available (15.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x17_-_Halloween-0013.jpg",
+      "timestamp": "2025-08-04T08:09:30.998Z",
+      "altText": "The Adventures of Pete & Pete - Halloween",
+      "episode": "S0E17",
+      "season": 0,
+      "episodeNumber": 17,
+      "cycleInfo": "Post 1230 - 6890 available (15.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-04T07:41:32.211Z"
+  "lastUpdated": "2025-08-04T08:09:30.998Z"
 }
