@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0086.jpg",
-      "timestamp": "2025-08-02T10:39:36.613Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1147 - 6973 available (14.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E05_-_Time_Tunnel-0189.jpg",
       "timestamp": "2025-08-02T11:05:29.526Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 5,
       "cycleInfo": "Post 1246 - 6874 available (15.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0133.jpg",
+      "timestamp": "2025-08-04T16:43:51.671Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1247 - 6873 available (15.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-04T16:08:19.814Z"
+  "lastUpdated": "2025-08-04T16:43:51.671Z"
 }
