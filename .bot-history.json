@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E01_-_King_of_The_Road-0061.jpg",
-      "timestamp": "2025-08-02T15:37:20.403Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
-      "episode": "S1E1",
-      "season": 1,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1157 - 6963 available (14.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E09_-_On_Golden_Pete-0079.jpg",
       "timestamp": "2025-08-02T16:06:39.752Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 1256 - 6864 available (15.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0063.jpg",
+      "timestamp": "2025-08-04T21:37:29.869Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
+      "episode": "S2E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 1257 - 6863 available (15.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-04T21:06:20.214Z"
+  "lastUpdated": "2025-08-04T21:37:29.870Z"
 }
