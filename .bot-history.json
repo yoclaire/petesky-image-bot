@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0144.jpg",
-      "timestamp": "2025-08-02T06:43:20.055Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1139 - 6981 available (14.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0065.jpg",
       "timestamp": "2025-08-02T07:06:40.101Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 1238 - 6882 available (15.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0209.jpg",
+      "timestamp": "2025-08-04T12:47:30.528Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1239 - 6881 available (15.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-04T12:11:12.330Z"
+  "lastUpdated": "2025-08-04T12:47:30.528Z"
 }
