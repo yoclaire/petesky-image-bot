@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0168.jpg",
-      "timestamp": "2025-08-02T11:34:50.930Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1149 - 6971 available (14.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0051.jpg",
       "timestamp": "2025-08-02T12:09:38.770Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 16,
       "cycleInfo": "Post 1248 - 6872 available (15.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E05_-_Dance_Fever-0171.jpg",
+      "timestamp": "2025-08-04T17:40:23.992Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
+      "episode": "S3E5",
+      "season": 3,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1249 - 6871 available (15.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-04T17:09:26.592Z"
+  "lastUpdated": "2025-08-04T17:40:23.992Z"
 }
