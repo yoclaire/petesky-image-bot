@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0231.jpg",
-      "timestamp": "2025-08-02T04:16:50.623Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1134 - 6986 available (14.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0063.jpg",
       "timestamp": "2025-08-02T04:44:24.849Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 8,
       "cycleInfo": "Post 1233 - 6887 available (15.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0030.jpg",
+      "timestamp": "2025-08-04T10:08:27.934Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1234 - 6886 available (15.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-04T09:43:44.200Z"
+  "lastUpdated": "2025-08-04T10:08:27.934Z"
 }
