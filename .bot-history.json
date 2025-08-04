@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E13_-_Saturday-0063.jpg",
-      "timestamp": "2025-08-02T04:44:24.849Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
-      "episode": "S3E13",
-      "season": 3,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 1135 - 6985 available (14.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0096.jpg",
       "timestamp": "2025-08-02T05:08:49.026Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 3,
       "cycleInfo": "Post 1234 - 6886 available (15.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0177.jpg",
+      "timestamp": "2025-08-04T10:42:39.626Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1235 - 6885 available (15.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-04T10:08:27.934Z"
+  "lastUpdated": "2025-08-04T10:42:39.626Z"
 }
