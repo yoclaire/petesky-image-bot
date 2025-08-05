@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E13_-_Sick_Day-0282.jpg",
-      "timestamp": "2025-08-02T19:34:36.308Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
-      "episode": "S2E13",
-      "season": 2,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 1165 - 6955 available (14.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0128.jpg",
       "timestamp": "2025-08-02T20:06:26.817Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 1264 - 6856 available (15.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E13_-_Sick_Day-0270.jpg",
+      "timestamp": "2025-08-05T02:48:46.860Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
+      "episode": "S2E13",
+      "season": 2,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 1265 - 6855 available (15.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-05T01:35:59.029Z"
+  "lastUpdated": "2025-08-05T02:48:46.860Z"
 }
