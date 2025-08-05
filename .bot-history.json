@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0213.jpg",
-      "timestamp": "2025-08-02T19:05:29.945Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1164 - 6956 available (14.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0282.jpg",
       "timestamp": "2025-08-02T19:34:36.308Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 1263 - 6857 available (15.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0008.jpg",
+      "timestamp": "2025-08-05T01:35:59.029Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1264 - 6856 available (15.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-05T00:54:45.304Z"
+  "lastUpdated": "2025-08-05T01:35:59.029Z"
 }
