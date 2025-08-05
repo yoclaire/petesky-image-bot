@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0060.jpg",
-      "timestamp": "2025-08-03T06:08:35.009Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1182 - 6938 available (14.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0084.jpg",
       "timestamp": "2025-08-03T06:43:47.577Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 1281 - 6839 available (15.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0038.jpg",
+      "timestamp": "2025-08-05T11:36:32.511Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1282 - 6838 available (15.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-05T11:06:32.413Z"
+  "lastUpdated": "2025-08-05T11:36:32.511Z"
 }
