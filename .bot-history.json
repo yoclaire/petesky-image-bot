@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0132.jpg",
-      "timestamp": "2025-08-02T18:42:47.640Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1163 - 6957 available (14.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0213.jpg",
       "timestamp": "2025-08-02T19:05:29.945Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 4,
       "cycleInfo": "Post 1262 - 6858 available (15.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0159.jpg",
+      "timestamp": "2025-08-05T00:54:45.304Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1263 - 6857 available (15.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-05T00:28:49.001Z"
+  "lastUpdated": "2025-08-05T00:54:45.304Z"
 }
