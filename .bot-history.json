@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0139.jpg",
-      "timestamp": "2025-08-02T21:35:58.605Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 1169 - 6951 available (14.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0005.jpg",
       "timestamp": "2025-08-02T22:05:54.160Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 1268 - 6852 available (15.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0129.jpg",
+      "timestamp": "2025-08-05T05:13:54.745Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1269 - 6851 available (15.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-05T04:47:42.525Z"
+  "lastUpdated": "2025-08-05T05:13:54.745Z"
 }
