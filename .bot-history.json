@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0192.jpg",
-      "timestamp": "2025-08-03T17:05:57.790Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1204 - 6916 available (14.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x01_-_What_Would_You_Do_for_a_Dollar-0016.jpg",
       "timestamp": "2025-08-03T17:38:15.769Z",
       "altText": "The Adventures of Pete & Pete - What Would You Do for a Dollar",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 1303 - 6817 available (16.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0044.jpg",
+      "timestamp": "2025-08-05T22:39:50.481Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1304 - 6816 available (16.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-05T22:06:30.315Z"
+  "lastUpdated": "2025-08-05T22:39:50.481Z"
 }
