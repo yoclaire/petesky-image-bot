@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0127.jpg",
-      "timestamp": "2025-08-03T19:35:05.474Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1209 - 6911 available (14.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E02_-_Field_of_Pete-0039.jpg",
       "timestamp": "2025-08-03T20:06:48.308Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 1308 - 6812 available (16.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E02_-_Field_of_Pete-0010.jpg",
+      "timestamp": "2025-08-06T01:35:52.819Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
+      "episode": "S2E2",
+      "season": 2,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1309 - 6811 available (16.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-06T00:54:31.965Z"
+  "lastUpdated": "2025-08-06T01:35:52.819Z"
 }
