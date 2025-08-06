@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x16_-_Route_34-0009.jpg",
-      "timestamp": "2025-08-04T17:09:26.592Z",
-      "altText": "The Adventures of Pete & Pete - Route 34",
-      "episode": "S0E16",
-      "season": 0,
-      "episodeNumber": 16,
-      "cycleInfo": "Post 1248 - 6872 available (15.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E05_-_Dance_Fever-0171.jpg",
       "timestamp": "2025-08-04T17:40:23.992Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 1347 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0103.jpg",
+      "timestamp": "2025-08-06T22:39:42.473Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
+      "episode": "S2E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 1348 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-06T22:06:17.552Z"
+  "lastUpdated": "2025-08-06T22:39:42.473Z"
 }
