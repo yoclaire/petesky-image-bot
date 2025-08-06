@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0163.jpg",
-      "timestamp": "2025-08-04T07:13:03.712Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1228 - 6892 available (15.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0133.jpg",
       "timestamp": "2025-08-04T07:41:32.211Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 1327 - 6793 available (16.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0025.jpg",
+      "timestamp": "2025-08-06T12:47:35.605Z",
+      "altText": "The Adventures of Pete & Pete - The Artie Workout",
+      "episode": "S0E25",
+      "season": 0,
+      "episodeNumber": 25,
+      "cycleInfo": "Post 1328 - 6792 available (16.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-06T12:11:44.055Z"
+  "lastUpdated": "2025-08-06T12:47:35.605Z"
 }
