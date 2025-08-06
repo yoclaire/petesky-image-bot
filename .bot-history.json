@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0240.jpg",
-      "timestamp": "2025-08-04T11:06:48.721Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1236 - 6884 available (15.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0044.jpg",
       "timestamp": "2025-08-04T11:36:37.610Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 1335 - 6785 available (16.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0058.jpg",
+      "timestamp": "2025-08-06T16:42:42.446Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1336 - 6784 available (16.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-06T16:08:16.214Z"
+  "lastUpdated": "2025-08-06T16:42:42.446Z"
 }
