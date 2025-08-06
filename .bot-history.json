@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0267.jpg",
-      "timestamp": "2025-08-03T20:38:23.412Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
-      "episode": "S2E10",
-      "season": 2,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 1211 - 6909 available (14.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E09_-_On_Golden_Pete-0147.jpg",
       "timestamp": "2025-08-03T21:05:49.715Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 1310 - 6810 available (16.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0114.jpg",
+      "timestamp": "2025-08-06T03:35:55.315Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1311 - 6809 available (16.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-06T02:47:36.011Z"
+  "lastUpdated": "2025-08-06T03:35:55.315Z"
 }
