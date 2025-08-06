@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0055.jpg",
-      "timestamp": "2025-08-04T13:46:27.580Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1241 - 6879 available (15.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0214.jpg",
       "timestamp": "2025-08-04T14:09:16.068Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 1340 - 6780 available (16.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0099.jpg",
+      "timestamp": "2025-08-06T19:07:27.726Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1341 - 6779 available (16.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-06T18:44:34.698Z"
+  "lastUpdated": "2025-08-06T19:07:27.726Z"
 }
