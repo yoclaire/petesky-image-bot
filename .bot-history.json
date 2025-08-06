@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0147.jpg",
-      "timestamp": "2025-08-03T21:05:49.715Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 1212 - 6908 available (14.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0101.jpg",
       "timestamp": "2025-08-03T21:36:23.468Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 1311 - 6809 available (16.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0144.jpg",
+      "timestamp": "2025-08-06T04:47:36.114Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1312 - 6808 available (16.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-06T03:35:55.315Z"
+  "lastUpdated": "2025-08-06T04:47:36.114Z"
 }
