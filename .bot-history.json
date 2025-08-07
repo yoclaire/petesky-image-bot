@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0121.jpg",
-      "timestamp": "2025-08-05T17:06:35.535Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 1293 - 6827 available (15.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0166.jpg",
       "timestamp": "2025-08-05T17:39:05.043Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 5,
       "cycleInfo": "Post 1392 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E08_-_Allnighter-0057.jpg",
+      "timestamp": "2025-08-07T22:39:27.947Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
+      "episode": "S3E8",
+      "season": 3,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1393 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-07T22:06:41.118Z"
+  "lastUpdated": "2025-08-07T22:39:27.947Z"
 }
