@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E12_-_Das_Bus-0222.jpg",
-      "timestamp": "2025-08-06T17:08:39.769Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
-      "episode": "S3E12",
-      "season": 3,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 1337 - 6783 available (16.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0174.jpg",
       "timestamp": "2025-08-06T17:40:04.536Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 4,
       "cycleInfo": "Post 1436 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E01_-_Valentine's_Day_Massacre-0161.jpg",
+      "timestamp": "2025-08-08T22:06:08.599Z",
+      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1437 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-08T21:38:01.415Z"
+  "lastUpdated": "2025-08-08T22:06:08.599Z"
 }
