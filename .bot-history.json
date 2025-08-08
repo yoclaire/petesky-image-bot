@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0025.jpg",
-      "timestamp": "2025-08-06T12:47:35.605Z",
-      "altText": "The Adventures of Pete & Pete - The Artie Workout",
-      "episode": "S0E25",
-      "season": 0,
-      "episodeNumber": 25,
-      "cycleInfo": "Post 1328 - 6792 available (16.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E05_-_Dance_Fever-0165.jpg",
       "timestamp": "2025-08-06T13:19:33.107Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 7,
       "cycleInfo": "Post 1427 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0078.jpg",
+      "timestamp": "2025-08-08T17:36:50.353Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1428 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-08T17:06:02.715Z"
+  "lastUpdated": "2025-08-08T17:36:50.353Z"
 }
