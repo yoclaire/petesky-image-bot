@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E13_-_Saturday-0186.jpg",
-      "timestamp": "2025-08-07T00:28:29.687Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
-      "episode": "S3E13",
-      "season": 3,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 1351 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0208.jpg",
       "timestamp": "2025-08-07T00:54:16.068Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 1450 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0098.jpg",
+      "timestamp": "2025-08-09T06:08:14.894Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1451 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-09T05:38:25.586Z"
+  "lastUpdated": "2025-08-09T06:08:14.894Z"
 }
