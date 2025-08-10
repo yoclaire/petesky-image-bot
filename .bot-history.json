@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0178.jpg",
-      "timestamp": "2025-08-08T06:46:14.902Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1406 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0128.jpg",
       "timestamp": "2025-08-08T07:10:18.350Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 1505 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0177.jpg",
+      "timestamp": "2025-08-10T11:05:10.195Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 1506 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-10T10:39:10.976Z"
+  "lastUpdated": "2025-08-10T11:05:10.195Z"
 }
