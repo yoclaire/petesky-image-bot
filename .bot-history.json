@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0189.jpg",
-      "timestamp": "2025-08-14T05:07:27.459Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 1675 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0278.jpg",
       "timestamp": "2025-08-14T05:38:41.927Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 1774 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x21_-_The_Launch-0002.jpg",
+      "timestamp": "2025-08-16T09:35:44.058Z",
+      "altText": "The Adventures of Pete & Pete - The Launch",
+      "episode": "S0E21",
+      "season": 0,
+      "episodeNumber": 21,
+      "cycleInfo": "Post 1775 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-16T09:06:19.278Z"
+  "lastUpdated": "2025-08-16T09:35:44.058Z"
 }
