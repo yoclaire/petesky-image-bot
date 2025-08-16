@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0129.jpg",
-      "timestamp": "2025-08-14T00:26:32.856Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1668 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0102.jpg",
       "timestamp": "2025-08-14T00:51:30.000Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 1767 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0033.jpg",
+      "timestamp": "2025-08-16T06:08:00.391Z",
+      "altText": "The Adventures of Pete & Pete - The Artie Workout",
+      "episode": "S0E25",
+      "season": 0,
+      "episodeNumber": 25,
+      "cycleInfo": "Post 1768 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-16T05:37:13.907Z"
+  "lastUpdated": "2025-08-16T06:08:00.391Z"
 }
