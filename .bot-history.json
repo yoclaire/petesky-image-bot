@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E01_-_King_of_The_Road-0219.jpg",
-      "timestamp": "2025-08-14T09:08:16.395Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
-      "episode": "S1E1",
-      "season": 1,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1683 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0077.jpg",
       "timestamp": "2025-08-14T09:38:44.149Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 1782 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0010.jpg",
+      "timestamp": "2025-08-16T13:38:14.260Z",
+      "altText": "The Adventures of Pete & Pete - Staremaster",
+      "episode": "S0E26",
+      "season": 0,
+      "episodeNumber": 26,
+      "cycleInfo": "Post 1783 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-16T13:12:09.480Z"
+  "lastUpdated": "2025-08-16T13:38:14.260Z"
 }
