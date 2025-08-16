@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0075.jpg",
-      "timestamp": "2025-08-14T10:06:51.626Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 1685 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0166.jpg",
       "timestamp": "2025-08-14T10:40:05.074Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 1784 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0128.jpg",
+      "timestamp": "2025-08-16T14:36:26.517Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 1785 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-16T14:05:14.284Z"
+  "lastUpdated": "2025-08-16T14:36:26.517Z"
 }
