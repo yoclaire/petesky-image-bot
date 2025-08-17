@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0084.jpg",
-      "timestamp": "2025-08-15T06:09:11.842Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 1722 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E01_-_Valentine's_Day_Massacre-0059.jpg",
       "timestamp": "2025-08-15T06:44:18.180Z",
       "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 1821 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0218.jpg",
+      "timestamp": "2025-08-17T10:38:22.272Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1822 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-17T10:06:14.495Z"
+  "lastUpdated": "2025-08-17T10:38:22.272Z"
 }
