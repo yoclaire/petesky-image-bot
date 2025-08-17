@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0241.jpg",
-      "timestamp": "2025-08-15T05:38:52.968Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1721 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0084.jpg",
       "timestamp": "2025-08-15T06:09:11.842Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 1820 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0132.jpg",
+      "timestamp": "2025-08-17T10:06:14.495Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1821 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-17T09:35:32.674Z"
+  "lastUpdated": "2025-08-17T10:06:14.495Z"
 }
