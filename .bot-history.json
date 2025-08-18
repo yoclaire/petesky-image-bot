@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E13_-_Saturday-0024.jpg",
-      "timestamp": "2025-08-16T07:34:42.440Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
-      "episode": "S3E13",
-      "season": 3,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 1771 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E06_-_Don't_Tread_on_Pete-0002.jpg",
       "timestamp": "2025-08-16T08:07:29.262Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 1870 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0169.jpg",
+      "timestamp": "2025-08-18T12:47:25.486Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1871 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-18T12:10:49.653Z"
+  "lastUpdated": "2025-08-18T12:47:25.486Z"
 }
