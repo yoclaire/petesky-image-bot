@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0088.jpg",
-      "timestamp": "2025-08-16T16:06:30.565Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1788 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0222.jpg",
       "timestamp": "2025-08-16T16:39:02.749Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 1887 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0199.jpg",
+      "timestamp": "2025-08-18T21:05:23.584Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1888 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-18T20:36:31.795Z"
+  "lastUpdated": "2025-08-18T21:05:23.584Z"
 }
