@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0138.jpg",
-      "timestamp": "2025-08-18T05:40:03.008Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1857 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0062.jpg",
       "timestamp": "2025-08-18T06:09:41.553Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 1956 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0267.jpg",
+      "timestamp": "2025-08-20T09:37:00.507Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1957 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-20T09:09:17.978Z"
+  "lastUpdated": "2025-08-20T09:37:00.507Z"
 }
