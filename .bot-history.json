@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0225.jpg",
-      "timestamp": "2025-08-19T21:34:49.226Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1935 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0108.jpg",
       "timestamp": "2025-08-19T22:05:48.731Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 2034 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0040.jpg",
+      "timestamp": "2025-08-22T02:35:06.138Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 2035 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-22T01:34:09.701Z"
+  "lastUpdated": "2025-08-22T02:35:06.138Z"
 }
