@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0245.jpg",
-      "timestamp": "2025-08-20T15:06:32.755Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
-      "episode": "S2E10",
-      "season": 2,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 1968 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0188.jpg",
       "timestamp": "2025-08-20T15:37:34.505Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 2067 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0093.jpg",
+      "timestamp": "2025-08-22T19:05:06.845Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 2068 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-22T18:41:10.007Z"
+  "lastUpdated": "2025-08-22T19:05:06.845Z"
 }
