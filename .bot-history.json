@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0108.jpg",
-      "timestamp": "2025-08-19T22:05:48.731Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1936 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E01_-_Valentine's_Day_Massacre-0156.jpg",
       "timestamp": "2025-08-19T22:36:51.675Z",
       "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 2035 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x24_-_X-Ray_Man-0002.jpg",
+      "timestamp": "2025-08-22T03:22:56.662Z",
+      "altText": "The Adventures of Pete & Pete - X Ray Man",
+      "episode": "S0E24",
+      "season": 0,
+      "episodeNumber": 24,
+      "cycleInfo": "Post 2036 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-22T02:35:06.138Z"
+  "lastUpdated": "2025-08-22T03:22:56.662Z"
 }
