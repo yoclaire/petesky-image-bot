@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0076.jpg",
-      "timestamp": "2025-08-22T11:05:14.547Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 2052 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0001.jpg",
       "timestamp": "2025-08-22T11:34:12.586Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 2151 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0224.jpg",
+      "timestamp": "2025-08-24T15:05:35.881Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 2152 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-24T14:35:32.770Z"
+  "lastUpdated": "2025-08-24T15:05:35.881Z"
 }
