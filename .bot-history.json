@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0021.jpg",
-      "timestamp": "2025-08-22T12:09:56.420Z",
-      "altText": "The Adventures of Pete & Pete - The Artie Workout",
-      "episode": "S0E25",
-      "season": 0,
-      "episodeNumber": 25,
-      "cycleInfo": "Post 2054 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0126.jpg",
       "timestamp": "2025-08-22T12:46:56.371Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 2153 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0153.jpg",
+      "timestamp": "2025-08-24T16:06:02.409Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 2154 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-24T15:34:55.053Z"
+  "lastUpdated": "2025-08-24T16:06:02.409Z"
 }
