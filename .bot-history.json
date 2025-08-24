@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0115.jpg",
-      "timestamp": "2025-08-22T08:39:37.801Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 2047 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0058.jpg",
       "timestamp": "2025-08-22T09:06:46.416Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 2146 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0179.jpg",
+      "timestamp": "2025-08-24T12:46:39.933Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 2147 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-24T12:09:07.342Z"
+  "lastUpdated": "2025-08-24T12:46:39.933Z"
 }
