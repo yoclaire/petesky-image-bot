@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0150.jpg",
-      "timestamp": "2025-08-23T09:34:35.867Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 2095 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0086.jpg",
       "timestamp": "2025-08-23T10:05:42.340Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 2194 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0085.jpg",
+      "timestamp": "2025-08-25T14:06:30.639Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 2195 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-25T13:41:50.809Z"
+  "lastUpdated": "2025-08-25T14:06:30.639Z"
 }
