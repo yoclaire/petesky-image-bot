@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0100.jpg",
-      "timestamp": "2025-08-23T22:35:47.192Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 2121 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E02_-_Field_of_Pete-0147.jpg",
       "timestamp": "2025-08-23T23:05:59.939Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 4,
       "cycleInfo": "Post 2220 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E01_-_Valentine's_Day_Massacre-0087.jpg",
+      "timestamp": "2025-08-26T04:07:29.183Z",
+      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 2221 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-26T03:45:10.072Z"
+  "lastUpdated": "2025-08-26T04:07:29.183Z"
 }
