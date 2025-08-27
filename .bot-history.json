@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x02_-_Freeze_Tag-0012.jpg",
-      "timestamp": "2025-08-25T00:26:36.388Z",
-      "altText": "The Adventures of Pete & Pete - Freeze Tag",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 2170 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0042.jpg",
       "timestamp": "2025-08-25T00:51:26.568Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 2269 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E08_-_Allnighter-0116.jpg",
+      "timestamp": "2025-08-27T05:36:14.940Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
+      "episode": "S3E8",
+      "season": 3,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 2270 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-27T05:06:35.010Z"
+  "lastUpdated": "2025-08-27T05:36:14.940Z"
 }
