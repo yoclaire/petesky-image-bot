@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x17_-_Halloween-0006.jpg",
-      "timestamp": "2025-08-28T04:37:50.125Z",
-      "altText": "The Adventures of Pete & Pete - Halloween",
-      "episode": "S0E17",
-      "season": 0,
-      "episodeNumber": 17,
-      "cycleInfo": "Post 2314 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E09_-_On_Golden_Pete-0274.jpg",
       "timestamp": "2025-08-28T05:06:26.387Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 2413 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E09_-_On_Golden_Pete-0259.jpg",
+      "timestamp": "2025-08-30T08:07:00.089Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
+      "episode": "S2E9",
+      "season": 2,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 2414 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-30T07:34:04.139Z"
+  "lastUpdated": "2025-08-30T08:07:00.089Z"
 }
