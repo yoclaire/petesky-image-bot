@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0002.jpg",
-      "timestamp": "2025-08-29T00:49:43.946Z",
-      "altText": "The Adventures of Pete & Pete - Staremaster",
-      "episode": "S0E26",
-      "season": 0,
-      "episodeNumber": 26,
-      "cycleInfo": "Post 2354 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0009.jpg",
       "timestamp": "2025-08-29T01:33:46.504Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 2453 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0005.jpg",
+      "timestamp": "2025-08-31T05:06:13.143Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 2454 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-31T04:37:13.446Z"
+  "lastUpdated": "2025-08-31T05:06:13.143Z"
 }
