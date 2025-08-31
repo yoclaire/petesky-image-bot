@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0218.jpg",
-      "timestamp": "2025-08-29T19:34:10.034Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 2390 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0100.jpg",
       "timestamp": "2025-08-29T20:06:35.460Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 2489 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x20_-_The_Punishment-0011.jpg",
+      "timestamp": "2025-08-31T23:05:52.932Z",
+      "altText": "The Adventures of Pete & Pete - The Punishment",
+      "episode": "S0E20",
+      "season": 0,
+      "episodeNumber": 20,
+      "cycleInfo": "Post 2490 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-08-31T22:35:38.917Z"
+  "lastUpdated": "2025-08-31T23:05:52.932Z"
 }
