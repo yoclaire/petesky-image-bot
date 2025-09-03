@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0101.jpg",
-      "timestamp": "2025-09-01T02:41:00.572Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 2494 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0290.jpg",
       "timestamp": "2025-09-01T03:31:55.658Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 2593 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E09_-_On_Golden_Pete-0053.jpg",
+      "timestamp": "2025-09-03T06:40:36.463Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
+      "episode": "S2E9",
+      "season": 2,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 2594 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-03T06:08:25.031Z"
+  "lastUpdated": "2025-09-03T06:40:36.463Z"
 }
