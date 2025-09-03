@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x02_-_Freeze_Tag-0003.jpg",
-      "timestamp": "2025-09-01T16:06:55.125Z",
-      "altText": "The Adventures of Pete & Pete - Freeze Tag",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 2520 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0099.jpg",
       "timestamp": "2025-09-01T16:38:35.128Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 4,
       "cycleInfo": "Post 2619 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0076.jpg",
+      "timestamp": "2025-09-03T19:34:14.307Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 2620 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-03T19:05:11.957Z"
+  "lastUpdated": "2025-09-03T19:34:14.307Z"
 }
