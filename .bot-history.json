@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x21_-_The_Launch-0001.jpg",
-      "timestamp": "2025-09-01T10:07:04.330Z",
-      "altText": "The Adventures of Pete & Pete - The Launch",
-      "episode": "S0E21",
-      "season": 0,
-      "episodeNumber": 21,
-      "cycleInfo": "Post 2508 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0147.jpg",
       "timestamp": "2025-09-01T10:39:10.420Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 2607 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x15_-_The_Burping_Room-0012.jpg",
+      "timestamp": "2025-09-03T13:38:28.572Z",
+      "altText": "The Adventures of Pete & Pete - The Burping Room",
+      "episode": "S0E15",
+      "season": 0,
+      "episodeNumber": 15,
+      "cycleInfo": "Post 2608 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-03T13:12:02.491Z"
+  "lastUpdated": "2025-09-03T13:38:28.572Z"
 }
