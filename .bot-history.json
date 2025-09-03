@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0290.jpg",
-      "timestamp": "2025-09-01T03:31:55.658Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 2495 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E09_-_On_Golden_Pete-0242.jpg",
       "timestamp": "2025-09-01T04:12:42.819Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 2594 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0107.jpg",
+      "timestamp": "2025-09-03T07:06:23.708Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 2595 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-03T06:40:36.463Z"
+  "lastUpdated": "2025-09-03T07:06:23.708Z"
 }
