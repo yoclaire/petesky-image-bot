@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E07_-_Inspector_34-0099.jpg",
-      "timestamp": "2025-09-01T16:38:35.128Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
-      "episode": "S2E7",
-      "season": 2,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 2521 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0093.jpg",
       "timestamp": "2025-09-01T17:05:27.944Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 2620 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0119.jpg",
+      "timestamp": "2025-09-03T20:06:27.378Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 2621 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-03T19:34:14.307Z"
+  "lastUpdated": "2025-09-03T20:06:27.379Z"
 }
