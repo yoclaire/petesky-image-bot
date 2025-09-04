@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0144.jpg",
-      "timestamp": "2025-09-01T22:05:29.961Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
-      "episode": "S2E10",
-      "season": 2,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 2532 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0287.jpg",
       "timestamp": "2025-09-01T22:35:50.996Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 2631 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x20_-_The_Punishment-0010.jpg",
+      "timestamp": "2025-09-04T02:30:24.648Z",
+      "altText": "The Adventures of Pete & Pete - The Punishment",
+      "episode": "S0E20",
+      "season": 0,
+      "episodeNumber": 20,
+      "cycleInfo": "Post 2632 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-04T01:33:47.463Z"
+  "lastUpdated": "2025-09-04T02:30:24.648Z"
 }
