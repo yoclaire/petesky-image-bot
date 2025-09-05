@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0053.jpg",
-      "timestamp": "2025-09-03T06:40:36.463Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 2594 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0107.jpg",
       "timestamp": "2025-09-03T07:06:23.708Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 2693 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0160.jpg",
+      "timestamp": "2025-09-05T10:06:28.846Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 2694 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-05T09:35:24.018Z"
+  "lastUpdated": "2025-09-05T10:06:28.847Z"
 }
