@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x20_-_The_Punishment-0010.jpg",
-      "timestamp": "2025-09-04T02:30:24.648Z",
-      "altText": "The Adventures of Pete & Pete - The Punishment",
-      "episode": "S0E20",
-      "season": 0,
-      "episodeNumber": 20,
-      "cycleInfo": "Post 2632 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0077.jpg",
       "timestamp": "2025-09-04T02:55:17.920Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 2731 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0103.jpg",
+      "timestamp": "2025-09-06T05:34:56.820Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 2732 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-06T05:05:54.516Z"
+  "lastUpdated": "2025-09-06T05:34:56.820Z"
 }
