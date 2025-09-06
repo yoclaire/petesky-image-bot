@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0094.jpg",
-      "timestamp": "2025-09-04T05:06:02.512Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 2638 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0182.jpg",
       "timestamp": "2025-09-04T05:35:39.098Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 2737 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0098.jpg",
+      "timestamp": "2025-09-06T08:36:31.784Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 2738 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-06T08:07:02.564Z"
+  "lastUpdated": "2025-09-06T08:36:31.784Z"
 }
