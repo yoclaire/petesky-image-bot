@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0088.jpg",
-      "timestamp": "2025-09-06T12:08:41.339Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 2745 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0200.jpg",
       "timestamp": "2025-09-06T12:46:04.364Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 8,
       "cycleInfo": "Post 2844 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0072.jpg",
+      "timestamp": "2025-09-08T16:06:12.012Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 2845 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-08T15:36:26.035Z"
+  "lastUpdated": "2025-09-08T16:06:12.013Z"
 }
