@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0186.jpg",
-      "timestamp": "2025-09-06T00:23:13.571Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 2722 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0003.jpg",
       "timestamp": "2025-09-06T00:49:36.241Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 2821 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0191.jpg",
+      "timestamp": "2025-09-08T04:39:01.329Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 2822 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-08T04:07:30.475Z"
+  "lastUpdated": "2025-09-08T04:39:01.329Z"
 }
