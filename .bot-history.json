@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0173.jpg",
-      "timestamp": "2025-09-07T12:46:16.552Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 2792 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0250.jpg",
       "timestamp": "2025-09-07T13:08:10.392Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 2891 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0094.jpg",
+      "timestamp": "2025-09-09T16:39:31.718Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 2892 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-09T16:06:58.868Z"
+  "lastUpdated": "2025-09-09T16:39:31.718Z"
 }
