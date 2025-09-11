@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0011.jpg",
-      "timestamp": "2025-09-09T10:06:40.911Z",
-      "altText": "The Adventures of Pete & Pete - Staremaster",
-      "episode": "S0E26",
-      "season": 0,
-      "episodeNumber": 26,
-      "cycleInfo": "Post 2879 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0069.jpg",
       "timestamp": "2025-09-09T10:38:50.231Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 2978 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0047.jpg",
+      "timestamp": "2025-09-11T13:36:39.883Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 2979 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-11T13:11:30.720Z"
+  "lastUpdated": "2025-09-11T13:36:39.883Z"
 }
