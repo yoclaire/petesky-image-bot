@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0142.jpg",
-      "timestamp": "2025-09-09T07:34:50.389Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 2874 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0212.jpg",
       "timestamp": "2025-09-09T08:08:13.722Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 2973 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0137.jpg",
+      "timestamp": "2025-09-11T11:05:21.272Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 2974 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-11T10:37:02.619Z"
+  "lastUpdated": "2025-09-11T11:05:21.272Z"
 }
