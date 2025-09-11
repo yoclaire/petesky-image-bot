@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0272.jpg",
-      "timestamp": "2025-09-09T18:07:51.765Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 2895 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0233.jpg",
       "timestamp": "2025-09-09T18:39:30.183Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 2994 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0213.jpg",
+      "timestamp": "2025-09-11T21:34:24.277Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 2995 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-11T21:05:29.632Z"
+  "lastUpdated": "2025-09-11T21:34:24.277Z"
 }
