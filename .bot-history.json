@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0089.jpg",
-      "timestamp": "2025-09-11T15:34:58.805Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 2983 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0199.jpg",
       "timestamp": "2025-09-11T16:07:07.463Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 3082 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x23_-_Artie,_The_Strongest_Man..._In_The_World!-0007.jpg",
+      "timestamp": "2025-09-13T18:37:06.867Z",
+      "altText": "The Adventures of Pete & Pete - Artie, the Strongest Man... in the World!",
+      "episode": "S0E23",
+      "season": 0,
+      "episodeNumber": 23,
+      "cycleInfo": "Post 3083 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-13T18:06:43.375Z"
+  "lastUpdated": "2025-09-13T18:37:06.867Z"
 }
