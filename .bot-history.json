@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0063.jpg",
-      "timestamp": "2025-09-11T22:05:48.388Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 2996 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0164.jpg",
       "timestamp": "2025-09-11T22:35:01.382Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 3095 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0223.jpg",
+      "timestamp": "2025-09-14T01:33:53.796Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 3096 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-14T00:50:57.505Z"
+  "lastUpdated": "2025-09-14T01:33:53.796Z"
 }
