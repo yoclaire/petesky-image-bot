@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0066.jpg",
-      "timestamp": "2025-09-12T09:06:50.740Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 3017 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E06_-_Don't_Tread_on_Pete-0124.jpg",
       "timestamp": "2025-09-12T09:34:59.791Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 3116 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0070.jpg",
+      "timestamp": "2025-09-14T12:45:48.929Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 3117 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-14T12:08:36.659Z"
+  "lastUpdated": "2025-09-14T12:45:48.929Z"
 }
