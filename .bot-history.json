@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0068.jpg",
-      "timestamp": "2025-09-14T13:33:54.678Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 3119 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0237.jpg",
       "timestamp": "2025-09-14T14:05:17.538Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 13,
       "cycleInfo": "Post 3218 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x15_-_The_Burping_Room-0008.jpg",
+      "timestamp": "2025-09-16T17:35:11.114Z",
+      "altText": "The Adventures of Pete & Pete - The Burping Room",
+      "episode": "S0E15",
+      "season": 0,
+      "episodeNumber": 15,
+      "cycleInfo": "Post 3219 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-16T17:05:54.360Z"
+  "lastUpdated": "2025-09-16T17:35:11.114Z"
 }
