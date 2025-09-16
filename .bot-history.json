@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0143.jpg",
-      "timestamp": "2025-09-14T15:05:18.475Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 3122 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E01_-_Valentine's_Day_Massacre-0090.jpg",
       "timestamp": "2025-09-14T15:34:02.901Z",
       "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 3221 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E05_-_Dance_Fever-0027.jpg",
+      "timestamp": "2025-09-16T19:05:38.210Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
+      "episode": "S3E5",
+      "season": 3,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 3222 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-16T18:40:16.744Z"
+  "lastUpdated": "2025-09-16T19:05:38.210Z"
 }
