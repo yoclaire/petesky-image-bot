@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0269.jpg",
-      "timestamp": "2025-09-14T10:05:25.488Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 3112 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0048.jpg",
       "timestamp": "2025-09-14T10:34:25.023Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 4,
       "cycleInfo": "Post 3211 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x01_-_What_Would_You_Do_for_a_Dollar-0014.jpg",
+      "timestamp": "2025-09-16T14:07:42.867Z",
+      "altText": "The Adventures of Pete & Pete - What Would You Do for a Dollar",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 3212 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-16T13:39:53.750Z"
+  "lastUpdated": "2025-09-16T14:07:42.867Z"
 }
