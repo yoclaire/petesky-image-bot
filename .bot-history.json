@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0023.jpg",
-      "timestamp": "2025-09-15T11:05:35.137Z",
-      "altText": "The Adventures of Pete & Pete - Staremaster",
-      "episode": "S0E26",
-      "season": 0,
-      "episodeNumber": 26,
-      "cycleInfo": "Post 3160 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E05_-_Tool_and_Die-0127.jpg",
       "timestamp": "2025-09-15T11:34:18.647Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 3259 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0023.jpg",
+      "timestamp": "2025-09-17T14:38:29.452Z",
+      "altText": "The Adventures of Pete & Pete - The Artie Workout",
+      "episode": "S0E25",
+      "season": 0,
+      "episodeNumber": 25,
+      "cycleInfo": "Post 3260 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-17T14:06:08.404Z"
+  "lastUpdated": "2025-09-17T14:38:29.452Z"
 }
