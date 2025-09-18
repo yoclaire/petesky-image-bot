@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0099.jpg",
-      "timestamp": "2025-09-16T08:08:37.973Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 3200 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0080.jpg",
       "timestamp": "2025-09-16T08:40:03.518Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 3299 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E03_-_The_Call-0135.jpg",
+      "timestamp": "2025-09-18T11:34:33.406Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
+      "episode": "S2E3",
+      "season": 2,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 3300 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-18T11:05:25.730Z"
+  "lastUpdated": "2025-09-18T11:34:33.406Z"
 }
