@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0151.jpg",
-      "timestamp": "2025-09-17T06:08:57.880Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 3243 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0017.jpg",
       "timestamp": "2025-09-17T06:42:11.959Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 3342 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0088.jpg",
+      "timestamp": "2025-09-19T10:07:30.896Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 3343 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-19T09:36:08.324Z"
+  "lastUpdated": "2025-09-19T10:07:30.896Z"
 }
