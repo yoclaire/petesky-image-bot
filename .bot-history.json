@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x21_-_The_Launch-0002.jpg",
-      "timestamp": "2025-09-17T01:33:25.191Z",
-      "altText": "The Adventures of Pete & Pete - The Launch",
-      "episode": "S0E21",
-      "season": 0,
-      "episodeNumber": 21,
-      "cycleInfo": "Post 3234 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0170.jpg",
       "timestamp": "2025-09-17T02:30:22.681Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 3333 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0182.jpg",
+      "timestamp": "2025-09-19T05:35:47.452Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 3334 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-19T05:06:38.495Z"
+  "lastUpdated": "2025-09-19T05:35:47.452Z"
 }
