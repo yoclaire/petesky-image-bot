@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0204.jpg",
-      "timestamp": "2025-09-17T02:55:10.546Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 3236 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E05_-_Tool_and_Die-0033.jpg",
       "timestamp": "2025-09-17T03:15:00.286Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 16,
       "cycleInfo": "Post 3335 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0152.jpg",
+      "timestamp": "2025-09-19T06:41:30.487Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 3336 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-19T06:08:43.231Z"
+  "lastUpdated": "2025-09-19T06:41:30.487Z"
 }
