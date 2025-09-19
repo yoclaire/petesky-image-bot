@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0168.jpg",
-      "timestamp": "2025-09-17T15:06:42.996Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 3261 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0038.jpg",
       "timestamp": "2025-09-17T15:35:58.397Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 1,
       "cycleInfo": "Post 3360 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0004.jpg",
+      "timestamp": "2025-09-19T19:07:52.100Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 3361 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-19T18:40:05.281Z"
+  "lastUpdated": "2025-09-19T19:07:52.100Z"
 }
