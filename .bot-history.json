@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E01_-_Valentine's_Day_Massacre-0198.jpg",
-      "timestamp": "2025-09-18T10:37:26.577Z",
-      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
-      "episode": "S0E1",
-      "season": 0,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 3298 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0087.jpg",
       "timestamp": "2025-09-18T11:05:25.730Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 3397 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E13_-_Saturday-0068.jpg",
+      "timestamp": "2025-09-20T14:05:27.105Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
+      "episode": "S3E13",
+      "season": 3,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 3398 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-20T13:35:06.990Z"
+  "lastUpdated": "2025-09-20T14:05:27.105Z"
 }
