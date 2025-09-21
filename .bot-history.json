@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0046.jpg",
-      "timestamp": "2025-09-19T00:49:48.715Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 3326 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0174.jpg",
       "timestamp": "2025-09-19T01:33:52.330Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 3425 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E03_-_The_Call-0168.jpg",
+      "timestamp": "2025-09-21T05:06:30.335Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
+      "episode": "S2E3",
+      "season": 2,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 3426 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-21T04:37:05.413Z"
+  "lastUpdated": "2025-09-21T05:06:30.335Z"
 }
