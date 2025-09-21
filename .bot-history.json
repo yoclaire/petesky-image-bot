@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0158.jpg",
-      "timestamp": "2025-09-19T03:18:56.984Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 3329 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0050.jpg",
       "timestamp": "2025-09-19T03:41:34.017Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 3428 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0058.jpg",
+      "timestamp": "2025-09-21T06:39:58.790Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 3429 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-21T06:08:09.816Z"
+  "lastUpdated": "2025-09-21T06:39:58.790Z"
 }
