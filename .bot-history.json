@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0022.jpg",
-      "timestamp": "2025-09-22T09:37:40.057Z",
-      "altText": "The Adventures of Pete & Pete - The Artie Workout",
-      "episode": "S0E25",
-      "season": 0,
-      "episodeNumber": 25,
-      "cycleInfo": "Post 3481 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0123.jpg",
       "timestamp": "2025-09-22T10:07:33.084Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 3580 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0232.jpg",
+      "timestamp": "2025-09-24T14:06:00.186Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 3581 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-24T13:39:57.035Z"
+  "lastUpdated": "2025-09-24T14:06:00.186Z"
 }
