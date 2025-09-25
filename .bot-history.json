@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0069.jpg",
-      "timestamp": "2025-09-23T14:37:50.841Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 3536 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0069.jpg",
       "timestamp": "2025-09-23T15:07:06.130Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 3635 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0138.jpg",
+      "timestamp": "2025-09-25T18:41:14.165Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 3636 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-25T18:09:13.278Z"
+  "lastUpdated": "2025-09-25T18:41:14.165Z"
 }
