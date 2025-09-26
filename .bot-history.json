@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E09_-_Road_Warrior-0154.jpg",
-      "timestamp": "2025-09-24T04:07:11.801Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
-      "episode": "S3E9",
-      "season": 3,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 3561 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0057.jpg",
       "timestamp": "2025-09-24T04:37:37.360Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 3660 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0056.jpg",
+      "timestamp": "2025-09-26T08:08:39.849Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 3661 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-26T07:34:54.978Z"
+  "lastUpdated": "2025-09-26T08:08:39.849Z"
 }
