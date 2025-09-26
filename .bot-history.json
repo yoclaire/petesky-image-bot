@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E06_-_Don't_Tread_on_Pete-0086.jpg",
-      "timestamp": "2025-09-24T05:06:56.777Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
-      "episode": "S1E6",
-      "season": 1,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 3563 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0147.jpg",
       "timestamp": "2025-09-24T05:36:10.968Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 3662 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0172.jpg",
+      "timestamp": "2025-09-26T09:07:31.100Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 3663 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-26T08:39:43.053Z"
+  "lastUpdated": "2025-09-26T09:07:31.100Z"
 }
