@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0188.jpg",
-      "timestamp": "2025-09-25T17:35:38.540Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 3634 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0017.jpg",
       "timestamp": "2025-09-25T18:09:13.278Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 3733 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0120.jpg",
+      "timestamp": "2025-09-27T21:05:22.377Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 3734 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-27T20:34:32.106Z"
+  "lastUpdated": "2025-09-27T21:05:22.377Z"
 }
