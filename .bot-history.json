@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E01_-_Valentine's_Day_Massacre-0142.jpg",
-      "timestamp": "2025-09-25T09:36:16.779Z",
-      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
-      "episode": "S0E1",
-      "season": 0,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 3618 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E05_-_Dance_Fever-0118.jpg",
       "timestamp": "2025-09-25T10:07:04.620Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 3717 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0015.jpg",
+      "timestamp": "2025-09-27T13:08:37.642Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 3718 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-27T12:46:37.015Z"
+  "lastUpdated": "2025-09-27T13:08:37.642Z"
 }
