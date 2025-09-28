@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0038.jpg",
-      "timestamp": "2025-09-26T04:06:55.754Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 3653 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E02_-_Field_of_Pete-0118.jpg",
       "timestamp": "2025-09-26T04:37:46.148Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 3752 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0012.jpg",
+      "timestamp": "2025-09-28T07:34:10.345Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 3753 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-28T07:05:37.967Z"
+  "lastUpdated": "2025-09-28T07:34:10.345Z"
 }
