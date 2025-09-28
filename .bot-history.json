@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0266.jpg",
-      "timestamp": "2025-09-26T14:37:19.951Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 3674 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E01_-_Valentine's_Day_Massacre-0040.jpg",
       "timestamp": "2025-09-26T15:06:09.185Z",
       "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 3773 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0119.jpg",
+      "timestamp": "2025-09-28T18:06:54.140Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 3774 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-09-28T17:34:16.776Z"
+  "lastUpdated": "2025-09-28T18:06:54.140Z"
 }
