@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0112.jpg",
-      "timestamp": "2025-09-30T23:34:21.711Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 3877 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E06_-_Halloweenie-0248.jpg",
       "timestamp": "2025-10-01T00:28:07.969Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 6: Halloweenie",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 6,
       "cycleInfo": "Post 3976 - -1086 available (519.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E06_-_Halloweenie-0243.jpg",
+      "timestamp": "2025-10-03T04:36:43.658Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 6: Halloweenie",
+      "episode": "S2E6",
+      "season": 2,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 3977 - -1086 available (519.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-10-03T04:07:09.449Z"
+  "lastUpdated": "2025-10-03T04:36:43.658Z"
 }
