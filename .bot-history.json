@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E06_-_Halloweenie-0179.jpg",
-      "timestamp": "2025-10-08T09:07:04.551Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 6: Halloweenie",
-      "episode": "S2E6",
-      "season": 2,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 81 - 178 available (31.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E06_-_Halloweenie-0053.jpg",
       "timestamp": "2025-10-08T09:36:32.167Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 6: Halloweenie",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 6,
       "cycleInfo": "Post 180 - 79 available (69.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E06_-_Halloweenie-0208.jpg",
+      "timestamp": "2025-10-10T13:12:56.256Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 6: Halloweenie",
+      "episode": "S2E6",
+      "season": 2,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 181 - 78 available (69.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-10-10T12:47:07.893Z"
+  "lastUpdated": "2025-10-10T13:12:56.256Z"
 }
