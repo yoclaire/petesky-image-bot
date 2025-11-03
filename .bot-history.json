@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0066.jpg",
-      "timestamp": "2025-11-01T02:36:36.233Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 136 - 7984 available (1.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0206.jpg",
       "timestamp": "2025-11-01T03:25:16.621Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 235 - 7885 available (2.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0195.jpg",
+      "timestamp": "2025-11-03T06:44:34.310Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 236 - 7884 available (2.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-03T06:09:43.542Z"
+  "lastUpdated": "2025-11-03T06:44:34.310Z"
 }
