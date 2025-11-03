@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0151.jpg",
-      "timestamp": "2025-11-01T12:46:41.241Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 156 - 7964 available (1.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0144.jpg",
       "timestamp": "2025-11-01T13:09:54.352Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 255 - 7865 available (3.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0006.jpg",
+      "timestamp": "2025-11-03T16:40:19.558Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
+      "episode": "S2E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 256 - 7864 available (3.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-03T16:07:23.619Z"
+  "lastUpdated": "2025-11-03T16:40:19.558Z"
 }
