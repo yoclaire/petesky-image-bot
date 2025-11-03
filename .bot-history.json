@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0062.jpg",
-      "timestamp": "2025-11-01T17:05:04.866Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 165 - 7955 available (2.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0276.jpg",
       "timestamp": "2025-11-01T17:34:23.346Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 264 - 7856 available (3.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0231.jpg",
+      "timestamp": "2025-11-03T21:06:51.701Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 265 - 7855 available (3.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-03T20:37:13.203Z"
+  "lastUpdated": "2025-11-03T21:06:51.701Z"
 }
