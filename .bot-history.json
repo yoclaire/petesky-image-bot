@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0073.jpg",
-      "timestamp": "2025-11-01T10:36:16.918Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 152 - 7968 available (1.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0070.jpg",
       "timestamp": "2025-11-01T11:05:06.568Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 251 - 7869 available (3.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0216.jpg",
+      "timestamp": "2025-11-03T14:38:50.946Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 252 - 7868 available (3.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-03T14:06:53.111Z"
+  "lastUpdated": "2025-11-03T14:38:50.946Z"
 }
