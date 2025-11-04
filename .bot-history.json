@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0072.jpg",
-      "timestamp": "2025-11-02T17:05:26.792Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 211 - 7909 available (2.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0088.jpg",
       "timestamp": "2025-11-02T17:34:47.473Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 17,
       "cycleInfo": "Post 310 - 7810 available (3.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E07_-_Last_Laugh-0094.jpg",
+      "timestamp": "2025-11-04T21:06:17.016Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
+      "episode": "S3E7",
+      "season": 3,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 311 - 7809 available (3.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-04T20:38:02.198Z"
+  "lastUpdated": "2025-11-04T21:06:17.016Z"
 }
