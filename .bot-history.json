@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E06_-_Don't_Tread_on_Pete-0247.jpg",
-      "timestamp": "2025-11-02T00:27:35.664Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
-      "episode": "S1E6",
-      "season": 1,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 179 - 7941 available (2.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0125.jpg",
       "timestamp": "2025-11-02T00:53:18.857Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 278 - 7842 available (3.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E09_-_On_Golden_Pete-0209.jpg",
+      "timestamp": "2025-11-04T05:06:53.400Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
+      "episode": "S2E9",
+      "season": 2,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 279 - 7841 available (3.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-04T04:38:36.082Z"
+  "lastUpdated": "2025-11-04T05:06:53.400Z"
 }
