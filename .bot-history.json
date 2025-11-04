@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0090.jpg",
-      "timestamp": "2025-11-02T04:38:26.397Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 186 - 7934 available (2.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0269.jpg",
       "timestamp": "2025-11-02T05:06:31.121Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 285 - 7835 available (3.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0110.jpg",
+      "timestamp": "2025-11-04T08:41:39.517Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 286 - 7834 available (3.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-04T08:08:48.552Z"
+  "lastUpdated": "2025-11-04T08:41:39.517Z"
 }
