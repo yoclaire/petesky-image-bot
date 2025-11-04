@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0138.jpg",
-      "timestamp": "2025-11-02T05:36:21.080Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 188 - 7932 available (2.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0005.jpg",
       "timestamp": "2025-11-02T06:08:14.035Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 287 - 7833 available (3.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x01_-_What_Would_You_Do_for_a_Dollar-0017.jpg",
+      "timestamp": "2025-11-04T09:38:30.133Z",
+      "altText": "The Adventures of Pete & Pete - What Would You Do for a Dollar",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 288 - 7832 available (3.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-04T09:07:41.264Z"
+  "lastUpdated": "2025-11-04T09:38:30.133Z"
 }
