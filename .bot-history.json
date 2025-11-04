@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0157.jpg",
-      "timestamp": "2025-11-02T16:37:53.320Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 210 - 7910 available (2.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0072.jpg",
       "timestamp": "2025-11-02T17:05:26.792Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 309 - 7811 available (3.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x17_-_Halloween-0013.jpg",
+      "timestamp": "2025-11-04T20:38:02.198Z",
+      "altText": "The Adventures of Pete & Pete - Halloween",
+      "episode": "S0E17",
+      "season": 0,
+      "episodeNumber": 17,
+      "cycleInfo": "Post 310 - 7810 available (3.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-04T20:07:23.044Z"
+  "lastUpdated": "2025-11-04T20:38:02.198Z"
 }
