@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0080.jpg",
-      "timestamp": "2025-11-03T03:52:44.170Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 230 - 7890 available (2.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0056.jpg",
       "timestamp": "2025-11-03T04:11:48.497Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 329 - 7791 available (4.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x23_-_Artie,_The_Strongest_Man..._In_The_World!-0006.jpg",
+      "timestamp": "2025-11-05T07:35:32.196Z",
+      "altText": "The Adventures of Pete & Pete - Artie, the Strongest Man... in the World!",
+      "episode": "S0E23",
+      "season": 0,
+      "episodeNumber": 23,
+      "cycleInfo": "Post 330 - 7790 available (4.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-05T07:07:10.875Z"
+  "lastUpdated": "2025-11-05T07:35:32.196Z"
 }
