@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0213.jpg",
-      "timestamp": "2025-11-03T02:38:14.571Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 228 - 7892 available (2.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0161.jpg",
       "timestamp": "2025-11-03T03:29:39.870Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 327 - 7793 available (4.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0044.jpg",
+      "timestamp": "2025-11-05T06:43:25.512Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 328 - 7792 available (4.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-05T06:09:34.611Z"
+  "lastUpdated": "2025-11-05T06:43:25.512Z"
 }
