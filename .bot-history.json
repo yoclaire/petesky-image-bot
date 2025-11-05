@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0148.jpg",
-      "timestamp": "2025-11-02T20:34:59.307Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 218 - 7902 available (2.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0170.jpg",
       "timestamp": "2025-11-02T21:05:15.592Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 317 - 7803 available (3.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0060.jpg",
+      "timestamp": "2025-11-05T00:51:04.160Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
+      "episode": "S2E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 318 - 7802 available (3.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-05T00:26:12.765Z"
+  "lastUpdated": "2025-11-05T00:51:04.160Z"
 }
