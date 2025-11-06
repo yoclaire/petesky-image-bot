@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0079.jpg",
-      "timestamp": "2025-11-04T18:14:04.307Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 305 - 7815 available (3.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0051.jpg",
       "timestamp": "2025-11-04T18:42:26.760Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 1,
       "cycleInfo": "Post 404 - 7716 available (5.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E07_-_Last_Laugh-0103.jpg",
+      "timestamp": "2025-11-06T22:06:06.426Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
+      "episode": "S3E7",
+      "season": 3,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 405 - 7715 available (5.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-06T21:34:59.930Z"
+  "lastUpdated": "2025-11-06T22:06:06.426Z"
 }
