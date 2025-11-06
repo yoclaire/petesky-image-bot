@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x01_-_What_Would_You_Do_for_a_Dollar-0017.jpg",
-      "timestamp": "2025-11-04T09:38:30.133Z",
-      "altText": "The Adventures of Pete & Pete - What Would You Do for a Dollar",
-      "episode": "S0E1",
-      "season": 0,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 288 - 7832 available (3.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0139.jpg",
       "timestamp": "2025-11-04T10:07:33.764Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 387 - 7733 available (4.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0141.jpg",
+      "timestamp": "2025-11-06T13:42:33.315Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 388 - 7732 available (4.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-06T13:15:20.301Z"
+  "lastUpdated": "2025-11-06T13:42:33.315Z"
 }
