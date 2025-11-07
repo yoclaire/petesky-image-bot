@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0094.jpg",
-      "timestamp": "2025-11-04T21:06:17.016Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 311 - 7809 available (3.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0040.jpg",
       "timestamp": "2025-11-04T21:34:49.776Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 410 - 7710 available (5.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0053.jpg",
+      "timestamp": "2025-11-07T01:34:14.504Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 411 - 7709 available (5.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-07T00:51:42.333Z"
+  "lastUpdated": "2025-11-07T01:34:14.504Z"
 }
