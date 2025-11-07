@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x23_-_Artie,_The_Strongest_Man..._In_The_World!-0006.jpg",
-      "timestamp": "2025-11-05T07:35:32.196Z",
-      "altText": "The Adventures of Pete & Pete - Artie, the Strongest Man... in the World!",
-      "episode": "S0E23",
-      "season": 0,
-      "episodeNumber": 23,
-      "cycleInfo": "Post 330 - 7790 available (4.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0212.jpg",
       "timestamp": "2025-11-05T08:08:39.552Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 4,
       "cycleInfo": "Post 429 - 7691 available (5.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0202.jpg",
+      "timestamp": "2025-11-07T11:35:06.396Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 430 - 7690 available (5.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-07T11:05:52.827Z"
+  "lastUpdated": "2025-11-07T11:35:06.396Z"
 }
