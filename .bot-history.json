@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E06_-_Don't_Tread_on_Pete-0250.jpg",
-      "timestamp": "2025-11-05T07:07:10.875Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
-      "episode": "S1E6",
-      "season": 1,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 329 - 7791 available (4.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x23_-_Artie,_The_Strongest_Man..._In_The_World!-0006.jpg",
       "timestamp": "2025-11-05T07:35:32.196Z",
       "altText": "The Adventures of Pete & Pete - Artie, the Strongest Man... in the World!",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 428 - 7692 available (5.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0079.jpg",
+      "timestamp": "2025-11-07T11:05:52.827Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 429 - 7691 available (5.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-07T10:39:00.455Z"
+  "lastUpdated": "2025-11-07T11:05:52.827Z"
 }
