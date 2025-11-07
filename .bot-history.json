@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E12_-_Das_Bus-0020.jpg",
-      "timestamp": "2025-11-05T18:42:11.540Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
-      "episode": "S3E12",
-      "season": 3,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 352 - 7768 available (4.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0168.jpg",
       "timestamp": "2025-11-05T19:05:59.713Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 451 - 7669 available (5.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0186.jpg",
+      "timestamp": "2025-11-07T22:36:32.995Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 452 - 7668 available (5.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-07T22:06:15.211Z"
+  "lastUpdated": "2025-11-07T22:36:32.995Z"
 }
