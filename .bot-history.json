@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0193.jpg",
-      "timestamp": "2025-11-06T04:41:03.221Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 370 - 7750 available (4.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0139.jpg",
       "timestamp": "2025-11-06T05:06:58.349Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 469 - 7651 available (5.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0053.jpg",
+      "timestamp": "2025-11-08T08:38:08.512Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 470 - 7650 available (5.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-08T08:07:51.380Z"
+  "lastUpdated": "2025-11-08T08:38:08.512Z"
 }
