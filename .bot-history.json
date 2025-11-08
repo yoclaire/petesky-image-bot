@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E13_-_Saturday-0088.jpg",
-      "timestamp": "2025-11-06T04:10:22.948Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
-      "episode": "S3E13",
-      "season": 3,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 369 - 7751 available (4.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0193.jpg",
       "timestamp": "2025-11-06T04:41:03.221Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 468 - 7652 available (5.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0192.jpg",
+      "timestamp": "2025-11-08T08:07:51.380Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 469 - 7651 available (5.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-08T07:34:03.980Z"
+  "lastUpdated": "2025-11-08T08:07:51.380Z"
 }
