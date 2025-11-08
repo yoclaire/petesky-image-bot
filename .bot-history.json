@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0095.jpg",
-      "timestamp": "2025-11-06T12:10:35.661Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 385 - 7735 available (4.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E05_-_Time_Tunnel-0070.jpg",
       "timestamp": "2025-11-06T12:47:19.844Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 484 - 7636 available (6.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0097.jpg",
+      "timestamp": "2025-11-08T16:06:35.443Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 485 - 7635 available (6.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-08T15:34:25.972Z"
+  "lastUpdated": "2025-11-08T16:06:35.443Z"
 }
