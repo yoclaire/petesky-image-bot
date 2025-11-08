@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0093.jpg",
-      "timestamp": "2025-11-06T06:43:30.022Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 374 - 7746 available (4.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0127.jpg",
       "timestamp": "2025-11-06T07:07:03.603Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 473 - 7647 available (5.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0067.jpg",
+      "timestamp": "2025-11-08T10:36:15.990Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 474 - 7646 available (5.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-08T10:06:23.751Z"
+  "lastUpdated": "2025-11-08T10:36:15.990Z"
 }
