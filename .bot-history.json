@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0134.jpg",
-      "timestamp": "2025-11-06T05:37:42.568Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 372 - 7748 available (4.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0096.jpg",
       "timestamp": "2025-11-06T06:09:42.810Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 471 - 7649 available (5.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0140.jpg",
+      "timestamp": "2025-11-08T09:34:32.884Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 472 - 7648 available (5.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-08T09:06:14.135Z"
+  "lastUpdated": "2025-11-08T09:34:32.884Z"
 }
