@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0092.jpg",
-      "timestamp": "2025-11-07T10:39:00.455Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 428 - 7692 available (5.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0079.jpg",
       "timestamp": "2025-11-07T11:05:52.827Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 527 - 7593 available (6.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x15_-_The_Burping_Room-0005.jpg",
+      "timestamp": "2025-11-09T14:35:01.154Z",
+      "altText": "The Adventures of Pete & Pete - The Burping Room",
+      "episode": "S0E15",
+      "season": 0,
+      "episodeNumber": 15,
+      "cycleInfo": "Post 528 - 7592 available (6.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-09T14:05:07.898Z"
+  "lastUpdated": "2025-11-09T14:35:01.154Z"
 }
