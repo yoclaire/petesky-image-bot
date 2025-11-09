@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E03_-_The_Nightcrawlers-0149.jpg",
-      "timestamp": "2025-11-07T13:39:47.918Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
-      "episode": "S1E3",
-      "season": 1,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 434 - 7686 available (5.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0009.jpg",
       "timestamp": "2025-11-07T14:06:44.545Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 533 - 7587 available (6.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0177.jpg",
+      "timestamp": "2025-11-09T17:34:38.312Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 534 - 7586 available (6.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-09T17:05:20.894Z"
+  "lastUpdated": "2025-11-09T17:34:38.312Z"
 }
