@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0002.jpg",
-      "timestamp": "2025-11-07T08:08:36.006Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 423 - 7697 available (5.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0287.jpg",
       "timestamp": "2025-11-07T08:40:58.258Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 522 - 7598 available (6.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0049.jpg",
+      "timestamp": "2025-11-09T12:09:15.915Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 523 - 7597 available (6.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-09T11:34:12.800Z"
+  "lastUpdated": "2025-11-09T12:09:15.915Z"
 }
