@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0202.jpg",
-      "timestamp": "2025-11-07T11:35:06.396Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 430 - 7690 available (5.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0066.jpg",
       "timestamp": "2025-11-07T12:10:13.962Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 529 - 7591 available (6.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0156.jpg",
+      "timestamp": "2025-11-09T15:34:27.709Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 530 - 7590 available (6.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-09T15:05:21.362Z"
+  "lastUpdated": "2025-11-09T15:34:27.709Z"
 }
