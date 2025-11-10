@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0224.jpg",
-      "timestamp": "2025-11-08T12:09:28.824Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 477 - 7643 available (5.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0066.jpg",
       "timestamp": "2025-11-08T12:46:42.044Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 576 - 7544 available (7.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0089.jpg",
+      "timestamp": "2025-11-10T16:41:58.292Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 577 - 7543 available (7.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-10T16:07:37.812Z"
+  "lastUpdated": "2025-11-10T16:41:58.292Z"
 }
