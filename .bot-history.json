@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0087.jpg",
-      "timestamp": "2025-11-08T15:34:25.972Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 484 - 7636 available (6.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0097.jpg",
       "timestamp": "2025-11-08T16:06:35.443Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 583 - 7537 available (7.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0069.jpg",
+      "timestamp": "2025-11-10T20:07:27.472Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 584 - 7536 available (7.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-10T19:34:27.736Z"
+  "lastUpdated": "2025-11-10T20:07:27.472Z"
 }
