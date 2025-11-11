@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x02_-_Freeze_Tag-0003.jpg",
-      "timestamp": "2025-11-08T23:34:00.690Z",
-      "altText": "The Adventures of Pete & Pete - Freeze Tag",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 500 - 7620 available (6.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0163.jpg",
       "timestamp": "2025-11-09T00:27:49.091Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 4,
       "cycleInfo": "Post 599 - 7521 available (7.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0222.jpg",
+      "timestamp": "2025-11-11T05:07:10.401Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 600 - 7520 available (7.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-11T04:39:25.195Z"
+  "lastUpdated": "2025-11-11T05:07:10.401Z"
 }
