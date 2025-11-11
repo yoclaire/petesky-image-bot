@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0142.jpg",
-      "timestamp": "2025-11-08T20:34:52.771Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 494 - 7626 available (6.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0048.jpg",
       "timestamp": "2025-11-08T21:05:10.285Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 5,
       "cycleInfo": "Post 593 - 7527 available (7.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0165.jpg",
+      "timestamp": "2025-11-11T01:34:47.460Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 594 - 7526 available (7.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-11T00:52:02.140Z"
+  "lastUpdated": "2025-11-11T01:34:47.460Z"
 }
