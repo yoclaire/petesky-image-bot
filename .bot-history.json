@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0156.jpg",
-      "timestamp": "2025-11-09T15:34:27.709Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 530 - 7590 available (6.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E05_-_Dance_Fever-0203.jpg",
       "timestamp": "2025-11-09T16:06:28.828Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 629 - 7491 available (7.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0245.jpg",
+      "timestamp": "2025-11-11T20:06:44.638Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 630 - 7490 available (7.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-11T19:34:27.907Z"
+  "lastUpdated": "2025-11-11T20:06:44.638Z"
 }
