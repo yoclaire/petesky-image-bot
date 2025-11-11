@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E13_-_Saturday-0048.jpg",
-      "timestamp": "2025-11-08T21:05:10.285Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
-      "episode": "S3E13",
-      "season": 3,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 495 - 7625 available (6.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0053.jpg",
       "timestamp": "2025-11-08T21:34:03.436Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 594 - 7526 available (7.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0171.jpg",
+      "timestamp": "2025-11-11T02:37:08.634Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 595 - 7525 available (7.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-11T01:34:47.460Z"
+  "lastUpdated": "2025-11-11T02:37:08.634Z"
 }
