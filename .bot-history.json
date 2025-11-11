@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E01_-_King_of_The_Road-0193.jpg",
-      "timestamp": "2025-11-09T04:07:21.156Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
-      "episode": "S1E1",
-      "season": 1,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 507 - 7613 available (6.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0197.jpg",
       "timestamp": "2025-11-09T04:38:08.104Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 606 - 7514 available (7.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0211.jpg",
+      "timestamp": "2025-11-11T08:40:39.967Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 607 - 7513 available (7.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-11T08:08:35.432Z"
+  "lastUpdated": "2025-11-11T08:40:39.967Z"
 }
