@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0240.jpg",
-      "timestamp": "2025-11-09T23:05:33.628Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 545 - 7575 available (6.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0215.jpg",
       "timestamp": "2025-11-09T23:34:30.599Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 644 - 7476 available (7.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0137.jpg",
+      "timestamp": "2025-11-12T04:39:22.776Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 645 - 7475 available (7.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-12T04:08:40.910Z"
+  "lastUpdated": "2025-11-12T04:39:22.776Z"
 }
