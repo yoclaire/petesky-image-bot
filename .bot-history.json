@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0073.jpg",
-      "timestamp": "2025-11-10T18:08:45.584Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 580 - 7540 available (7.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0056.jpg",
       "timestamp": "2025-11-10T18:44:26.587Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 679 - 7441 available (8.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0040.jpg",
+      "timestamp": "2025-11-12T22:06:50.762Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 680 - 7440 available (8.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-12T21:35:37.477Z"
+  "lastUpdated": "2025-11-12T22:06:50.762Z"
 }
