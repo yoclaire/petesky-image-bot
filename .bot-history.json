@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E03_-_The_Nightcrawlers-0127.jpg",
-      "timestamp": "2025-11-10T22:07:05.445Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
-      "episode": "S1E3",
-      "season": 1,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 588 - 7532 available (7.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0209.jpg",
       "timestamp": "2025-11-10T22:37:41.654Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 687 - 7433 available (8.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E09_-_On_Golden_Pete-0009.jpg",
+      "timestamp": "2025-11-13T03:27:23.588Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
+      "episode": "S2E9",
+      "season": 2,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 688 - 7432 available (8.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-13T02:37:36.291Z"
+  "lastUpdated": "2025-11-13T03:27:23.588Z"
 }
