@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0145.jpg",
-      "timestamp": "2025-11-11T09:37:20.457Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 609 - 7511 available (7.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0084.jpg",
       "timestamp": "2025-11-11T10:07:06.392Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 708 - 7412 available (8.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0201.jpg",
+      "timestamp": "2025-11-13T13:43:24.815Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 709 - 7411 available (8.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-13T13:16:13.992Z"
+  "lastUpdated": "2025-11-13T13:43:24.815Z"
 }
