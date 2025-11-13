@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0012.jpg",
-      "timestamp": "2025-11-11T13:41:39.884Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 617 - 7503 available (7.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0003.jpg",
       "timestamp": "2025-11-11T14:07:07.133Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 716 - 7404 available (8.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0008.jpg",
+      "timestamp": "2025-11-13T17:37:30.563Z",
+      "altText": "The Adventures of Pete & Pete - Staremaster",
+      "episode": "S0E26",
+      "season": 0,
+      "episodeNumber": 26,
+      "cycleInfo": "Post 717 - 7403 available (8.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-13T17:07:11.257Z"
+  "lastUpdated": "2025-11-13T17:37:30.563Z"
 }
