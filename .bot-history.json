@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0134.jpg",
-      "timestamp": "2025-11-11T11:06:03.630Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 612 - 7508 available (7.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0114.jpg",
       "timestamp": "2025-11-11T11:34:45.529Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 711 - 7409 available (8.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E13_-_Saturday-0167.jpg",
+      "timestamp": "2025-11-13T15:07:37.818Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
+      "episode": "S3E13",
+      "season": 3,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 712 - 7408 available (8.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-13T14:36:41.837Z"
+  "lastUpdated": "2025-11-13T15:07:37.818Z"
 }
