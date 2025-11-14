@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0102.jpg",
-      "timestamp": "2025-11-12T08:08:43.955Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 652 - 7468 available (8.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0128.jpg",
       "timestamp": "2025-11-12T08:41:47.820Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 751 - 7369 available (9.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0114.jpg",
+      "timestamp": "2025-11-14T12:10:48.608Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 752 - 7368 available (9.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-14T11:34:46.360Z"
+  "lastUpdated": "2025-11-14T12:10:48.608Z"
 }
