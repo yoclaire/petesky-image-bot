@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0194.jpg",
-      "timestamp": "2025-11-12T11:05:54.676Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 658 - 7462 available (8.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0036.jpg",
       "timestamp": "2025-11-12T11:34:46.765Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 4,
       "cycleInfo": "Post 757 - 7363 available (9.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0011.jpg",
+      "timestamp": "2025-11-14T15:06:56.541Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 758 - 7362 available (9.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-14T14:37:13.244Z"
+  "lastUpdated": "2025-11-14T15:06:56.541Z"
 }
