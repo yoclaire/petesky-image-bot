@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0097.jpg",
-      "timestamp": "2025-11-12T09:38:10.639Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 655 - 7465 available (8.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0130.jpg",
       "timestamp": "2025-11-12T10:07:22.807Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 754 - 7366 available (9.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0104.jpg",
+      "timestamp": "2025-11-14T13:40:56.264Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 755 - 7365 available (9.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-14T13:14:10.394Z"
+  "lastUpdated": "2025-11-14T13:40:56.264Z"
 }
