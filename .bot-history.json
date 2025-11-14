@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0110.jpg",
-      "timestamp": "2025-11-12T17:06:59.367Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 670 - 7450 available (8.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0201.jpg",
       "timestamp": "2025-11-12T17:37:33.534Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 769 - 7351 available (9.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0147.jpg",
+      "timestamp": "2025-11-14T21:05:34.542Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 770 - 7350 available (9.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-14T20:37:09.123Z"
+  "lastUpdated": "2025-11-14T21:05:34.542Z"
 }
