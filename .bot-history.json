@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0118.jpg",
-      "timestamp": "2025-11-13T11:35:08.165Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 705 - 7415 available (8.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E01_-_Grounded_For_Life-0160.jpg",
       "timestamp": "2025-11-13T12:10:50.229Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 804 - 7316 available (9.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0055.jpg",
+      "timestamp": "2025-11-15T15:34:41.627Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 805 - 7315 available (9.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-15T15:05:38.047Z"
+  "lastUpdated": "2025-11-15T15:34:41.627Z"
 }
