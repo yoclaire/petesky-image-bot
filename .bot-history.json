@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0008.jpg",
-      "timestamp": "2025-11-13T17:37:30.563Z",
-      "altText": "The Adventures of Pete & Pete - Staremaster",
-      "episode": "S0E26",
-      "season": 0,
-      "episodeNumber": 26,
-      "cycleInfo": "Post 717 - 7403 available (8.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0121.jpg",
       "timestamp": "2025-11-13T18:08:10.835Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 816 - 7304 available (10.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0180.jpg",
+      "timestamp": "2025-11-15T21:34:01.017Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 817 - 7303 available (10.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-15T21:05:17.941Z"
+  "lastUpdated": "2025-11-15T21:34:01.017Z"
 }
