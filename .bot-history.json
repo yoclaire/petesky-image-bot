@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0093.jpg",
-      "timestamp": "2025-11-13T06:09:40.701Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 694 - 7426 available (8.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0207.jpg",
       "timestamp": "2025-11-13T06:43:40.098Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 793 - 7327 available (9.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0288.jpg",
+      "timestamp": "2025-11-15T10:06:27.880Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 794 - 7326 available (9.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-15T09:34:34.822Z"
+  "lastUpdated": "2025-11-15T10:06:27.880Z"
 }
