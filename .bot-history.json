@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0102.jpg",
-      "timestamp": "2025-11-13T05:06:54.339Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 692 - 7428 available (8.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0089.jpg",
       "timestamp": "2025-11-13T05:37:57.477Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 791 - 7329 available (9.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0155.jpg",
+      "timestamp": "2025-11-15T09:06:18.983Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 792 - 7328 available (9.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-15T08:38:19.612Z"
+  "lastUpdated": "2025-11-15T09:06:18.983Z"
 }
