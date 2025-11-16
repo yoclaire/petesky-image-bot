@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x09_-_Flossing-0009.jpg",
-      "timestamp": "2025-11-14T19:34:17.792Z",
-      "altText": "The Adventures of Pete & Pete - Flossing",
-      "episode": "S0E9",
-      "season": 0,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 767 - 7353 available (9.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E05_-_Time_Tunnel-0273.jpg",
       "timestamp": "2025-11-14T20:07:27.863Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 20,
       "cycleInfo": "Post 866 - 7254 available (10.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0114.jpg",
+      "timestamp": "2025-11-16T23:35:00.028Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 867 - 7253 available (10.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-16T23:06:10.189Z"
+  "lastUpdated": "2025-11-16T23:35:00.028Z"
 }
