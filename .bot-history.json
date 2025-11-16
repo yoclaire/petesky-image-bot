@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0128.jpg",
-      "timestamp": "2025-11-14T07:07:02.658Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 742 - 7378 available (9.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0136.jpg",
       "timestamp": "2025-11-14T07:35:18.546Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 841 - 7279 available (10.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0071.jpg",
+      "timestamp": "2025-11-16T11:05:14.482Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 842 - 7278 available (10.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-16T10:37:02.370Z"
+  "lastUpdated": "2025-11-16T11:05:14.482Z"
 }
