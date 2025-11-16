@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E09_-_Road_Warrior-0098.jpg",
-      "timestamp": "2025-11-14T19:05:39.211Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
-      "episode": "S3E9",
-      "season": 3,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 766 - 7354 available (9.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x09_-_Flossing-0009.jpg",
       "timestamp": "2025-11-14T19:34:17.792Z",
       "altText": "The Adventures of Pete & Pete - Flossing",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 865 - 7255 available (10.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x20_-_The_Punishment-0010.jpg",
+      "timestamp": "2025-11-16T23:06:10.189Z",
+      "altText": "The Adventures of Pete & Pete - The Punishment",
+      "episode": "S0E20",
+      "season": 0,
+      "episodeNumber": 20,
+      "cycleInfo": "Post 866 - 7254 available (10.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-16T22:36:11.798Z"
+  "lastUpdated": "2025-11-16T23:06:10.189Z"
 }
