@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0122.jpg",
-      "timestamp": "2025-11-13T20:37:39.590Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 723 - 7397 available (8.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0084.jpg",
       "timestamp": "2025-11-13T21:06:28.871Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 822 - 7298 available (10.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0121.jpg",
+      "timestamp": "2025-11-16T00:54:04.837Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 823 - 7297 available (10.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-16T00:28:14.038Z"
+  "lastUpdated": "2025-11-16T00:54:04.837Z"
 }
