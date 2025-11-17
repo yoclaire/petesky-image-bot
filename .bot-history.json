@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0204.jpg",
-      "timestamp": "2025-11-15T14:05:14.107Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 802 - 7318 available (9.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0187.jpg",
       "timestamp": "2025-11-15T14:35:09.585Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 17,
       "cycleInfo": "Post 901 - 7219 available (11.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0093.jpg",
+      "timestamp": "2025-11-17T18:08:23.469Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 902 - 7218 available (11.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-17T17:37:30.185Z"
+  "lastUpdated": "2025-11-17T18:08:23.469Z"
 }
