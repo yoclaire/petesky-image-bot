@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0070.jpg",
-      "timestamp": "2025-11-15T11:05:05.410Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 796 - 7324 available (9.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0231.jpg",
       "timestamp": "2025-11-15T11:34:17.626Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 895 - 7225 available (11.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0070.jpg",
+      "timestamp": "2025-11-17T15:07:40.351Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 896 - 7224 available (11.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-17T14:38:57.475Z"
+  "lastUpdated": "2025-11-17T15:07:40.351Z"
 }
