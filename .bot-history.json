@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0155.jpg",
-      "timestamp": "2025-11-15T09:06:18.983Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 792 - 7328 available (9.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0048.jpg",
       "timestamp": "2025-11-15T09:34:34.822Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 891 - 7229 available (11.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x21_-_The_Launch-0006.jpg",
+      "timestamp": "2025-11-17T13:15:24.929Z",
+      "altText": "The Adventures of Pete & Pete - The Launch",
+      "episode": "S0E21",
+      "season": 0,
+      "episodeNumber": 21,
+      "cycleInfo": "Post 892 - 7228 available (11.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-17T12:47:27.635Z"
+  "lastUpdated": "2025-11-17T13:15:24.929Z"
 }
