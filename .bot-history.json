@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0074.jpg",
-      "timestamp": "2025-11-15T07:34:03.317Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 789 - 7331 available (9.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0140.jpg",
       "timestamp": "2025-11-15T08:07:35.209Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 888 - 7232 available (10.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0186.jpg",
+      "timestamp": "2025-11-17T11:35:21.771Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 889 - 7231 available (10.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-17T11:06:27.028Z"
+  "lastUpdated": "2025-11-17T11:35:21.771Z"
 }
