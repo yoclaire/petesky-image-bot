@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0273.jpg",
-      "timestamp": "2025-11-14T20:07:27.863Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 768 - 7352 available (9.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0098.jpg",
       "timestamp": "2025-11-14T20:37:09.123Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 867 - 7253 available (10.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0043.jpg",
+      "timestamp": "2025-11-17T00:26:53.764Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 868 - 7252 available (10.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-16T23:35:00.028Z"
+  "lastUpdated": "2025-11-17T00:26:53.764Z"
 }
