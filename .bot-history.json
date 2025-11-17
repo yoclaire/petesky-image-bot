@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E01_-_King_of_The_Road-0029.jpg",
-      "timestamp": "2025-11-14T21:34:59.726Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
-      "episode": "S1E1",
-      "season": 1,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 771 - 7349 available (9.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0068.jpg",
       "timestamp": "2025-11-14T22:06:26.003Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 870 - 7250 available (10.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0201.jpg",
+      "timestamp": "2025-11-17T02:37:39.919Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 871 - 7249 available (10.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-17T01:34:45.555Z"
+  "lastUpdated": "2025-11-17T02:37:39.919Z"
 }
