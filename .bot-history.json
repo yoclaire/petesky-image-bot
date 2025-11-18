@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0158.jpg",
-      "timestamp": "2025-11-15T22:34:59.265Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 819 - 7301 available (10.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0123.jpg",
       "timestamp": "2025-11-15T23:06:16.038Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 8,
       "cycleInfo": "Post 918 - 7202 available (11.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0059.jpg",
+      "timestamp": "2025-11-18T03:47:48.232Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 919 - 7201 available (11.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-18T03:26:21.268Z"
+  "lastUpdated": "2025-11-18T03:47:48.232Z"
 }
