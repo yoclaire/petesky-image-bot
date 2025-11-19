@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0101.jpg",
-      "timestamp": "2025-11-17T10:40:10.159Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
-      "episode": "S2E10",
-      "season": 2,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 887 - 7233 available (10.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0153.jpg",
       "timestamp": "2025-11-17T11:06:27.028Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 986 - 7134 available (12.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0279.jpg",
+      "timestamp": "2025-11-19T16:08:13.409Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
+      "episode": "S2E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 987 - 7133 available (12.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-19T15:36:10.888Z"
+  "lastUpdated": "2025-11-19T16:08:13.409Z"
 }
