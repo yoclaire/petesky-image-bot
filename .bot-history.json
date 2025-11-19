@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E13_-_Sick_Day-0106.jpg",
-      "timestamp": "2025-11-16T22:36:11.798Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
-      "episode": "S2E13",
-      "season": 2,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 865 - 7255 available (10.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x20_-_The_Punishment-0010.jpg",
       "timestamp": "2025-11-16T23:06:10.189Z",
       "altText": "The Adventures of Pete & Pete - The Punishment",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 964 - 7156 available (11.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0101.jpg",
+      "timestamp": "2025-11-19T05:06:55.231Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 965 - 7155 available (11.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-19T04:39:30.323Z"
+  "lastUpdated": "2025-11-19T05:06:55.231Z"
 }
