@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E12_-_Das_Bus-0002.jpg",
-      "timestamp": "2025-11-17T09:08:51.078Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
-      "episode": "S3E12",
-      "season": 3,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 884 - 7236 available (10.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0289.jpg",
       "timestamp": "2025-11-17T09:39:22.773Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 983 - 7137 available (12.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0073.jpg",
+      "timestamp": "2025-11-19T14:38:47.195Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 984 - 7136 available (12.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-19T14:06:51.125Z"
+  "lastUpdated": "2025-11-19T14:38:47.195Z"
 }
