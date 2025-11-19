@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0073.jpg",
-      "timestamp": "2025-11-17T17:06:48.064Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 900 - 7220 available (11.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x17_-_Halloween-0004.jpg",
       "timestamp": "2025-11-17T17:37:30.185Z",
       "altText": "The Adventures of Pete & Pete - Halloween",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 999 - 7121 available (12.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0003.jpg",
+      "timestamp": "2025-11-19T22:36:58.969Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1000 - 7120 available (12.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-19T22:06:20.252Z"
+  "lastUpdated": "2025-11-19T22:36:58.969Z"
 }
