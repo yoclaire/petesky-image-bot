@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0093.jpg",
-      "timestamp": "2025-11-17T18:08:23.469Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 902 - 7218 available (11.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E05_-_Tool_and_Die-0111.jpg",
       "timestamp": "2025-11-17T18:42:37.608Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 1001 - 7119 available (12.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0005.jpg",
+      "timestamp": "2025-11-19T23:34:45.784Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1002 - 7118 available (12.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-19T23:06:16.804Z"
+  "lastUpdated": "2025-11-19T23:34:45.784Z"
 }
