@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E06_-_Don't_Tread_on_Pete-0159.jpg",
-      "timestamp": "2025-11-17T19:34:31.413Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
-      "episode": "S1E6",
-      "season": 1,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 905 - 7215 available (11.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0190.jpg",
       "timestamp": "2025-11-17T20:07:09.178Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 1004 - 7116 available (12.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E06_-_Don't_Tread_on_Pete-0097.jpg",
+      "timestamp": "2025-11-20T01:34:35.291Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
+      "episode": "S1E6",
+      "season": 1,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 1005 - 7115 available (12.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-20T00:50:51.111Z"
+  "lastUpdated": "2025-11-20T01:34:35.291Z"
 }
