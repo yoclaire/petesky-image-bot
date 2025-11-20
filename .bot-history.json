@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0190.jpg",
-      "timestamp": "2025-11-17T20:07:09.178Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 906 - 7214 available (11.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0058.jpg",
       "timestamp": "2025-11-17T20:36:40.135Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 1005 - 7115 available (12.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0103.jpg",
+      "timestamp": "2025-11-20T02:36:34.872Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1006 - 7114 available (12.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-20T01:34:35.291Z"
+  "lastUpdated": "2025-11-20T02:36:34.872Z"
 }
