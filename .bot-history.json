@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0148.jpg",
-      "timestamp": "2025-11-19T06:10:20.913Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 967 - 7153 available (11.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0231.jpg",
       "timestamp": "2025-11-19T06:43:09.266Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 1066 - 7054 available (13.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E05_-_Dance_Fever-0035.jpg",
+      "timestamp": "2025-11-21T10:38:58.780Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
+      "episode": "S3E5",
+      "season": 3,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1067 - 7053 available (13.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-21T10:06:47.538Z"
+  "lastUpdated": "2025-11-21T10:38:58.780Z"
 }
