@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0085.jpg",
-      "timestamp": "2025-11-19T11:35:05.213Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 978 - 7142 available (12.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0050.jpg",
       "timestamp": "2025-11-19T12:10:32.505Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 1077 - 7043 available (13.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0097.jpg",
+      "timestamp": "2025-11-21T16:07:10.462Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1078 - 7042 available (13.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-21T15:34:30.276Z"
+  "lastUpdated": "2025-11-21T16:07:10.462Z"
 }
