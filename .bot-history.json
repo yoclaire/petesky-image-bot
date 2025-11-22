@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0108.jpg",
-      "timestamp": "2025-11-20T09:37:01.705Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1020 - 7100 available (12.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0196.jpg",
       "timestamp": "2025-11-20T10:07:18.660Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 1119 - 7001 available (13.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0257.jpg",
+      "timestamp": "2025-11-22T14:05:23.002Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 1120 - 7000 available (13.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-22T13:36:03.637Z"
+  "lastUpdated": "2025-11-22T14:05:23.002Z"
 }
