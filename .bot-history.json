@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0030.jpg",
-      "timestamp": "2025-11-20T00:26:08.878Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1003 - 7117 available (12.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0083.jpg",
       "timestamp": "2025-11-20T00:50:51.111Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 1102 - 7018 available (13.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0100.jpg",
+      "timestamp": "2025-11-22T05:36:18.475Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1103 - 7017 available (13.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-22T05:06:23.695Z"
+  "lastUpdated": "2025-11-22T05:36:18.476Z"
 }
