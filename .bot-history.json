@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0046.jpg",
-      "timestamp": "2025-11-21T17:36:20.267Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1081 - 7039 available (13.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0199.jpg",
       "timestamp": "2025-11-21T18:08:48.495Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 1180 - 6940 available (14.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0128.jpg",
+      "timestamp": "2025-11-23T22:06:22.387Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1181 - 6939 available (14.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-23T21:34:26.719Z"
+  "lastUpdated": "2025-11-23T22:06:22.387Z"
 }
