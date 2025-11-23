@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0118.jpg",
-      "timestamp": "2025-11-21T08:41:37.116Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 1063 - 7057 available (13.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0074.jpg",
       "timestamp": "2025-11-21T09:07:04.928Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 4,
       "cycleInfo": "Post 1162 - 6958 available (14.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0027.jpg",
+      "timestamp": "2025-11-23T13:09:39.102Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 1163 - 6957 available (14.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-23T12:46:35.696Z"
+  "lastUpdated": "2025-11-23T13:09:39.102Z"
 }
