@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0103.jpg",
-      "timestamp": "2025-11-21T13:39:31.370Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1073 - 7047 available (13.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0150.jpg",
       "timestamp": "2025-11-21T14:06:44.333Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 1172 - 6948 available (14.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0155.jpg",
+      "timestamp": "2025-11-23T18:08:25.033Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
+      "episode": "S2E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 1173 - 6947 available (14.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-23T17:35:09.281Z"
+  "lastUpdated": "2025-11-23T18:08:25.033Z"
 }
