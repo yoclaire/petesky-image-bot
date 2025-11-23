@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0132.jpg",
-      "timestamp": "2025-11-21T15:06:57.666Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1076 - 7044 available (13.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0175.jpg",
       "timestamp": "2025-11-21T15:34:30.276Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 1175 - 6945 available (14.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0126.jpg",
+      "timestamp": "2025-11-23T19:34:10.703Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1176 - 6944 available (14.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-23T19:05:11.426Z"
+  "lastUpdated": "2025-11-23T19:34:10.703Z"
 }
