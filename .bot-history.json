@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E07_-_Inspector_34-0142.jpg",
-      "timestamp": "2025-11-21T11:05:47.820Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
-      "episode": "S2E7",
-      "season": 2,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1068 - 7052 available (13.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0141.jpg",
       "timestamp": "2025-11-21T11:34:29.240Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 1167 - 6953 available (14.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0062.jpg",
+      "timestamp": "2025-11-23T15:34:41.260Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1168 - 6952 available (14.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-23T15:06:00.992Z"
+  "lastUpdated": "2025-11-23T15:34:41.261Z"
 }
