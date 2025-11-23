@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0278.jpg",
-      "timestamp": "2025-11-21T00:25:55.042Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1048 - 7072 available (12.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0004.jpg",
       "timestamp": "2025-11-21T00:50:22.878Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 1147 - 6973 available (14.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0104.jpg",
+      "timestamp": "2025-11-23T05:37:07.063Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 1148 - 6972 available (14.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-23T05:06:40.121Z"
+  "lastUpdated": "2025-11-23T05:37:07.063Z"
 }
