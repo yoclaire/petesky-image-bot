@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0268.jpg",
-      "timestamp": "2025-11-21T05:37:55.409Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 1057 - 7063 available (13.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0099.jpg",
       "timestamp": "2025-11-21T06:09:37.968Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 1156 - 6964 available (14.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0058.jpg",
+      "timestamp": "2025-11-23T10:06:11.446Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1157 - 6963 available (14.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-23T09:35:02.679Z"
+  "lastUpdated": "2025-11-23T10:06:11.446Z"
 }
