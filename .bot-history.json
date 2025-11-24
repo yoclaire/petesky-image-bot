@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0181.jpg",
-      "timestamp": "2025-11-22T00:49:41.419Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1095 - 7025 available (13.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E02_-_Field_of_Pete-0137.jpg",
       "timestamp": "2025-11-22T01:33:50.105Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 1194 - 6926 available (14.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E05_-_Dance_Fever-0111.jpg",
+      "timestamp": "2025-11-24T06:44:20.161Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
+      "episode": "S3E5",
+      "season": 3,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1195 - 6925 available (14.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-24T06:10:02.751Z"
+  "lastUpdated": "2025-11-24T06:44:20.161Z"
 }
