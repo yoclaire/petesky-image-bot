@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E01_-_King_of_The_Road-0237.jpg",
-      "timestamp": "2025-11-22T05:06:23.695Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
-      "episode": "S1E1",
-      "season": 1,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1102 - 7018 available (13.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0100.jpg",
       "timestamp": "2025-11-22T05:36:18.475Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 25,
       "cycleInfo": "Post 1201 - 6919 available (14.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0100.jpg",
+      "timestamp": "2025-11-24T10:07:20.864Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1202 - 6918 available (14.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-24T09:39:41.731Z"
+  "lastUpdated": "2025-11-24T10:07:20.864Z"
 }
