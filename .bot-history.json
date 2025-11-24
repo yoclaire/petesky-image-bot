@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0100.jpg",
-      "timestamp": "2025-11-22T16:38:31.164Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1125 - 6995 available (13.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0266.jpg",
       "timestamp": "2025-11-22T17:05:32.929Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 1224 - 6896 available (15.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0111.jpg",
+      "timestamp": "2025-11-24T21:35:47.436Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1225 - 6895 available (15.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-24T21:06:05.633Z"
+  "lastUpdated": "2025-11-24T21:35:47.436Z"
 }
