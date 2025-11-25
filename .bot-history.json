@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E01_-_King_of_The_Road-0189.jpg",
-      "timestamp": "2025-11-23T07:06:28.151Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
-      "episode": "S1E1",
-      "season": 1,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1151 - 6969 available (14.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0264.jpg",
       "timestamp": "2025-11-23T07:34:23.022Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 1250 - 6870 available (15.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0092.jpg",
+      "timestamp": "2025-11-25T11:35:24.075Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1251 - 6869 available (15.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-25T11:06:17.362Z"
+  "lastUpdated": "2025-11-25T11:35:24.075Z"
 }
