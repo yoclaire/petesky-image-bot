@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0063.jpg",
-      "timestamp": "2025-11-22T23:35:01.514Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1139 - 6981 available (14.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0202.jpg",
       "timestamp": "2025-11-23T00:30:10.183Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 1238 - 6882 available (15.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0158.jpg",
+      "timestamp": "2025-11-25T05:38:08.984Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 1239 - 6881 available (15.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-25T05:06:57.665Z"
+  "lastUpdated": "2025-11-25T05:38:08.985Z"
 }
