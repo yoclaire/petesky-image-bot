@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0044.jpg",
-      "timestamp": "2025-11-24T13:16:28.062Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 1208 - 6912 available (14.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0109.jpg",
       "timestamp": "2025-11-24T13:42:41.877Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 1307 - 6813 available (16.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0226.jpg",
+      "timestamp": "2025-11-26T17:06:22.682Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1308 - 6812 available (16.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-26T16:41:55.889Z"
+  "lastUpdated": "2025-11-26T17:06:22.682Z"
 }
