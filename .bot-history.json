@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0113.jpg",
-      "timestamp": "2025-11-24T16:38:54.830Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1215 - 6905 available (15.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0117.jpg",
       "timestamp": "2025-11-24T17:06:16.271Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 1314 - 6806 available (16.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0285.jpg",
+      "timestamp": "2025-11-26T20:35:54.038Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 1315 - 6805 available (16.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-26T20:07:00.722Z"
+  "lastUpdated": "2025-11-26T20:35:54.038Z"
 }
