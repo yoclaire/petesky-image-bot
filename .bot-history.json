@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0111.jpg",
-      "timestamp": "2025-11-24T06:44:20.161Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1195 - 6925 available (14.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0222.jpg",
       "timestamp": "2025-11-24T07:06:58.185Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 1294 - 6826 available (15.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0187.jpg",
+      "timestamp": "2025-11-26T10:40:00.038Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1295 - 6825 available (15.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-26T10:07:23.605Z"
+  "lastUpdated": "2025-11-26T10:40:00.038Z"
 }
