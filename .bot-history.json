@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0010.jpg",
-      "timestamp": "2025-11-24T09:39:41.731Z",
-      "altText": "The Adventures of Pete & Pete - The Artie Workout",
-      "episode": "S0E25",
-      "season": 0,
-      "episodeNumber": 25,
-      "cycleInfo": "Post 1201 - 6919 available (14.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0100.jpg",
       "timestamp": "2025-11-24T10:07:20.864Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 1300 - 6820 available (16.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0044.jpg",
+      "timestamp": "2025-11-26T13:43:51.553Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1301 - 6819 available (16.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-26T13:17:25.040Z"
+  "lastUpdated": "2025-11-26T13:43:51.553Z"
 }
