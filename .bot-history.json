@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0172.jpg",
-      "timestamp": "2025-11-24T04:43:40.242Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1191 - 6929 available (14.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0184.jpg",
       "timestamp": "2025-11-24T05:07:44.446Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 1290 - 6830 available (15.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0016.jpg",
+      "timestamp": "2025-11-26T08:41:38.993Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1291 - 6829 available (15.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-26T08:08:37.725Z"
+  "lastUpdated": "2025-11-26T08:41:38.993Z"
 }
