@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0185.jpg",
-      "timestamp": "2025-11-23T20:36:47.447Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1178 - 6942 available (14.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0141.jpg",
       "timestamp": "2025-11-23T21:05:55.183Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 1277 - 6843 available (15.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0137.jpg",
+      "timestamp": "2025-11-26T01:34:42.441Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 1278 - 6842 available (15.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-26T00:51:32.964Z"
+  "lastUpdated": "2025-11-26T01:34:42.441Z"
 }
