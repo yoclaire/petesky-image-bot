@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0173.jpg",
-      "timestamp": "2025-11-25T04:40:44.948Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1237 - 6883 available (15.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0121.jpg",
       "timestamp": "2025-11-25T05:06:57.665Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 1336 - 6784 available (16.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0192.jpg",
+      "timestamp": "2025-11-27T08:41:50.172Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1337 - 6783 available (16.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-27T08:09:02.158Z"
+  "lastUpdated": "2025-11-27T08:41:50.172Z"
 }
