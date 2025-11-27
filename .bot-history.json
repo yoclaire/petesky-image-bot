@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0081.jpg",
-      "timestamp": "2025-11-25T06:45:05.851Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1241 - 6879 available (15.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0226.jpg",
       "timestamp": "2025-11-25T07:07:10.183Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 1340 - 6780 available (16.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0103.jpg",
+      "timestamp": "2025-11-27T10:39:56.542Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1341 - 6779 available (16.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-27T10:07:13.948Z"
+  "lastUpdated": "2025-11-27T10:39:56.542Z"
 }
