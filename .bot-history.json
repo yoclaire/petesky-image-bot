@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0211.jpg",
-      "timestamp": "2025-11-24T23:08:35.327Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1228 - 6892 available (15.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0084.jpg",
       "timestamp": "2025-11-24T23:36:38.923Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 1327 - 6793 available (16.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0114.jpg",
+      "timestamp": "2025-11-27T04:08:23.963Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 1328 - 6792 available (16.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-27T03:47:40.528Z"
+  "lastUpdated": "2025-11-27T04:08:23.963Z"
 }
