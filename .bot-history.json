@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0111.jpg",
-      "timestamp": "2025-11-24T21:35:47.436Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 1225 - 6895 available (15.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0260.jpg",
       "timestamp": "2025-11-24T22:06:10.643Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 1324 - 6796 available (16.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x02_-_Freeze_Tag-0004.jpg",
+      "timestamp": "2025-11-27T02:37:09.773Z",
+      "altText": "The Adventures of Pete & Pete - Freeze Tag",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1325 - 6795 available (16.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-27T01:34:25.036Z"
+  "lastUpdated": "2025-11-27T02:37:09.773Z"
 }
