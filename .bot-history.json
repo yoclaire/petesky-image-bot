@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0236.jpg",
-      "timestamp": "2025-11-24T21:06:05.633Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1224 - 6896 available (15.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0111.jpg",
       "timestamp": "2025-11-24T21:35:47.436Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 1323 - 6797 available (16.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0203.jpg",
+      "timestamp": "2025-11-27T01:34:25.036Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1324 - 6796 available (16.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-27T00:51:17.936Z"
+  "lastUpdated": "2025-11-27T01:34:25.036Z"
 }
