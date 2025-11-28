@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0107.jpg",
-      "timestamp": "2025-11-25T21:35:30.559Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1271 - 6849 available (15.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0014.jpg",
       "timestamp": "2025-11-25T22:06:41.243Z",
       "altText": "The Adventures of Pete & Pete - The Artie Workout",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 9,
       "cycleInfo": "Post 1370 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0084.jpg",
+      "timestamp": "2025-11-28T02:36:16.230Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1371 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-28T01:34:27.984Z"
+  "lastUpdated": "2025-11-28T02:36:16.230Z"
 }
