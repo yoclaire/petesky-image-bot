@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0111.jpg",
-      "timestamp": "2025-11-27T05:38:19.006Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1331 - 6789 available (16.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E05_-_Time_Tunnel-0289.jpg",
       "timestamp": "2025-11-27T06:09:47.078Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 1430 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0085.jpg",
+      "timestamp": "2025-11-29T09:35:20.701Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1431 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-11-29T09:06:27.781Z"
+  "lastUpdated": "2025-11-29T09:35:20.701Z"
 }
