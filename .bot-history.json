@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E05_-_New_Year's_Pete-0192.jpg",
-      "timestamp": "2025-12-09T09:39:02.850Z",
-      "altText": "The Adventures of Pete & Pete - New Year'S Pete",
-      "episode": "S0E5",
-      "season": 0,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1882 - -751 available (226.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E05_-_New_Year's_Pete-0081.jpg",
       "timestamp": "2025-12-09T10:08:30.621Z",
       "altText": "The Adventures of Pete & Pete - New Year'S Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 11,
       "cycleInfo": "Post 1981 - -751 available (226.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E05_-_New_Year's_Pete-0112.jpg",
+      "timestamp": "2025-12-11T14:39:09.765Z",
+      "altText": "The Adventures of Pete & Pete - New Year'S Pete",
+      "episode": "S0E5",
+      "season": 0,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1982 - -751 available (226.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-12-11T14:08:01.497Z"
+  "lastUpdated": "2025-12-11T14:39:09.765Z"
 }
