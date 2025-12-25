@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E11_-_O'_Christmas_Pete-0277.jpg",
-      "timestamp": "2025-12-22T23:06:30.331Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 11: O' Christmas Pete",
-      "episode": "S3E11",
-      "season": 3,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 394 - 200 available (66.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E11_-_O'_Christmas_Pete-0057.jpg",
       "timestamp": "2025-12-22T23:36:13.239Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 11: O' Christmas Pete",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 5,
       "cycleInfo": "Post 493 - 101 available (83.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E11_-_O'_Christmas_Pete-0149.jpg",
+      "timestamp": "2025-12-25T07:08:11.722Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 11: O' Christmas Pete",
+      "episode": "S3E11",
+      "season": 3,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 494 - 100 available (83.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2025-12-25T06:45:46.794Z"
+  "lastUpdated": "2025-12-25T07:08:11.722Z"
 }
