@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E05_-_New_Year's_Pete-0098.jpg",
-      "timestamp": "2025-12-30T05:40:16.816Z",
-      "altText": "The Adventures of Pete & Pete - New Year'S Pete",
-      "episode": "S0E5",
-      "season": 0,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 120 - 474 available (20.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E05_-_New_Year's_Pete-0048.jpg",
       "timestamp": "2025-12-30T06:09:59.852Z",
       "altText": "The Adventures of Pete & Pete - New Year'S Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 219 - 7901 available (2.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0129.jpg",
+      "timestamp": "2026-01-01T11:06:30.722Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 220 - 7900 available (2.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-01T10:40:02.622Z"
+  "lastUpdated": "2026-01-01T11:06:30.722Z"
 }
