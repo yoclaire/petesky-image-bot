@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E05_-_New_Year's_Pete-0048.jpg",
-      "timestamp": "2025-12-30T06:09:59.852Z",
-      "altText": "The Adventures of Pete & Pete - New Year'S Pete",
-      "episode": "S0E5",
-      "season": 0,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 121 - 473 available (20.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E05_-_New_Year's_Pete-0090.jpg",
       "timestamp": "2025-12-30T06:46:02.441Z",
       "altText": "The Adventures of Pete & Pete - New Year'S Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 220 - 7900 available (2.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0149.jpg",
+      "timestamp": "2026-01-01T11:35:40.538Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 221 - 7899 available (2.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-01T11:06:30.722Z"
+  "lastUpdated": "2026-01-01T11:35:40.538Z"
 }
