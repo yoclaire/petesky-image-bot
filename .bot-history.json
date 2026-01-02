@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E05_-_New_Year's_Pete-0134.jpg",
-      "timestamp": "2025-12-31T13:15:52.429Z",
-      "altText": "The Adventures of Pete & Pete - New Year'S Pete",
-      "episode": "S0E5",
-      "season": 0,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 180 - 414 available (30.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E05_-_New_Year's_Pete-0257.jpg",
       "timestamp": "2025-12-31T13:42:48.335Z",
       "altText": "The Adventures of Pete & Pete - New Year'S Pete",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 279 - 7841 available (3.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0219.jpg",
+      "timestamp": "2026-01-02T18:43:36.149Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 280 - 7840 available (3.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-02T18:09:28.904Z"
+  "lastUpdated": "2026-01-02T18:43:36.149Z"
 }
