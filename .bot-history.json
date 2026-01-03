@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0005.jpg",
-      "timestamp": "2026-01-01T16:08:07.986Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 230 - 7890 available (2.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0098.jpg",
       "timestamp": "2026-01-01T16:41:55.988Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 5,
       "cycleInfo": "Post 329 - 7791 available (4.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0058.jpg",
+      "timestamp": "2026-01-03T21:05:49.535Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 330 - 7790 available (4.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-03T20:37:51.616Z"
+  "lastUpdated": "2026-01-03T21:05:49.536Z"
 }
