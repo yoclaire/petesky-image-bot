@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0066.jpg",
-      "timestamp": "2026-01-01T08:42:55.302Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 215 - 7905 available (2.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0056.jpg",
       "timestamp": "2026-01-01T09:09:33.441Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 314 - 7806 available (3.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0223.jpg",
+      "timestamp": "2026-01-03T13:40:28.738Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 315 - 7805 available (3.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-03T13:13:47.672Z"
+  "lastUpdated": "2026-01-03T13:40:28.738Z"
 }
