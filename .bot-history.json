@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E05_-_New_Year's_Pete-0103.jpg",
-      "timestamp": "2025-12-31T21:06:17.217Z",
-      "altText": "The Adventures of Pete & Pete - New Year'S Pete",
-      "episode": "S0E5",
-      "season": 0,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 196 - 398 available (33.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E05_-_New_Year's_Pete-0110.jpg",
       "timestamp": "2025-12-31T21:35:33.937Z",
       "altText": "The Adventures of Pete & Pete - New Year'S Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 295 - 7825 available (3.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0091.jpg",
+      "timestamp": "2026-01-03T04:14:16.319Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 296 - 7824 available (3.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-03T03:33:05.352Z"
+  "lastUpdated": "2026-01-03T04:14:16.319Z"
 }
