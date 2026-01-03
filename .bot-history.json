@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E01_-_Valentine's_Day_Massacre-0083.jpg",
-      "timestamp": "2026-01-01T05:12:16.106Z",
-      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
-      "episode": "S0E1",
-      "season": 0,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 208 - 7912 available (2.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x02_-_Freeze_Tag-0006.jpg",
       "timestamp": "2026-01-01T05:42:01.333Z",
       "altText": "The Adventures of Pete & Pete - Freeze Tag",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 307 - 7813 available (3.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0168.jpg",
+      "timestamp": "2026-01-03T10:06:40.176Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 308 - 7812 available (3.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-03T09:37:05.485Z"
+  "lastUpdated": "2026-01-03T10:06:40.176Z"
 }
