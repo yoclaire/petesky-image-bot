@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0085.jpg",
-      "timestamp": "2026-01-02T00:54:06.481Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 247 - 7873 available (3.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E04_-_Apocalypse_Pete-0138.jpg",
       "timestamp": "2026-01-02T01:35:22.294Z",
       "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 346 - 7774 available (4.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0117.jpg",
+      "timestamp": "2026-01-04T07:36:21.950Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 347 - 7773 available (4.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-04T07:08:01.066Z"
+  "lastUpdated": "2026-01-04T07:36:21.950Z"
 }
