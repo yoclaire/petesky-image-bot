@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0062.jpg",
-      "timestamp": "2026-01-02T12:11:13.161Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 267 - 7853 available (3.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0154.jpg",
       "timestamp": "2026-01-02T12:47:34.236Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 366 - 7754 available (4.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E03_-_The_Call-0145.jpg",
+      "timestamp": "2026-01-04T17:36:52.635Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
+      "episode": "S2E3",
+      "season": 2,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 367 - 7753 available (4.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-04T17:05:27.212Z"
+  "lastUpdated": "2026-01-04T17:36:52.635Z"
 }
