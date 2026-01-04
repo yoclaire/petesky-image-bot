@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0064.jpg",
-      "timestamp": "2026-01-01T23:06:48.186Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 244 - 7876 available (3.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0166.jpg",
       "timestamp": "2026-01-01T23:36:24.910Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 343 - 7777 available (4.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0187.jpg",
+      "timestamp": "2026-01-04T06:09:48.679Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 344 - 7776 available (4.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-04T05:41:11.276Z"
+  "lastUpdated": "2026-01-04T06:09:48.679Z"
 }
