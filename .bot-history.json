@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0192.jpg",
-      "timestamp": "2026-01-02T13:15:38.847Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 269 - 7851 available (3.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0104.jpg",
       "timestamp": "2026-01-02T13:42:52.593Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 368 - 7752 available (4.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0007.jpg",
+      "timestamp": "2026-01-04T18:42:47.384Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 369 - 7751 available (4.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-04T18:08:34.296Z"
+  "lastUpdated": "2026-01-04T18:42:47.384Z"
 }
