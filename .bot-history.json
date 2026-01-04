@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0168.jpg",
-      "timestamp": "2026-01-02T09:39:14.078Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 262 - 7858 available (3.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0106.jpg",
       "timestamp": "2026-01-02T10:06:47.063Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 361 - 7759 available (4.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0158.jpg",
+      "timestamp": "2026-01-04T15:06:10.638Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 362 - 7758 available (4.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-04T14:37:02.761Z"
+  "lastUpdated": "2026-01-04T15:06:10.638Z"
 }
