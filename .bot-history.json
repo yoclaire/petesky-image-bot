@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0155.jpg",
-      "timestamp": "2026-01-02T04:46:48.897Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 252 - 7868 available (3.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0028.jpg",
       "timestamp": "2026-01-02T05:10:22.397Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 351 - 7769 available (4.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0144.jpg",
+      "timestamp": "2026-01-04T10:06:27.784Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 352 - 7768 available (4.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-04T09:36:02.311Z"
+  "lastUpdated": "2026-01-04T10:06:27.784Z"
 }
