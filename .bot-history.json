@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0154.jpg",
-      "timestamp": "2026-01-02T12:47:34.236Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 268 - 7852 available (3.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0192.jpg",
       "timestamp": "2026-01-02T13:15:38.847Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 3,
       "cycleInfo": "Post 367 - 7753 available (4.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0112.jpg",
+      "timestamp": "2026-01-04T18:08:34.296Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 368 - 7752 available (4.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-04T17:36:52.635Z"
+  "lastUpdated": "2026-01-04T18:08:34.296Z"
 }
