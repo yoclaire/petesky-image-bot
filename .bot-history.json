@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0040.jpg",
-      "timestamp": "2026-01-03T12:10:12.259Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 312 - 7808 available (3.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0085.jpg",
       "timestamp": "2026-01-03T12:47:14.571Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 7,
       "cycleInfo": "Post 411 - 7709 available (5.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0233.jpg",
+      "timestamp": "2026-01-05T18:10:25.987Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 412 - 7708 available (5.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-05T17:39:56.073Z"
+  "lastUpdated": "2026-01-05T18:10:25.987Z"
 }
