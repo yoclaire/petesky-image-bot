@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0059.jpg",
-      "timestamp": "2026-01-03T11:05:25.103Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 310 - 7810 available (3.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0186.jpg",
       "timestamp": "2026-01-03T11:34:50.003Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 3,
       "cycleInfo": "Post 409 - 7711 available (5.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E01_-_Valentine's_Day_Massacre-0148.jpg",
+      "timestamp": "2026-01-05T17:08:33.525Z",
+      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 410 - 7710 available (5.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-05T16:42:33.170Z"
+  "lastUpdated": "2026-01-05T17:08:33.525Z"
 }
