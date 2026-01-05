@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0022.jpg",
-      "timestamp": "2026-01-03T05:39:03.588Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 299 - 7821 available (3.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0219.jpg",
       "timestamp": "2026-01-03T06:09:32.710Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 398 - 7722 available (4.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0255.jpg",
+      "timestamp": "2026-01-05T11:36:36.192Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 399 - 7721 available (4.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-05T11:06:36.171Z"
+  "lastUpdated": "2026-01-05T11:36:36.192Z"
 }
