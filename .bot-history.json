@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0148.jpg",
-      "timestamp": "2026-01-03T10:38:57.255Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 309 - 7811 available (3.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0059.jpg",
       "timestamp": "2026-01-03T11:05:25.103Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 408 - 7712 available (5.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0180.jpg",
+      "timestamp": "2026-01-05T16:42:33.170Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 409 - 7711 available (5.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-05T16:08:27.834Z"
+  "lastUpdated": "2026-01-05T16:42:33.170Z"
 }
