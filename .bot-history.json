@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0145.jpg",
-      "timestamp": "2026-01-04T17:36:52.635Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 367 - 7753 available (4.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E01_-_Grounded_For_Life-0112.jpg",
       "timestamp": "2026-01-04T18:08:34.296Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 466 - 7654 available (5.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0230.jpg",
+      "timestamp": "2026-01-06T23:06:46.495Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 467 - 7653 available (5.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-06T22:39:26.367Z"
+  "lastUpdated": "2026-01-06T23:06:46.495Z"
 }
