@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0200.jpg",
-      "timestamp": "2026-01-04T03:37:53.944Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 339 - 7781 available (4.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E05_-_Tool_and_Die-0032.jpg",
       "timestamp": "2026-01-04T04:25:50.107Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 438 - 7682 available (5.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0114.jpg",
+      "timestamp": "2026-01-06T09:09:42.336Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 439 - 7681 available (5.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-06T08:44:33.861Z"
+  "lastUpdated": "2026-01-06T09:09:42.336Z"
 }
