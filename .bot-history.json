@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0087.jpg",
-      "timestamp": "2026-01-04T16:06:51.607Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 364 - 7756 available (4.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x06_-_Revenge_of_the_Petes-0003.jpg",
       "timestamp": "2026-01-04T16:40:18.430Z",
       "altText": "The Adventures of Pete & Pete - Revenge of the Petes",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 463 - 7657 available (5.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0100.jpg",
+      "timestamp": "2026-01-06T21:37:22.893Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 464 - 7656 available (5.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-06T21:06:19.033Z"
+  "lastUpdated": "2026-01-06T21:37:22.893Z"
 }
