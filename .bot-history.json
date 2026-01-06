@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0128.jpg",
-      "timestamp": "2026-01-03T22:37:43.327Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 333 - 7787 available (4.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0285.jpg",
       "timestamp": "2026-01-03T23:06:46.107Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 432 - 7688 available (5.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0159.jpg",
+      "timestamp": "2026-01-06T06:10:08.745Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 433 - 7687 available (5.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-06T05:41:14.421Z"
+  "lastUpdated": "2026-01-06T06:10:08.745Z"
 }
