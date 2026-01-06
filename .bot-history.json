@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0285.jpg",
-      "timestamp": "2026-01-03T23:06:46.107Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 334 - 7786 available (4.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0248.jpg",
       "timestamp": "2026-01-03T23:35:55.458Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 2,
       "cycleInfo": "Post 433 - 7687 available (5.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0213.jpg",
+      "timestamp": "2026-01-06T06:46:52.309Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 434 - 7686 available (5.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-06T06:10:08.745Z"
+  "lastUpdated": "2026-01-06T06:46:52.309Z"
 }
