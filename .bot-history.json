@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0206.jpg",
-      "timestamp": "2026-01-05T15:40:09.803Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 407 - 7713 available (5.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0169.jpg",
       "timestamp": "2026-01-05T16:08:27.834Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 506 - 7614 available (6.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E01_-_Valentine's_Day_Massacre-0143.jpg",
+      "timestamp": "2026-01-07T20:40:07.994Z",
+      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 507 - 7613 available (6.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-07T20:07:29.930Z"
+  "lastUpdated": "2026-01-07T20:40:07.994Z"
 }
