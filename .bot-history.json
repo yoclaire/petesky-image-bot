@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E04_-_Apocalypse_Pete-0206.jpg",
-      "timestamp": "2026-01-05T14:41:55.292Z",
-      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
-      "episode": "S0E4",
-      "season": 0,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 405 - 7715 available (5.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0010.jpg",
       "timestamp": "2026-01-05T15:07:53.415Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 504 - 7616 available (6.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0259.jpg",
+      "timestamp": "2026-01-07T19:36:27.211Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 505 - 7615 available (6.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-07T19:07:43.712Z"
+  "lastUpdated": "2026-01-07T19:36:27.211Z"
 }
