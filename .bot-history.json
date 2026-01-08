@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0133.jpg",
-      "timestamp": "2026-01-05T19:07:49.225Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 414 - 7706 available (5.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0105.jpg",
       "timestamp": "2026-01-05T19:36:08.046Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 513 - 7607 available (6.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x09_-_Flossing-0009.jpg",
+      "timestamp": "2026-01-08T00:28:48.246Z",
+      "altText": "The Adventures of Pete & Pete - Flossing",
+      "episode": "S0E9",
+      "season": 0,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 514 - 7606 available (6.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-07T23:36:23.939Z"
+  "lastUpdated": "2026-01-08T00:28:48.246Z"
 }
