@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0293.jpg",
-      "timestamp": "2026-01-06T17:08:52.863Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 455 - 7665 available (5.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0105.jpg",
       "timestamp": "2026-01-06T17:39:54.073Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 554 - 7566 available (6.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0244.jpg",
+      "timestamp": "2026-01-08T22:06:49.249Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 555 - 7565 available (6.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-08T21:37:34.580Z"
+  "lastUpdated": "2026-01-08T22:06:49.249Z"
 }
