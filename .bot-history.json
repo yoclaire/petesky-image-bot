@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0034.jpg",
-      "timestamp": "2026-01-06T00:28:23.145Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 424 - 7696 available (5.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0009.jpg",
       "timestamp": "2026-01-06T00:54:17.215Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 523 - 7597 available (6.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0067.jpg",
+      "timestamp": "2026-01-08T06:46:41.708Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 524 - 7596 available (6.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-08T06:10:27.327Z"
+  "lastUpdated": "2026-01-08T06:46:41.708Z"
 }
