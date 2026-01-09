@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0091.jpg",
-      "timestamp": "2026-01-07T10:07:37.777Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 486 - 7634 available (6.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0299.jpg",
       "timestamp": "2026-01-07T10:41:40.327Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 13,
       "cycleInfo": "Post 585 - 7535 available (7.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0150.jpg",
+      "timestamp": "2026-01-09T15:07:20.518Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 586 - 7534 available (7.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-09T14:41:18.456Z"
+  "lastUpdated": "2026-01-09T15:07:20.518Z"
 }
