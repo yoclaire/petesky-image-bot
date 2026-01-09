@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E03_-_The_Nightcrawlers-0095.jpg",
-      "timestamp": "2026-01-06T20:07:16.512Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
-      "episode": "S1E3",
-      "season": 1,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 461 - 7659 available (5.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0033.jpg",
       "timestamp": "2026-01-06T20:39:24.999Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 4,
       "cycleInfo": "Post 560 - 7560 available (6.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0025.jpg",
+      "timestamp": "2026-01-09T01:35:28.352Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 561 - 7559 available (6.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-09T00:54:20.115Z"
+  "lastUpdated": "2026-01-09T01:35:28.352Z"
 }
