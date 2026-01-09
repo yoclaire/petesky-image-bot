@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0200.jpg",
-      "timestamp": "2026-01-06T19:05:33.121Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 459 - 7661 available (5.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0017.jpg",
       "timestamp": "2026-01-06T19:35:28.943Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 26,
       "cycleInfo": "Post 558 - 7562 available (6.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0126.jpg",
+      "timestamp": "2026-01-09T00:28:24.749Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 559 - 7561 available (6.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-08T23:35:15.709Z"
+  "lastUpdated": "2026-01-09T00:28:24.749Z"
 }
