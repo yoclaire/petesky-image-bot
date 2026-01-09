@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0113.jpg",
-      "timestamp": "2026-01-07T16:09:38.489Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 498 - 7622 available (6.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0100.jpg",
       "timestamp": "2026-01-07T16:44:40.242Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 597 - 7523 available (7.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0224.jpg",
+      "timestamp": "2026-01-09T21:07:03.090Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 598 - 7522 available (7.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-09T20:39:30.796Z"
+  "lastUpdated": "2026-01-09T21:07:03.090Z"
 }
