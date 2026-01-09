@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0017.jpg",
-      "timestamp": "2026-01-06T19:35:28.943Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 460 - 7660 available (5.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0095.jpg",
       "timestamp": "2026-01-06T20:07:16.512Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 559 - 7561 available (6.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E04_-_Apocalypse_Pete-0158.jpg",
+      "timestamp": "2026-01-09T00:54:20.115Z",
+      "altText": "The Adventures of Pete & Pete - Apocalypse Pete",
+      "episode": "S0E4",
+      "season": 0,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 560 - 7560 available (6.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-09T00:28:24.749Z"
+  "lastUpdated": "2026-01-09T00:54:20.115Z"
 }
