@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0033.jpg",
-      "timestamp": "2026-01-06T20:39:24.999Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 462 - 7658 available (5.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0166.jpg",
       "timestamp": "2026-01-06T21:06:19.033Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 561 - 7559 available (6.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0117.jpg",
+      "timestamp": "2026-01-09T02:44:17.104Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 562 - 7558 available (6.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-09T01:35:28.352Z"
+  "lastUpdated": "2026-01-09T02:44:17.104Z"
 }
