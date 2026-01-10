@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0021.jpg",
-      "timestamp": "2026-01-08T01:35:14.192Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 516 - 7604 available (6.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E05_-_Dance_Fever-0118.jpg",
       "timestamp": "2026-01-08T02:43:29.754Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 615 - 7505 available (7.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0133.jpg",
+      "timestamp": "2026-01-10T07:35:33.212Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 616 - 7504 available (7.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-10T07:06:35.762Z"
+  "lastUpdated": "2026-01-10T07:35:33.212Z"
 }
