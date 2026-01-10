@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E13_-_Saturday-0119.jpg",
-      "timestamp": "2026-01-08T09:10:30.177Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
-      "episode": "S3E13",
-      "season": 3,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 529 - 7591 available (6.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0047.jpg",
       "timestamp": "2026-01-08T09:41:18.160Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 628 - 7492 available (7.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E08_-_Allnighter-0144.jpg",
+      "timestamp": "2026-01-10T14:06:15.213Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
+      "episode": "S3E8",
+      "season": 3,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 629 - 7491 available (7.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-10T13:40:27.141Z"
+  "lastUpdated": "2026-01-10T14:06:15.213Z"
 }
