@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0103.jpg",
-      "timestamp": "2026-01-08T04:21:06.318Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 519 - 7601 available (6.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0107.jpg",
       "timestamp": "2026-01-08T04:46:12.075Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 618 - 7502 available (7.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0164.jpg",
+      "timestamp": "2026-01-10T09:06:41.838Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 619 - 7501 available (7.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-10T08:40:59.237Z"
+  "lastUpdated": "2026-01-10T09:06:41.838Z"
 }
