@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0290.jpg",
-      "timestamp": "2026-01-09T08:09:47.455Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 572 - 7548 available (7.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0045.jpg",
       "timestamp": "2026-01-09T08:44:35.439Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 2,
       "cycleInfo": "Post 671 - 7449 available (8.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E05_-_Tool_and_Die-0174.jpg",
+      "timestamp": "2026-01-11T13:41:19.349Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
+      "episode": "S1E5",
+      "season": 1,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 672 - 7448 available (8.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-11T13:14:23.682Z"
+  "lastUpdated": "2026-01-11T13:41:19.349Z"
 }
