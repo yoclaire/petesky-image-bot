@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0063.jpg",
-      "timestamp": "2026-01-08T20:07:20.560Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 551 - 7569 available (6.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0228.jpg",
       "timestamp": "2026-01-08T20:39:53.903Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 650 - 7470 available (8.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0160.jpg",
+      "timestamp": "2026-01-11T02:51:45.074Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 651 - 7469 available (8.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-11T01:36:07.957Z"
+  "lastUpdated": "2026-01-11T02:51:45.074Z"
 }
