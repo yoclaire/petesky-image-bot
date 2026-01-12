@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0142.jpg",
-      "timestamp": "2026-01-10T01:35:18.066Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 606 - 7514 available (7.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0254.jpg",
       "timestamp": "2026-01-10T02:39:56.916Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 705 - 7415 available (8.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0049.jpg",
+      "timestamp": "2026-01-12T08:10:23.133Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 706 - 7414 available (8.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-12T07:40:35.991Z"
+  "lastUpdated": "2026-01-12T08:10:23.133Z"
 }
