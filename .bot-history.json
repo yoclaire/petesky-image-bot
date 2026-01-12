@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E07_-_Inspector_34-0006.jpg",
-      "timestamp": "2026-01-10T12:10:04.916Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
-      "episode": "S2E7",
-      "season": 2,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 625 - 7495 available (7.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x02_-_Freeze_Tag-0015.jpg",
       "timestamp": "2026-01-10T12:47:21.057Z",
       "altText": "The Adventures of Pete & Pete - Freeze Tag",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 1,
       "cycleInfo": "Post 724 - 7396 available (8.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0095.jpg",
+      "timestamp": "2026-01-12T17:39:34.150Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 725 - 7395 available (8.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-12T17:09:20.146Z"
+  "lastUpdated": "2026-01-12T17:39:34.150Z"
 }
