@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0045.jpg",
-      "timestamp": "2026-01-11T08:08:20.901Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 661 - 7459 available (8.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0091.jpg",
       "timestamp": "2026-01-11T08:41:01.928Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 760 - 7360 available (9.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E05_-_Dance_Fever-0073.jpg",
+      "timestamp": "2026-01-13T13:19:29.980Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
+      "episode": "S3E5",
+      "season": 3,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 761 - 7359 available (9.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-13T12:47:51.904Z"
+  "lastUpdated": "2026-01-13T13:19:29.981Z"
 }
