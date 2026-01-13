@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0081.jpg",
-      "timestamp": "2026-01-10T18:42:56.739Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 638 - 7482 available (7.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0245.jpg",
       "timestamp": "2026-01-10T19:05:12.315Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 737 - 7383 available (9.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0179.jpg",
+      "timestamp": "2026-01-13T00:24:49.232Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 738 - 7382 available (9.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-12T23:34:38.509Z"
+  "lastUpdated": "2026-01-13T00:24:49.232Z"
 }
