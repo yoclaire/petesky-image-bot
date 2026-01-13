@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x02_-_Freeze_Tag-0014.jpg",
-      "timestamp": "2026-01-11T01:36:07.957Z",
-      "altText": "The Adventures of Pete & Pete - Freeze Tag",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 650 - 7470 available (8.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E01_-_Grounded_For_Life-0160.jpg",
       "timestamp": "2026-01-11T02:51:45.074Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 4,
       "cycleInfo": "Post 749 - 7371 available (9.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0140.jpg",
+      "timestamp": "2026-01-13T07:39:01.067Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 750 - 7370 available (9.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-13T07:10:13.011Z"
+  "lastUpdated": "2026-01-13T07:39:01.068Z"
 }
