@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0138.jpg",
-      "timestamp": "2026-01-11T07:07:40.737Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 659 - 7461 available (8.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E02_-_Field_of_Pete-0100.jpg",
       "timestamp": "2026-01-11T07:36:46.650Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 758 - 7362 available (9.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0161.jpg",
+      "timestamp": "2026-01-13T12:12:44.045Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 759 - 7361 available (9.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-13T11:36:59.808Z"
+  "lastUpdated": "2026-01-13T12:12:44.045Z"
 }
