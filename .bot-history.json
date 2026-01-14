@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0134.jpg",
-      "timestamp": "2026-01-11T20:38:15.232Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 686 - 7434 available (8.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0230.jpg",
       "timestamp": "2026-01-11T21:06:09.718Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 785 - 7335 available (9.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0036.jpg",
+      "timestamp": "2026-01-14T02:49:22.844Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 786 - 7334 available (9.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-14T01:37:52.272Z"
+  "lastUpdated": "2026-01-14T02:49:22.844Z"
 }
