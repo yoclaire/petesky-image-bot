@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0177.jpg",
-      "timestamp": "2026-01-12T08:45:36.564Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 707 - 7413 available (8.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0038.jpg",
       "timestamp": "2026-01-12T09:12:28.116Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 806 - 7314 available (9.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0267.jpg",
+      "timestamp": "2026-01-14T13:46:08.545Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 807 - 7313 available (9.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-14T13:19:29.820Z"
+  "lastUpdated": "2026-01-14T13:46:08.546Z"
 }
