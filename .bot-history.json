@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E03_-_The_Nightcrawlers-0216.jpg",
-      "timestamp": "2026-01-11T21:35:18.153Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
-      "episode": "S1E3",
-      "season": 1,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 688 - 7432 available (8.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0095.jpg",
       "timestamp": "2026-01-11T22:06:36.714Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 787 - 7333 available (9.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x16_-_Route_34-0013.jpg",
+      "timestamp": "2026-01-14T04:25:10.478Z",
+      "altText": "The Adventures of Pete & Pete - Route 34",
+      "episode": "S0E16",
+      "season": 0,
+      "episodeNumber": 16,
+      "cycleInfo": "Post 788 - 7332 available (9.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-14T03:37:23.188Z"
+  "lastUpdated": "2026-01-14T04:25:10.478Z"
 }
