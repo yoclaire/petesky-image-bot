@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0042.jpg",
-      "timestamp": "2026-01-12T06:46:38.958Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 703 - 7417 available (8.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0044.jpg",
       "timestamp": "2026-01-12T07:12:21.249Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 802 - 7318 available (9.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0190.jpg",
+      "timestamp": "2026-01-14T11:37:37.388Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 803 - 7317 available (9.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-14T11:07:33.482Z"
+  "lastUpdated": "2026-01-14T11:37:37.388Z"
 }
