@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0215.jpg",
-      "timestamp": "2026-01-12T01:39:12.289Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 695 - 7425 available (8.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0206.jpg",
       "timestamp": "2026-01-12T02:49:44.300Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 794 - 7326 available (9.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0212.jpg",
+      "timestamp": "2026-01-14T07:39:23.458Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 795 - 7325 available (9.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-14T07:10:21.964Z"
+  "lastUpdated": "2026-01-14T07:39:23.458Z"
 }
