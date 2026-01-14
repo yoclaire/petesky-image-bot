@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E12_-_Das_Bus-0047.jpg",
-      "timestamp": "2026-01-12T18:46:00.295Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
-      "episode": "S3E12",
-      "season": 3,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 727 - 7393 available (9.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0076.jpg",
       "timestamp": "2026-01-12T19:07:47.777Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 826 - 7294 available (10.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0101.jpg",
+      "timestamp": "2026-01-14T23:34:44.181Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 827 - 7293 available (10.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-14T23:06:44.415Z"
+  "lastUpdated": "2026-01-14T23:34:44.181Z"
 }
