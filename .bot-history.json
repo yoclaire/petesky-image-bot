@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x02_-_Freeze_Tag-0005.jpg",
-      "timestamp": "2026-01-13T08:09:50.743Z",
-      "altText": "The Adventures of Pete & Pete - Freeze Tag",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 751 - 7369 available (9.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0107.jpg",
       "timestamp": "2026-01-13T08:44:54.944Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 850 - 7270 available (10.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0122.jpg",
+      "timestamp": "2026-01-15T13:19:10.671Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 851 - 7269 available (10.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-15T12:47:54.218Z"
+  "lastUpdated": "2026-01-15T13:19:10.672Z"
 }
