@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E09_-_Road_Warrior-0060.jpg",
-      "timestamp": "2026-01-14T01:37:52.271Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
-      "episode": "S3E9",
-      "season": 3,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 785 - 7335 available (9.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0036.jpg",
       "timestamp": "2026-01-14T02:49:22.844Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 4,
       "cycleInfo": "Post 884 - 7236 available (10.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E03_-_The_Call-0021.jpg",
+      "timestamp": "2026-01-16T07:38:50.780Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
+      "episode": "S2E3",
+      "season": 2,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 885 - 7235 available (10.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-16T07:09:48.886Z"
+  "lastUpdated": "2026-01-16T07:38:50.780Z"
 }
