@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E06_-_Don't_Tread_on_Pete-0265.jpg",
-      "timestamp": "2026-01-14T05:40:58.328Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
-      "episode": "S1E6",
-      "season": 1,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 791 - 7329 available (9.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E08_-_X_equals_Why-0145.jpg",
       "timestamp": "2026-01-14T06:10:37.722Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 8,
       "cycleInfo": "Post 890 - 7230 available (11.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0248.jpg",
+      "timestamp": "2026-01-16T10:41:40.854Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 891 - 7229 available (11.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-16T10:07:23.103Z"
+  "lastUpdated": "2026-01-16T10:41:40.854Z"
 }
