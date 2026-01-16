@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x16_-_Route_34-0013.jpg",
-      "timestamp": "2026-01-14T04:25:10.478Z",
-      "altText": "The Adventures of Pete & Pete - Route 34",
-      "episode": "S0E16",
-      "season": 0,
-      "episodeNumber": 16,
-      "cycleInfo": "Post 788 - 7332 available (9.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0151.jpg",
       "timestamp": "2026-01-14T04:47:43.191Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 887 - 7233 available (10.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E05_-_Dance_Fever-0121.jpg",
+      "timestamp": "2026-01-16T09:09:17.386Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
+      "episode": "S3E5",
+      "season": 3,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 888 - 7232 available (10.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-16T08:43:52.125Z"
+  "lastUpdated": "2026-01-16T09:09:17.386Z"
 }
