@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E06_-_Don't_Tread_on_Pete-0259.jpg",
-      "timestamp": "2026-01-14T08:09:34.603Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
-      "episode": "S1E6",
-      "season": 1,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 796 - 7324 available (9.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0227.jpg",
       "timestamp": "2026-01-14T08:44:51.432Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 895 - 7225 available (11.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E04_-_Splashdown!-0030.jpg",
+      "timestamp": "2026-01-16T13:18:16.454Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
+      "episode": "S3E4",
+      "season": 3,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 896 - 7224 available (11.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-16T12:47:42.142Z"
+  "lastUpdated": "2026-01-16T13:18:16.454Z"
 }
