@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0127.jpg",
-      "timestamp": "2026-01-14T12:11:39.131Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 804 - 7316 available (9.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x17_-_Halloween-0009.jpg",
       "timestamp": "2026-01-14T12:47:51.563Z",
       "altText": "The Adventures of Pete & Pete - Halloween",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 3,
       "cycleInfo": "Post 903 - 7217 available (11.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0195.jpg",
+      "timestamp": "2026-01-16T17:09:31.378Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 904 - 7216 available (11.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-16T16:44:04.965Z"
+  "lastUpdated": "2026-01-16T17:09:31.378Z"
 }
