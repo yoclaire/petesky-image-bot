@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0272.jpg",
-      "timestamp": "2026-01-15T05:10:47.028Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 835 - 7285 available (10.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E01_-_Grounded_For_Life-0074.jpg",
       "timestamp": "2026-01-15T05:41:27.329Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 934 - 7186 available (11.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0177.jpg",
+      "timestamp": "2026-01-17T10:06:27.920Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 935 - 7185 available (11.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-17T09:36:37.316Z"
+  "lastUpdated": "2026-01-17T10:06:27.920Z"
 }
