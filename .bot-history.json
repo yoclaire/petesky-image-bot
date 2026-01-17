@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E01_-_Valentine's_Day_Massacre-0156.jpg",
-      "timestamp": "2026-01-15T08:09:49.793Z",
-      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
-      "episode": "S0E1",
-      "season": 0,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 841 - 7279 available (10.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0056.jpg",
       "timestamp": "2026-01-15T08:44:31.365Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 7,
       "cycleInfo": "Post 940 - 7180 available (11.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0053.jpg",
+      "timestamp": "2026-01-17T13:13:51.150Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 941 - 7179 available (11.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-17T12:47:08.092Z"
+  "lastUpdated": "2026-01-17T13:13:51.150Z"
 }
