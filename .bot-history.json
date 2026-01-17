@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E09_-_On_Golden_Pete-0145.jpg",
-      "timestamp": "2026-01-15T04:46:52.487Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
-      "episode": "S2E9",
-      "season": 2,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 834 - 7286 available (10.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0272.jpg",
       "timestamp": "2026-01-15T05:10:47.028Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 933 - 7187 available (11.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0193.jpg",
+      "timestamp": "2026-01-17T09:36:37.316Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 934 - 7186 available (11.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-17T09:06:24.918Z"
+  "lastUpdated": "2026-01-17T09:36:37.316Z"
 }
