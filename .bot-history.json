@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0097.jpg",
-      "timestamp": "2026-01-15T16:12:29.797Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 857 - 7263 available (10.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0288.jpg",
       "timestamp": "2026-01-15T16:46:19.563Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 4,
       "cycleInfo": "Post 956 - 7164 available (11.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0219.jpg",
+      "timestamp": "2026-01-17T21:05:53.616Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 957 - 7163 available (11.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-17T20:37:40.395Z"
+  "lastUpdated": "2026-01-17T21:05:53.616Z"
 }
