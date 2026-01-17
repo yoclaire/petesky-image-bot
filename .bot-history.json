@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0250.jpg",
-      "timestamp": "2026-01-15T18:46:34.691Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 862 - 7258 available (10.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0081.jpg",
       "timestamp": "2026-01-15T19:10:51.719Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 961 - 7159 available (11.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0110.jpg",
+      "timestamp": "2026-01-17T23:36:15.500Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 962 - 7158 available (11.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-17T23:06:24.705Z"
+  "lastUpdated": "2026-01-17T23:36:15.500Z"
 }
