@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E07_-_Inspector_34-0056.jpg",
-      "timestamp": "2026-01-15T08:44:31.365Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
-      "episode": "S2E7",
-      "season": 2,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 842 - 7278 available (10.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0137.jpg",
       "timestamp": "2026-01-15T09:09:47.639Z",
       "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 941 - 7179 available (11.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0047.jpg",
+      "timestamp": "2026-01-17T13:40:09.112Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 942 - 7178 available (11.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-17T13:13:51.150Z"
+  "lastUpdated": "2026-01-17T13:40:09.112Z"
 }
