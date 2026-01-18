@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0145.jpg",
-      "timestamp": "2026-01-16T00:29:04.069Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 873 - 7247 available (10.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0046.jpg",
       "timestamp": "2026-01-16T00:55:27.914Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 972 - 7148 available (12.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0013.jpg",
+      "timestamp": "2026-01-18T07:07:14.756Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 973 - 7147 available (12.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-18T06:44:44.441Z"
+  "lastUpdated": "2026-01-18T07:07:14.756Z"
 }
