@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0130.jpg",
-      "timestamp": "2026-01-16T04:46:39.300Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 879 - 7241 available (10.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0183.jpg",
       "timestamp": "2026-01-16T05:10:25.557Z",
       "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 978 - 7142 available (12.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0096.jpg",
+      "timestamp": "2026-01-18T10:06:34.437Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 979 - 7141 available (12.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-18T09:37:30.350Z"
+  "lastUpdated": "2026-01-18T10:06:34.437Z"
 }
