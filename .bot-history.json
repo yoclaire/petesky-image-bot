@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0046.jpg",
-      "timestamp": "2026-01-16T00:55:27.914Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 874 - 7246 available (10.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0119.jpg",
       "timestamp": "2026-01-16T01:35:36.434Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 973 - 7147 available (12.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0215.jpg",
+      "timestamp": "2026-01-18T07:35:59.258Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 974 - 7146 available (12.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-18T07:07:14.756Z"
+  "lastUpdated": "2026-01-18T07:35:59.259Z"
 }
