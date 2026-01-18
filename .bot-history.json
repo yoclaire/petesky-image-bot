@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0217.jpg",
-      "timestamp": "2026-01-16T17:39:50.993Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 905 - 7215 available (11.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0072.jpg",
       "timestamp": "2026-01-16T18:10:06.129Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 1004 - 7116 available (12.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E04_-_The_Big_Quiet-0178.jpg",
+      "timestamp": "2026-01-18T23:06:34.828Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
+      "episode": "S2E4",
+      "season": 2,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1005 - 7115 available (12.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-18T22:37:55.958Z"
+  "lastUpdated": "2026-01-18T23:06:34.828Z"
 }
