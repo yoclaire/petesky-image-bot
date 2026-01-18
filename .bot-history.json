@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0051.jpg",
-      "timestamp": "2026-01-15T21:37:22.108Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 868 - 7252 available (10.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0197.jpg",
       "timestamp": "2026-01-15T22:06:55.907Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 967 - 7153 available (11.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0263.jpg",
+      "timestamp": "2026-01-18T04:46:31.767Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 968 - 7152 available (11.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-18T04:22:05.799Z"
+  "lastUpdated": "2026-01-18T04:46:31.767Z"
 }
