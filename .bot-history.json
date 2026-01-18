@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0037.jpg",
-      "timestamp": "2026-01-16T14:41:06.443Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 899 - 7221 available (11.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0131.jpg",
       "timestamp": "2026-01-16T15:08:05.557Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 998 - 7122 available (12.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E07_-_When_Petes_Collide-0281.jpg",
+      "timestamp": "2026-01-18T20:06:58.023Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
+      "episode": "S1E7",
+      "season": 1,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 999 - 7121 available (12.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-18T19:34:09.085Z"
+  "lastUpdated": "2026-01-18T20:06:58.023Z"
 }
