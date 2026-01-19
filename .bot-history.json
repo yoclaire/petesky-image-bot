@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0125.jpg",
-      "timestamp": "2026-01-17T17:36:08.379Z",
-      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
-      "episode": "S0E2",
-      "season": 0,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 950 - 7170 available (11.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E01_-_Grounded_For_Life-0209.jpg",
       "timestamp": "2026-01-17T18:08:28.533Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 1049 - 7071 available (12.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0215.jpg",
+      "timestamp": "2026-01-19T23:06:36.877Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1050 - 7070 available (12.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-19T22:39:24.137Z"
+  "lastUpdated": "2026-01-19T23:06:36.877Z"
 }
