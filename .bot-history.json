@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E09_-_Road_Warrior-0044.jpg",
-      "timestamp": "2026-01-17T07:06:37.869Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
-      "episode": "S3E9",
-      "season": 3,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 929 - 7191 available (11.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E08_-_Allnighter-0110.jpg",
       "timestamp": "2026-01-17T07:35:33.881Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 1028 - 7092 available (12.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E09_-_On_Golden_Pete-0247.jpg",
+      "timestamp": "2026-01-19T12:48:02.761Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
+      "episode": "S2E9",
+      "season": 2,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 1029 - 7091 available (12.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-19T12:12:33.152Z"
+  "lastUpdated": "2026-01-19T12:48:02.761Z"
 }
