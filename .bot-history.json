@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0213.jpg",
-      "timestamp": "2026-01-17T02:38:41.169Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 921 - 7199 available (11.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0158.jpg",
       "timestamp": "2026-01-17T03:33:03.007Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 1020 - 7100 available (12.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0234.jpg",
+      "timestamp": "2026-01-19T08:45:50.573Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1021 - 7099 available (12.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-19T08:10:38.463Z"
+  "lastUpdated": "2026-01-19T08:45:50.573Z"
 }
