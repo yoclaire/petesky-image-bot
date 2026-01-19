@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0193.jpg",
-      "timestamp": "2026-01-17T09:36:37.316Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 934 - 7186 available (11.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0177.jpg",
       "timestamp": "2026-01-17T10:06:27.920Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 3,
       "cycleInfo": "Post 1033 - 7087 available (12.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E01_-_Valentine's_Day_Massacre-0192.jpg",
+      "timestamp": "2026-01-19T15:09:00.211Z",
+      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1034 - 7086 available (12.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-19T14:43:39.864Z"
+  "lastUpdated": "2026-01-19T15:09:00.211Z"
 }
