@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0005.jpg",
-      "timestamp": "2026-01-17T11:34:29.301Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 938 - 7182 available (11.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x25_-_The_Artie_Workout-0019.jpg",
       "timestamp": "2026-01-17T12:10:00.592Z",
       "altText": "The Adventures of Pete & Pete - The Artie Workout",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 2,
       "cycleInfo": "Post 1037 - 7083 available (12.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0009.jpg",
+      "timestamp": "2026-01-19T17:08:44.980Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1038 - 7082 available (12.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-19T16:44:28.214Z"
+  "lastUpdated": "2026-01-19T17:08:44.981Z"
 }
