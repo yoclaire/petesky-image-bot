@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E07_-_Inspector_34-0124.jpg",
-      "timestamp": "2026-01-17T12:47:08.092Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
-      "episode": "S2E7",
-      "season": 2,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 940 - 7180 available (11.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E07_-_When_Petes_Collide-0053.jpg",
       "timestamp": "2026-01-17T13:13:51.150Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 1039 - 7081 available (12.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0179.jpg",
+      "timestamp": "2026-01-19T18:09:57.313Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 1040 - 7080 available (12.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-19T17:39:52.962Z"
+  "lastUpdated": "2026-01-19T18:09:57.313Z"
 }
