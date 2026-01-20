@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E05_-_Tool_and_Die-0037.jpg",
-      "timestamp": "2026-01-17T22:37:55.818Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
-      "episode": "S1E5",
-      "season": 1,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 960 - 7160 available (11.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E03_-_The_Nightcrawlers-0186.jpg",
       "timestamp": "2026-01-17T23:06:24.705Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 1059 - 7061 available (13.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0008.jpg",
+      "timestamp": "2026-01-20T05:43:26.187Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1060 - 7060 available (13.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-20T05:13:03.876Z"
+  "lastUpdated": "2026-01-20T05:43:26.187Z"
 }
