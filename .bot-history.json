@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0139.jpg",
-      "timestamp": "2026-01-17T19:05:03.241Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 953 - 7167 available (11.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0224.jpg",
       "timestamp": "2026-01-17T19:34:18.178Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 1052 - 7068 available (13.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0160.jpg",
+      "timestamp": "2026-01-20T00:53:47.124Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1053 - 7067 available (13.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-20T00:27:58.575Z"
+  "lastUpdated": "2026-01-20T00:53:47.124Z"
 }
