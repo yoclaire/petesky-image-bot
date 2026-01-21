@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0100.jpg",
-      "timestamp": "2026-01-18T22:37:55.958Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 1004 - 7116 available (12.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0178.jpg",
       "timestamp": "2026-01-18T23:06:34.828Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 13,
       "cycleInfo": "Post 1103 - 7017 available (13.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0007.jpg",
+      "timestamp": "2026-01-21T05:12:27.630Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1104 - 7016 available (13.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-21T04:47:32.323Z"
+  "lastUpdated": "2026-01-21T05:12:27.630Z"
 }
