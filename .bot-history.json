@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0178.jpg",
-      "timestamp": "2026-01-18T23:06:34.828Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1005 - 7115 available (12.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0059.jpg",
       "timestamp": "2026-01-18T23:36:29.114Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 1104 - 7016 available (13.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E03_-_The_Call-0101.jpg",
+      "timestamp": "2026-01-21T05:43:08.166Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
+      "episode": "S2E3",
+      "season": 2,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1105 - 7015 available (13.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-21T05:12:27.630Z"
+  "lastUpdated": "2026-01-21T05:43:08.166Z"
 }
