@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0068.jpg",
-      "timestamp": "2026-01-19T14:11:06.906Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1032 - 7088 available (12.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E03_-_The_Call-0056.jpg",
       "timestamp": "2026-01-19T14:43:39.864Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 1131 - 6989 available (13.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0204.jpg",
+      "timestamp": "2026-01-21T19:13:01.272Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1132 - 6988 available (13.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-21T18:47:45.077Z"
+  "lastUpdated": "2026-01-21T19:13:01.272Z"
 }
