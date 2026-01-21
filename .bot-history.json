@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E08_-_Allnighter-0174.jpg",
-      "timestamp": "2026-01-19T01:38:54.796Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
-      "episode": "S3E8",
-      "season": 3,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1009 - 7111 available (12.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0202.jpg",
       "timestamp": "2026-01-19T02:50:10.770Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 1108 - 7012 available (13.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0108.jpg",
+      "timestamp": "2026-01-21T07:41:45.386Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1109 - 7011 available (13.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-21T07:12:52.359Z"
+  "lastUpdated": "2026-01-21T07:41:45.386Z"
 }
