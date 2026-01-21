@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E02_-_Day_of_The_Dot-0181.jpg",
-      "timestamp": "2026-01-19T16:44:28.214Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
-      "episode": "S1E2",
-      "season": 1,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1037 - 7083 available (12.8% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0009.jpg",
       "timestamp": "2026-01-19T17:08:44.980Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 3,
       "cycleInfo": "Post 1136 - 6984 available (14.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0067.jpg",
+      "timestamp": "2026-01-21T21:42:07.963Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1137 - 6983 available (14.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-21T21:11:09.029Z"
+  "lastUpdated": "2026-01-21T21:42:07.963Z"
 }
