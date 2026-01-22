@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0226.jpg",
-      "timestamp": "2026-01-20T09:44:07.684Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1068 - 7052 available (13.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0109.jpg",
       "timestamp": "2026-01-20T10:09:33.045Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 1167 - 6953 available (14.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E09_-_Road_Warrior-0142.jpg",
+      "timestamp": "2026-01-22T14:44:19.747Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
+      "episode": "S3E9",
+      "season": 3,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 1168 - 6952 available (14.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-22T14:13:43.388Z"
+  "lastUpdated": "2026-01-22T14:44:19.747Z"
 }
