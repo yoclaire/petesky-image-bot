@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0192.jpg",
-      "timestamp": "2026-01-20T07:12:16.473Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1063 - 7057 available (13.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0178.jpg",
       "timestamp": "2026-01-20T07:41:36.629Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 1162 - 6958 available (14.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0192.jpg",
+      "timestamp": "2026-01-22T12:12:43.334Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1163 - 6957 available (14.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-22T11:38:41.009Z"
+  "lastUpdated": "2026-01-22T12:12:43.334Z"
 }
