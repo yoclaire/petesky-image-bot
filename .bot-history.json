@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0198.jpg",
-      "timestamp": "2026-01-20T17:43:34.538Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 1084 - 7036 available (13.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0173.jpg",
       "timestamp": "2026-01-20T18:11:14.080Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 1183 - 6937 available (14.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0024.jpg",
+      "timestamp": "2026-01-22T22:40:50.469Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1184 - 6936 available (14.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-22T22:07:12.868Z"
+  "lastUpdated": "2026-01-22T22:40:50.470Z"
 }
