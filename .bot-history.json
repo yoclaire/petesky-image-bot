@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0270.jpg",
-      "timestamp": "2026-01-19T23:37:58.746Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 1051 - 7069 available (12.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E05_-_Dance_Fever-0139.jpg",
       "timestamp": "2026-01-20T00:27:58.574Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 7,
       "cycleInfo": "Post 1150 - 6970 available (14.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0057.jpg",
+      "timestamp": "2026-01-22T06:10:31.242Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1151 - 6969 available (14.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-22T05:43:39.015Z"
+  "lastUpdated": "2026-01-22T06:10:31.242Z"
 }
