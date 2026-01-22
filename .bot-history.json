@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0173.jpg",
-      "timestamp": "2026-01-20T18:11:14.080Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1085 - 7035 available (13.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0174.jpg",
       "timestamp": "2026-01-20T18:47:36.629Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 1184 - 6936 available (14.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0152.jpg",
+      "timestamp": "2026-01-22T23:07:04.145Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1185 - 6935 available (14.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-22T22:40:50.470Z"
+  "lastUpdated": "2026-01-22T23:07:04.145Z"
 }
