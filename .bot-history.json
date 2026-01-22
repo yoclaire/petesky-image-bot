@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0008.jpg",
-      "timestamp": "2026-01-20T05:43:26.187Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1060 - 7060 available (13.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0194.jpg",
       "timestamp": "2026-01-20T06:11:26.029Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 1159 - 6961 available (14.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0116.jpg",
+      "timestamp": "2026-01-22T10:43:57.482Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1160 - 6960 available (14.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-22T10:09:59.738Z"
+  "lastUpdated": "2026-01-22T10:43:57.482Z"
 }
