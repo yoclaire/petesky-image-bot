@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0007.jpg",
-      "timestamp": "2026-01-20T14:44:38.202Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 1078 - 7042 available (13.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0211.jpg",
       "timestamp": "2026-01-20T15:11:23.689Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 5,
       "cycleInfo": "Post 1177 - 6943 available (14.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0147.jpg",
+      "timestamp": "2026-01-22T19:38:32.815Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1178 - 6942 available (14.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-22T19:10:01.592Z"
+  "lastUpdated": "2026-01-22T19:38:32.815Z"
 }
