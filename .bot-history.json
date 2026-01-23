@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E07_-_When_Petes_Collide-0049.jpg",
-      "timestamp": "2026-01-20T21:07:28.277Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 7: When Petes Collide",
-      "episode": "S1E7",
-      "season": 1,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1091 - 7029 available (13.4% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0046.jpg",
       "timestamp": "2026-01-20T21:37:54.611Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 1190 - 6930 available (14.7% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E08_-_Allnighter-0055.jpg",
+      "timestamp": "2026-01-23T03:35:50.921Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 8: Allnighter",
+      "episode": "S3E8",
+      "season": 3,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 1191 - 6929 available (14.7% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-23T02:45:32.523Z"
+  "lastUpdated": "2026-01-23T03:35:50.921Z"
 }
