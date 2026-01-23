@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0187.jpg",
-      "timestamp": "2026-01-21T11:08:50.316Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1116 - 7004 available (13.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0173.jpg",
       "timestamp": "2026-01-21T11:39:10.210Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 1215 - 6905 available (15.0% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0082.jpg",
+      "timestamp": "2026-01-23T16:10:03.209Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1216 - 6904 available (15.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-23T15:40:39.312Z"
+  "lastUpdated": "2026-01-23T16:10:03.209Z"
 }
