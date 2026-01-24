@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0052.jpg",
-      "timestamp": "2026-01-22T00:57:05.804Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 1143 - 6977 available (14.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E05_-_Tool_and_Die-0114.jpg",
       "timestamp": "2026-01-22T01:38:30.834Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 5: Tool and Die",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 1242 - 6878 available (15.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x20_-_The_Punishment-0007.jpg",
+      "timestamp": "2026-01-24T07:07:11.924Z",
+      "altText": "The Adventures of Pete & Pete - The Punishment",
+      "episode": "S0E20",
+      "season": 0,
+      "episodeNumber": 20,
+      "cycleInfo": "Post 1243 - 6877 available (15.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-24T06:45:00.257Z"
+  "lastUpdated": "2026-01-24T07:07:11.924Z"
 }
