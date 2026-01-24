@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0133.jpg",
-      "timestamp": "2026-01-21T21:11:09.029Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 1136 - 6984 available (14.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0067.jpg",
       "timestamp": "2026-01-21T21:42:07.963Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 26,
       "cycleInfo": "Post 1235 - 6885 available (15.2% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0173.jpg",
+      "timestamp": "2026-01-24T03:34:44.279Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 1236 - 6884 available (15.2% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-24T02:41:39.640Z"
+  "lastUpdated": "2026-01-24T03:34:44.279Z"
 }
