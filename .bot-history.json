@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0163.jpg",
-      "timestamp": "2026-01-22T04:25:22.984Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1147 - 6973 available (14.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0164.jpg",
       "timestamp": "2026-01-22T04:48:02.451Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 1246 - 6874 available (15.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E01_-_Valentine's_Day_Massacre-0190.jpg",
+      "timestamp": "2026-01-24T09:06:34.783Z",
+      "altText": "The Adventures of Pete & Pete - Valentine'S Day Massacre",
+      "episode": "S0E1",
+      "season": 0,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1247 - 6873 available (15.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-24T08:41:11.273Z"
+  "lastUpdated": "2026-01-24T09:06:34.783Z"
 }
