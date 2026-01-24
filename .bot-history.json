@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E04_-_Rangeboy-0183.jpg",
-      "timestamp": "2026-01-21T23:08:39.436Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
-      "episode": "S1E4",
-      "season": 1,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1140 - 6980 available (14.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0149.jpg",
       "timestamp": "2026-01-21T23:40:13.182Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 8,
       "cycleInfo": "Post 1239 - 6881 available (15.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E12_-_Das_Bus-0061.jpg",
+      "timestamp": "2026-01-24T05:38:49.820Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
+      "episode": "S3E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 1240 - 6880 available (15.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-24T05:07:36.447Z"
+  "lastUpdated": "2026-01-24T05:38:49.821Z"
 }
