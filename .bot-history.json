@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0178.jpg",
-      "timestamp": "2026-01-22T08:10:00.243Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 1155 - 6965 available (14.2% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0262.jpg",
       "timestamp": "2026-01-22T08:45:55.004Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 5,
       "cycleInfo": "Post 1254 - 6866 available (15.4% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0173.jpg",
+      "timestamp": "2026-01-24T13:14:46.924Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1255 - 6865 available (15.5% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-24T12:47:14.443Z"
+  "lastUpdated": "2026-01-24T13:14:46.924Z"
 }
