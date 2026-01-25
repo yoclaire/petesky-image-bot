@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0087.jpg",
-      "timestamp": "2026-01-22T21:39:22.174Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 1182 - 6938 available (14.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0068.jpg",
       "timestamp": "2026-01-22T22:07:12.868Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 8,
       "cycleInfo": "Post 1281 - 6839 available (15.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0171.jpg",
+      "timestamp": "2026-01-25T04:51:52.570Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 1282 - 6838 available (15.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-25T04:28:04.541Z"
+  "lastUpdated": "2026-01-25T04:51:52.570Z"
 }
