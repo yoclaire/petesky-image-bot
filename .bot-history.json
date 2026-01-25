@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0116.jpg",
-      "timestamp": "2026-01-23T00:55:36.921Z",
-      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
-      "episode": "S0E3",
-      "season": 0,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 1188 - 6932 available (14.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E04_-_The_Big_Quiet-0093.jpg",
       "timestamp": "2026-01-23T01:36:21.273Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 1287 - 6833 available (15.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E09_-_On_Golden_Pete-0132.jpg",
+      "timestamp": "2026-01-25T07:37:18.289Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
+      "episode": "S2E9",
+      "season": 2,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 1288 - 6832 available (15.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-25T07:07:56.961Z"
+  "lastUpdated": "2026-01-25T07:37:18.289Z"
 }
