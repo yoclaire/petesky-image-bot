@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0142.jpg",
-      "timestamp": "2026-01-23T05:11:38.655Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1194 - 6926 available (14.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0108.jpg",
       "timestamp": "2026-01-23T05:42:41.948Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 1293 - 6827 available (15.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E06_-_Don't_Tread_on_Pete-0213.jpg",
+      "timestamp": "2026-01-25T10:39:30.526Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
+      "episode": "S1E6",
+      "season": 1,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 1294 - 6826 available (15.9% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-25T10:06:44.534Z"
+  "lastUpdated": "2026-01-25T10:39:30.526Z"
 }
