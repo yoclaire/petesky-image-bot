@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E07_-_Inspector_34-0065.jpg",
-      "timestamp": "2026-01-23T13:46:55.564Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
-      "episode": "S2E7",
-      "season": 2,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1211 - 6909 available (14.9% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0178.jpg",
       "timestamp": "2026-01-23T14:11:32.984Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 1,
       "cycleInfo": "Post 1310 - 6810 available (16.1% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0240.jpg",
+      "timestamp": "2026-01-25T19:05:47.746Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 1311 - 6809 available (16.1% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-25T18:44:03.349Z"
+  "lastUpdated": "2026-01-25T19:05:47.746Z"
 }
