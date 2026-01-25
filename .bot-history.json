@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0250.jpg",
-      "timestamp": "2026-01-23T06:10:43.528Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 1196 - 6924 available (14.7% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0120.jpg",
       "timestamp": "2026-01-23T06:46:33.768Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 1295 - 6825 available (15.9% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0051.jpg",
+      "timestamp": "2026-01-25T11:34:59.486Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1296 - 6824 available (16.0% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-25T11:05:46.507Z"
+  "lastUpdated": "2026-01-25T11:34:59.486Z"
 }
