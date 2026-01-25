@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0024.jpg",
-      "timestamp": "2026-01-22T22:40:50.469Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1184 - 6936 available (14.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0152.jpg",
       "timestamp": "2026-01-22T23:07:04.145Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 12,
       "cycleInfo": "Post 1283 - 6837 available (15.8% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0024.jpg",
+      "timestamp": "2026-01-25T05:42:10.084Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1284 - 6836 available (15.8% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-25T05:13:18.696Z"
+  "lastUpdated": "2026-01-25T05:42:10.084Z"
 }
