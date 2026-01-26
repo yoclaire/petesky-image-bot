@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E05_-_Time_Tunnel-0279.jpg",
-      "timestamp": "2026-01-24T07:36:12.175Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
-      "episode": "S2E5",
-      "season": 2,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1244 - 6876 available (15.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E05_-_Dance_Fever-0141.jpg",
       "timestamp": "2026-01-24T08:08:06.332Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 1343 - 6777 available (16.5% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0116.jpg",
+      "timestamp": "2026-01-26T13:47:20.432Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 1344 - 6776 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-26T13:20:56.440Z"
+  "lastUpdated": "2026-01-26T13:47:20.432Z"
 }
