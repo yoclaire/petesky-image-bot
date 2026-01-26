@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0270.jpg",
-      "timestamp": "2026-01-23T22:06:03.626Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 1228 - 6892 available (15.1% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0018.jpg",
       "timestamp": "2026-01-23T22:39:50.818Z",
       "altText": "The Adventures of Pete & Pete - Staremaster",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 1327 - 6793 available (16.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0101.jpg",
+      "timestamp": "2026-01-26T05:44:07.550Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1328 - 6792 available (16.4% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-26T05:15:54.489Z"
+  "lastUpdated": "2026-01-26T05:44:07.550Z"
 }
