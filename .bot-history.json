@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E05_-_Dance_Fever-0038.jpg",
-      "timestamp": "2026-01-23T18:46:20.953Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 5: Dance Fever",
-      "episode": "S3E5",
-      "season": 3,
-      "episodeNumber": 5,
-      "cycleInfo": "Post 1221 - 6899 available (15.0% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E05_-_Time_Tunnel-0072.jpg",
       "timestamp": "2026-01-23T19:09:48.880Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 1320 - 6800 available (16.3% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0227.jpg",
+      "timestamp": "2026-01-26T00:31:07.053Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1321 - 6799 available (16.3% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-25T23:36:54.874Z"
+  "lastUpdated": "2026-01-26T00:31:07.053Z"
 }
