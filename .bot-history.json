@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E09_-_Road_Warrior-0188.jpg",
-      "timestamp": "2026-01-24T18:08:40.879Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
-      "episode": "S3E9",
-      "season": 3,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 1265 - 6855 available (15.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0125.jpg",
       "timestamp": "2026-01-24T18:43:59.146Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 1364 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0100.jpg",
+      "timestamp": "2026-01-27T00:32:03.742Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 1365 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-26T23:38:15.530Z"
+  "lastUpdated": "2026-01-27T00:32:03.742Z"
 }
