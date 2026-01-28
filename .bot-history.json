@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0046.jpg",
-      "timestamp": "2026-01-26T11:37:09.452Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 1340 - 6780 available (16.5% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0056.jpg",
       "timestamp": "2026-01-26T12:13:04.038Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 13,
       "cycleInfo": "Post 1439 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x09_-_Flossing-0002.jpg",
+      "timestamp": "2026-01-28T17:14:42.377Z",
+      "altText": "The Adventures of Pete & Pete - Flossing",
+      "episode": "S0E9",
+      "season": 0,
+      "episodeNumber": 9,
+      "cycleInfo": "Post 1440 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-28T16:46:54.634Z"
+  "lastUpdated": "2026-01-28T17:14:42.377Z"
 }
