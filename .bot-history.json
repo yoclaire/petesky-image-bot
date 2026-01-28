@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0053.jpg",
-      "timestamp": "2026-01-26T03:41:36.083Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1324 - 6796 available (16.3% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E12_-_Yellow_Fever-0123.jpg",
       "timestamp": "2026-01-26T04:29:33.359Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 1423 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0059.jpg",
+      "timestamp": "2026-01-28T09:13:26.696Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1424 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-28T08:46:10.353Z"
+  "lastUpdated": "2026-01-28T09:13:26.696Z"
 }
