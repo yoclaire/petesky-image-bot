@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x20_-_The_Punishment-0013.jpg",
-      "timestamp": "2026-01-26T18:11:10.557Z",
-      "altText": "The Adventures of Pete & Pete - The Punishment",
-      "episode": "S0E20",
-      "season": 0,
-      "episodeNumber": 20,
-      "cycleInfo": "Post 1353 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x01_-_What_Would_You_Do_for_a_Dollar-0014.jpg",
       "timestamp": "2026-01-26T18:46:47.039Z",
       "altText": "The Adventures of Pete & Pete - What Would You Do for a Dollar",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 4,
       "cycleInfo": "Post 1452 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0158.jpg",
+      "timestamp": "2026-01-28T23:40:27.458Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
+      "episode": "S3E3",
+      "season": 3,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1453 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-28T23:09:33.343Z"
+  "lastUpdated": "2026-01-28T23:40:27.459Z"
 }
