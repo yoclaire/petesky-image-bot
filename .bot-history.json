@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0047.jpg",
-      "timestamp": "2026-01-26T16:10:32.561Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 1349 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0069.jpg",
       "timestamp": "2026-01-26T16:46:02.778Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 13,
       "cycleInfo": "Post 1448 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E02_-_The_Trouble_With_Teddy-0080.jpg",
+      "timestamp": "2026-01-28T21:42:51.175Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
+      "episode": "S3E2",
+      "season": 3,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1449 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-28T21:10:36.710Z"
+  "lastUpdated": "2026-01-28T21:42:51.175Z"
 }
