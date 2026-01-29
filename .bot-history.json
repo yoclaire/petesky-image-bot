@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x01_-_What_Would_You_Do_for_a_Dollar-0014.jpg",
-      "timestamp": "2026-01-26T18:46:47.039Z",
-      "altText": "The Adventures of Pete & Pete - What Would You Do for a Dollar",
-      "episode": "S0E1",
-      "season": 0,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 1354 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0100.jpg",
       "timestamp": "2026-01-26T19:10:14.037Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 3,
       "cycleInfo": "Post 1453 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0069.jpg",
+      "timestamp": "2026-01-29T00:32:52.905Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1454 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-28T23:40:27.459Z"
+  "lastUpdated": "2026-01-29T00:32:52.905Z"
 }
