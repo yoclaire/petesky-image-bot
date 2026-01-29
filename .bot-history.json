@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0185.jpg",
-      "timestamp": "2026-01-27T01:36:03.280Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 1366 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0188.jpg",
       "timestamp": "2026-01-27T02:49:41.536Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 1465 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x16_-_Route_34-0010.jpg",
+      "timestamp": "2026-01-29T08:47:20.863Z",
+      "altText": "The Adventures of Pete & Pete - Route 34",
+      "episode": "S0E16",
+      "season": 0,
+      "episodeNumber": 16,
+      "cycleInfo": "Post 1466 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-29T08:14:38.682Z"
+  "lastUpdated": "2026-01-29T08:47:20.863Z"
 }
