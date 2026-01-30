@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E09_-_Road_Warrior-0234.jpg",
-      "timestamp": "2026-01-27T19:40:34.774Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
-      "episode": "S3E9",
-      "season": 3,
-      "episodeNumber": 9,
-      "cycleInfo": "Post 1400 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0222.jpg",
       "timestamp": "2026-01-27T20:07:52.357Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 1499 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0209.jpg",
+      "timestamp": "2026-01-30T04:15:34.871Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1500 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-30T03:01:08.751Z"
+  "lastUpdated": "2026-01-30T04:15:34.871Z"
 }
