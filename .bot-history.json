@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0123.jpg",
-      "timestamp": "2026-01-29T16:47:51.223Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
-      "episode": "S3E6",
-      "season": 3,
-      "episodeNumber": 6,
-      "cycleInfo": "Post 1482 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E07_-_Last_Laugh-0123.jpg",
       "timestamp": "2026-01-29T17:16:13.477Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 3,
       "cycleInfo": "Post 1581 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0198.jpg",
+      "timestamp": "2026-01-31T23:38:50.048Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
+      "episode": "S3E6",
+      "season": 3,
+      "episodeNumber": 6,
+      "cycleInfo": "Post 1582 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-01-31T23:07:21.470Z"
+  "lastUpdated": "2026-01-31T23:38:50.048Z"
 }
