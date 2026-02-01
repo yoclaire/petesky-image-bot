@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E08_-_X_equals_Why-0140.jpg",
-      "timestamp": "2026-01-29T23:40:59.866Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
-      "episode": "S2E8",
-      "season": 2,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 1496 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E07_-_Inspector_34-0202.jpg",
       "timestamp": "2026-01-30T00:32:56.123Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 1595 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E13_-_Sick_Day-0013.jpg",
+      "timestamp": "2026-02-01T09:43:25.861Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
+      "episode": "S2E13",
+      "season": 2,
+      "episodeNumber": 13,
+      "cycleInfo": "Post 1596 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-01T09:11:18.380Z"
+  "lastUpdated": "2026-02-01T09:43:25.861Z"
 }
