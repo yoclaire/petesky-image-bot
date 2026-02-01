@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E07_-_Inspector_34-0068.jpg",
-      "timestamp": "2026-01-29T17:49:56.994Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
-      "episode": "S2E7",
-      "season": 2,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1484 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0233.jpg",
       "timestamp": "2026-01-29T18:16:23.154Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 1583 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0001.jpg",
+      "timestamp": "2026-02-01T01:37:17.852Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1584 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-01T00:39:31.019Z"
+  "lastUpdated": "2026-02-01T01:37:17.852Z"
 }
