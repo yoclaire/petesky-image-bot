@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x23_-_Artie,_The_Strongest_Man..._In_The_World!-0006.jpg",
-      "timestamp": "2026-01-31T07:41:55.421Z",
-      "altText": "The Adventures of Pete & Pete - Artie, the Strongest Man... in the World!",
-      "episode": "S0E23",
-      "season": 0,
-      "episodeNumber": 23,
-      "cycleInfo": "Post 1550 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0062.jpg",
       "timestamp": "2026-01-31T08:09:04.970Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 1649 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E01_-_35_Hours-0102.jpg",
+      "timestamp": "2026-02-02T15:46:03.145Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
+      "episode": "S3E1",
+      "season": 3,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 1650 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-02T15:18:36.400Z"
+  "lastUpdated": "2026-02-02T15:46:03.145Z"
 }
