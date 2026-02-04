@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0042.jpg",
-      "timestamp": "2026-02-01T21:39:28.903Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
-      "episode": "S2E11",
-      "season": 2,
-      "episodeNumber": 11,
-      "cycleInfo": "Post 1620 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0105.jpg",
       "timestamp": "2026-02-01T22:07:29.141Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 1719 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E02_-_Field_of_Pete-0110.jpg",
+      "timestamp": "2026-02-04T12:16:30.620Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
+      "episode": "S2E2",
+      "season": 2,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 1720 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-04T11:44:17.945Z"
+  "lastUpdated": "2026-02-04T12:16:30.620Z"
 }
