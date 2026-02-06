@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E07_-_Last_Laugh-0066.jpg",
-      "timestamp": "2026-02-03T21:13:36.087Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
-      "episode": "S3E7",
-      "season": 3,
-      "episodeNumber": 7,
-      "cycleInfo": "Post 1695 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0145.jpg",
       "timestamp": "2026-02-03T21:45:27.190Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 2,
       "cycleInfo": "Post 1794 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E03_-_The_Call-0029.jpg",
+      "timestamp": "2026-02-06T08:16:48.052Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
+      "episode": "S2E3",
+      "season": 2,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 1795 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-06T07:47:37.621Z"
+  "lastUpdated": "2026-02-06T08:16:48.052Z"
 }
