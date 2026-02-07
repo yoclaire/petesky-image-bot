@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0048.jpg",
-      "timestamp": "2026-02-04T18:48:54.416Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
-      "episode": "S2E10",
-      "season": 2,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 1733 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0009.jpg",
       "timestamp": "2026-02-04T19:19:11.437Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 5,
       "cycleInfo": "Post 1832 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0296.jpg",
+      "timestamp": "2026-02-07T05:47:08.427Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 1833 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-07T05:21:48.904Z"
+  "lastUpdated": "2026-02-07T05:47:08.427Z"
 }
