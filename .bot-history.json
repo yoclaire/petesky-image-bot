@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E03_-_The_Good,_the_Bad,_and_the_Lucky-0110.jpg",
-      "timestamp": "2026-02-05T16:48:10.812Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 3: The Good, The Bad, and The Lucky",
-      "episode": "S3E3",
-      "season": 3,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 1770 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E09_-_On_Golden_Pete-0169.jpg",
       "timestamp": "2026-02-05T17:20:59.033Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 1869 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E12_-_Yellow_Fever-0193.jpg",
+      "timestamp": "2026-02-08T00:43:31.361Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
+      "episode": "S2E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "cycleInfo": "Post 1870 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-07T23:43:54.042Z"
+  "lastUpdated": "2026-02-08T00:43:31.361Z"
 }
