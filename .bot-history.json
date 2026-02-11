@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0149.jpg",
-      "timestamp": "2026-02-09T08:49:35.588Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
-      "episode": "S2E10",
-      "season": 2,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 1922 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E13_-_Saturday-0053.jpg",
       "timestamp": "2026-02-09T09:25:55.946Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 13: Saturday",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 15,
       "cycleInfo": "Post 2021 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E01_-_King_of_The_Road-0041.jpg",
+      "timestamp": "2026-02-11T22:10:51.839Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
+      "episode": "S1E1",
+      "season": 1,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 2022 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-11T21:44:26.051Z"
+  "lastUpdated": "2026-02-11T22:10:51.839Z"
 }
