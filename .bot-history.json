@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x15_-_The_Burping_Room-0004.jpg",
-      "timestamp": "2026-02-11T21:44:26.051Z",
-      "altText": "The Adventures of Pete & Pete - The Burping Room",
-      "episode": "S0E15",
-      "season": 0,
-      "episodeNumber": 15,
-      "cycleInfo": "Post 2021 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E01_-_King_of_The_Road-0041.jpg",
       "timestamp": "2026-02-11T22:10:51.839Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 2,
       "cycleInfo": "Post 2120 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E07_-_Last_Laugh-0010.jpg",
+      "timestamp": "2026-02-14T08:45:56.369Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 7: Last Laugh",
+      "episode": "S3E7",
+      "season": 3,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 2121 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-14T08:10:02.621Z"
+  "lastUpdated": "2026-02-14T08:45:56.370Z"
 }
