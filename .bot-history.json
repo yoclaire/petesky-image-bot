@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x21_-_The_Launch-0008.jpg",
-      "timestamp": "2026-02-12T23:10:16.067Z",
-      "altText": "The Adventures of Pete & Pete - The Launch",
-      "episode": "S0E21",
-      "season": 0,
-      "episodeNumber": 21,
-      "cycleInfo": "Post 2065 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E10_-_Pinned-0090.jpg",
       "timestamp": "2026-02-12T23:42:49.444Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 6,
       "cycleInfo": "Post 2164 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0144.jpg",
+      "timestamp": "2026-02-15T09:43:50.903Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
+      "episode": "S2E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "cycleInfo": "Post 2165 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-15T09:11:27.041Z"
+  "lastUpdated": "2026-02-15T09:43:50.904Z"
 }
