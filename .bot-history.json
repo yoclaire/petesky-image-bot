@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0262.jpg",
-      "timestamp": "2026-02-14T10:08:10.384Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 2124 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0139.jpg",
       "timestamp": "2026-02-14T10:43:33.414Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 2223 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0092.jpg",
+      "timestamp": "2026-02-16T18:47:39.197Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
+      "episode": "S2E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 2224 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-16T18:16:20.557Z"
+  "lastUpdated": "2026-02-16T18:47:39.198Z"
 }
