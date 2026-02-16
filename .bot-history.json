@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E04_-_Splashdown!-0139.jpg",
-      "timestamp": "2026-02-14T10:43:33.414Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
-      "episode": "S3E4",
-      "season": 3,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 2125 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E02_-_The_Trouble_With_Teddy-0153.jpg",
       "timestamp": "2026-02-14T11:07:51.068Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 10,
       "cycleInfo": "Post 2224 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0150.jpg",
+      "timestamp": "2026-02-16T19:16:26.887Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 2225 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-16T18:47:39.198Z"
+  "lastUpdated": "2026-02-16T19:16:26.887Z"
 }
