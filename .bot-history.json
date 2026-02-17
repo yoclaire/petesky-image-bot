@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E01_-_Grounded_For_Life-0148.jpg",
-      "timestamp": "2026-02-14T18:46:30.355Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
-      "episode": "S2E1",
-      "season": 2,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 2141 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x16_-_Route_34-0004.jpg",
       "timestamp": "2026-02-14T19:10:06.880Z",
       "altText": "The Adventures of Pete & Pete - Route 34",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 2240 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E03_-_Space,_Geeks,_and_Johnny_Unitas-0202.jpg",
+      "timestamp": "2026-02-17T06:25:43.096Z",
+      "altText": "The Adventures of Pete & Pete - Space, Geeks, and Johnny Unitas",
+      "episode": "S0E3",
+      "season": 0,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 2241 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-17T05:50:37.828Z"
+  "lastUpdated": "2026-02-17T06:25:43.096Z"
 }
