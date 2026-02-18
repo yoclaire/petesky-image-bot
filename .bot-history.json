@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E01_-_35_Hours-0094.jpg",
-      "timestamp": "2026-02-15T22:07:02.868Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
-      "episode": "S3E1",
-      "season": 3,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 2190 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E06_-_Don't_Tread_on_Pete-0142.jpg",
       "timestamp": "2026-02-15T22:42:17.557Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 6: Don'T Tread on Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 2289 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E01_-_Grounded_For_Life-0184.jpg",
+      "timestamp": "2026-02-18T10:20:10.270Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 1: Grounded for Life",
+      "episode": "S2E1",
+      "season": 2,
+      "episodeNumber": 1,
+      "cycleInfo": "Post 2290 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-18T09:47:52.586Z"
+  "lastUpdated": "2026-02-18T10:20:10.270Z"
 }
