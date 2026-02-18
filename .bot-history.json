@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0045.jpg",
-      "timestamp": "2026-02-16T14:47:17.284Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 2216 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0085.jpg",
       "timestamp": "2026-02-16T15:18:12.850Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 10,
       "cycleInfo": "Post 2315 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0260.jpg",
+      "timestamp": "2026-02-18T23:43:08.573Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 2316 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-18T23:11:14.174Z"
+  "lastUpdated": "2026-02-18T23:43:08.573Z"
 }
