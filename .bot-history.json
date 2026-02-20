@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E13_-_Sick_Day-0061.jpg",
-      "timestamp": "2026-02-17T22:10:22.102Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
-      "episode": "S2E13",
-      "season": 2,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 2272 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "The_Adventures_of_Pete_&_Pete_-_0x01_-_What_Would_You_Do_for_a_Dollar-0018.jpg",
       "timestamp": "2026-02-17T22:45:35.915Z",
       "altText": "The Adventures of Pete & Pete - What Would You Do for a Dollar",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 1,
       "cycleInfo": "Post 2371 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0110.jpg",
+      "timestamp": "2026-02-20T10:15:20.590Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 2372 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-20T09:47:14.385Z"
+  "lastUpdated": "2026-02-20T10:15:20.590Z"
 }
