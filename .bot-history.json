@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E03_-_The_Call-0026.jpg",
-      "timestamp": "2026-02-18T06:53:23.675Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 3: The Call",
-      "episode": "S2E3",
-      "season": 2,
-      "episodeNumber": 3,
-      "cycleInfo": "Post 2283 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E11_-_Farewell_My_Little_Viking_Part_2-0256.jpg",
       "timestamp": "2026-02-18T07:25:33.382Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 11: Farewell My Little Viking Part 2",
@@ -899,7 +890,16 @@
       "season": 1,
       "episodeNumber": 7,
       "cycleInfo": "Post 2382 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E10_-_Farewell_My_Little_Viking_Part_1-0280.jpg",
+      "timestamp": "2026-02-20T15:46:11.058Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 10: Farewell My Little Viking Part 1",
+      "episode": "S2E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 2383 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-20T15:18:13.800Z"
+  "lastUpdated": "2026-02-20T15:46:11.058Z"
 }
