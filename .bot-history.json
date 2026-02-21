@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E08_-_Hard_Day's_Pete-0135.jpg",
-      "timestamp": "2026-02-19T06:27:24.057Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
-      "episode": "S1E8",
-      "season": 1,
-      "episodeNumber": 8,
-      "cycleInfo": "Post 2323 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0126.jpg",
       "timestamp": "2026-02-19T06:52:03.706Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 26,
       "cycleInfo": "Post 2422 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E08_-_Hard_Day's_Pete-0237.jpg",
+      "timestamp": "2026-02-21T14:08:52.633Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
+      "episode": "S1E8",
+      "season": 1,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 2423 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-21T13:46:24.626Z"
+  "lastUpdated": "2026-02-21T14:08:52.633Z"
 }
