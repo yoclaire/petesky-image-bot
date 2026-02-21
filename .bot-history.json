@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x20_-_The_Punishment-0014.jpg",
-      "timestamp": "2026-02-19T11:19:29.260Z",
-      "altText": "The Adventures of Pete & Pete - The Punishment",
-      "episode": "S0E20",
-      "season": 0,
-      "episodeNumber": 20,
-      "cycleInfo": "Post 2333 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E08_-_Hard_Day's_Pete-0251.jpg",
       "timestamp": "2026-02-19T11:46:11.797Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 8: Hard Day'S Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 4,
       "cycleInfo": "Post 2432 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E05_-_Time_Tunnel-0235.jpg",
+      "timestamp": "2026-02-21T19:10:12.558Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 5: Time Tunnel",
+      "episode": "S2E5",
+      "season": 2,
+      "episodeNumber": 5,
+      "cycleInfo": "Post 2433 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-21T18:46:41.848Z"
+  "lastUpdated": "2026-02-21T19:10:12.558Z"
 }
