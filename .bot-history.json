@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E02_-_Field_of_Pete-0052.jpg",
-      "timestamp": "2026-02-19T12:18:59.621Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 2: Field of Pete",
-      "episode": "S2E2",
-      "season": 2,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 2335 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0170.jpg",
       "timestamp": "2026-02-19T12:49:21.373Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 2434 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E03_-_The_Nightcrawlers-0196.jpg",
+      "timestamp": "2026-02-21T20:07:24.992Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 3: The Nightcrawlers",
+      "episode": "S1E3",
+      "season": 1,
+      "episodeNumber": 3,
+      "cycleInfo": "Post 2435 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-21T19:38:59.902Z"
+  "lastUpdated": "2026-02-21T20:07:24.992Z"
 }
