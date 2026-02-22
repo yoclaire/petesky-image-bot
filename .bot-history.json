@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x23_-_Artie,_The_Strongest_Man..._In_The_World!-0008.jpg",
-      "timestamp": "2026-02-19T20:16:30.025Z",
-      "altText": "The Adventures of Pete & Pete - Artie, the Strongest Man... in the World!",
-      "episode": "S0E23",
-      "season": 0,
-      "episodeNumber": 23,
-      "cycleInfo": "Post 2350 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E04_-_Splashdown!-0087.jpg",
       "timestamp": "2026-02-19T20:45:44.542Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 4: Splashdown!",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 7,
       "cycleInfo": "Post 2449 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E04_-_Rangeboy-0102.jpg",
+      "timestamp": "2026-02-22T06:48:03.560Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
+      "episode": "S1E4",
+      "season": 1,
+      "episodeNumber": 4,
+      "cycleInfo": "Post 2450 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-22T06:19:55.655Z"
+  "lastUpdated": "2026-02-22T06:48:03.560Z"
 }
