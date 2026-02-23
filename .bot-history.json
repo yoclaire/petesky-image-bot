@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E02_-_The_Trouble_With_Teddy-0132.jpg",
-      "timestamp": "2026-02-20T19:18:11.225Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 2: The Trouble With Teddy",
-      "episode": "S3E2",
-      "season": 3,
-      "episodeNumber": 2,
-      "cycleInfo": "Post 2390 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E09_-_On_Golden_Pete-0148.jpg",
       "timestamp": "2026-02-20T19:43:44.533Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 9: On Golden Pete",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 9,
       "cycleInfo": "Post 2489 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0200.jpg",
+      "timestamp": "2026-02-23T05:54:43.522Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 2490 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-23T05:09:44.061Z"
+  "lastUpdated": "2026-02-23T05:54:43.522Z"
 }
