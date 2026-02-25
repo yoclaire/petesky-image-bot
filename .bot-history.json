@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x18_-_The_Dot-0003.jpg",
-      "timestamp": "2026-02-22T16:09:10.952Z",
-      "altText": "The Adventures of Pete & Pete - The Dot",
-      "episode": "S0E18",
-      "season": 0,
-      "episodeNumber": 18,
-      "cycleInfo": "Post 2469 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E12_-_Das_Bus-0139.jpg",
       "timestamp": "2026-02-22T16:44:38.548Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 12: Das Bus",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 25,
       "cycleInfo": "Post 2568 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0205.jpg",
+      "timestamp": "2026-02-25T04:18:19.481Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 2569 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-25T03:05:31.041Z"
+  "lastUpdated": "2026-02-25T04:18:19.481Z"
 }
