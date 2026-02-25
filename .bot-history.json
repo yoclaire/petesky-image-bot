@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E04_-_The_Big_Quiet-0127.jpg",
-      "timestamp": "2026-02-23T07:30:33.409Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 4: The Big Quiet",
-      "episode": "S2E4",
-      "season": 2,
-      "episodeNumber": 4,
-      "cycleInfo": "Post 2493 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E02_-_Day_of_The_Dot-0161.jpg",
       "timestamp": "2026-02-23T08:18:58.240Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 8,
       "cycleInfo": "Post 2592 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S03E10_-_Pinned-0116.jpg",
+      "timestamp": "2026-02-25T17:28:12.339Z",
+      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
+      "episode": "S3E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "cycleInfo": "Post 2593 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-25T16:56:11.864Z"
+  "lastUpdated": "2026-02-25T17:28:12.339Z"
 }
