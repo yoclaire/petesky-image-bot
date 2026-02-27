@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E13_-_Sick_Day-0210.jpg",
-      "timestamp": "2026-02-25T07:49:41.172Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
-      "episode": "S2E13",
-      "season": 2,
-      "episodeNumber": 13,
-      "cycleInfo": "Post 2575 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E09_-_Road_Warrior-0168.jpg",
       "timestamp": "2026-02-25T08:18:54.431Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 9: Road Warrior",
@@ -899,7 +890,16 @@
       "season": 0,
       "episodeNumber": 1,
       "cycleInfo": "Post 2674 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x16_-_Route_34-0014.jpg",
+      "timestamp": "2026-02-27T18:15:08.008Z",
+      "altText": "The Adventures of Pete & Pete - Route 34",
+      "episode": "S0E16",
+      "season": 0,
+      "episodeNumber": 16,
+      "cycleInfo": "Post 2675 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-27T17:45:49.764Z"
+  "lastUpdated": "2026-02-27T18:15:08.008Z"
 }
