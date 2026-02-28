@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S03E10_-_Pinned-0064.jpg",
-      "timestamp": "2026-02-25T19:48:30.026Z",
-      "altText": "The Adventures of Pete & Pete - Season 3, Episode 10: Pinned",
-      "episode": "S3E10",
-      "season": 3,
-      "episodeNumber": 10,
-      "cycleInfo": "Post 2598 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S01E04_-_Rangeboy-0060.jpg",
       "timestamp": "2026-02-25T20:14:04.990Z",
       "altText": "The Adventures of Pete & Pete - Season 1, Episode 4: Rangeboy",
@@ -899,7 +890,16 @@
       "season": 2,
       "episodeNumber": 11,
       "cycleInfo": "Post 2697 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S01E02_-_Day_of_The_Dot-0224.jpg",
+      "timestamp": "2026-02-28T08:09:26.523Z",
+      "altText": "The Adventures of Pete & Pete - Season 1, Episode 2: Day of the Dot",
+      "episode": "S1E2",
+      "season": 1,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 2698 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-02-28T07:40:15.715Z"
+  "lastUpdated": "2026-02-28T08:09:26.523Z"
 }
