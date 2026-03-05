@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S01E01_-_King_of_The_Road-0239.jpg",
-      "timestamp": "2026-03-03T09:18:14.054Z",
-      "altText": "The Adventures of Pete & Pete - Season 1, Episode 1: King of the Road",
-      "episode": "S1E1",
-      "season": 1,
-      "episodeNumber": 1,
-      "cycleInfo": "Post 2825 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E01_-_35_Hours-0256.jpg",
       "timestamp": "2026-03-03T09:47:10.849Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 1: 35 Hours",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 6,
       "cycleInfo": "Post 2924 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E08_-_X_equals_Why-0136.jpg",
+      "timestamp": "2026-03-05T19:52:20.801Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 8: X Equals Why",
+      "episode": "S2E8",
+      "season": 2,
+      "episodeNumber": 8,
+      "cycleInfo": "Post 2925 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-03-05T18:40:23.839Z"
+  "lastUpdated": "2026-03-05T19:52:20.801Z"
 }
