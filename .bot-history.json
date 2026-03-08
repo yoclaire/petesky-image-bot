@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "S02E12_-_Yellow_Fever-0121.jpg",
-      "timestamp": "2026-03-06T03:02:14.555Z",
-      "altText": "The Adventures of Pete & Pete - Season 2, Episode 12: Yellow Fever",
-      "episode": "S2E12",
-      "season": 2,
-      "episodeNumber": 12,
-      "cycleInfo": "Post 2935 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S03E06_-_Crisis_in_the_Love_Zone-0223.jpg",
       "timestamp": "2026-03-06T04:15:36.366Z",
       "altText": "The Adventures of Pete & Pete - Season 3, Episode 6: Crisis in the Love Zone",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 12,
       "cycleInfo": "Post 3034 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S00E02_-_What_We_Did_on_Our_Summer_Vacation-0124.jpg",
+      "timestamp": "2026-03-08T10:41:59.492Z",
+      "altText": "The Adventures of Pete & Pete - What We Did on Our Summer Vacation",
+      "episode": "S0E2",
+      "season": 0,
+      "episodeNumber": 2,
+      "cycleInfo": "Post 3035 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-03-08T10:07:58.953Z"
+  "lastUpdated": "2026-03-08T10:41:59.493Z"
 }
