@@ -1,15 +1,6 @@
 {
   "entries": [
     {
-      "imageName": "The_Adventures_of_Pete_&_Pete_-_0x26_-_StareMaster-0033.jpg",
-      "timestamp": "2026-03-06T07:19:54.012Z",
-      "altText": "The Adventures of Pete & Pete - Staremaster",
-      "episode": "S0E26",
-      "season": 0,
-      "episodeNumber": 26,
-      "cycleInfo": "Post 2942 - 6775 available (16.6% excluded from seasonal pool)"
-    },
-    {
       "imageName": "S02E13_-_Sick_Day-0117.jpg",
       "timestamp": "2026-03-06T07:45:14.832Z",
       "altText": "The Adventures of Pete & Pete - Season 2, Episode 13: Sick Day",
@@ -899,7 +890,16 @@
       "season": 3,
       "episodeNumber": 9,
       "cycleInfo": "Post 3041 - 6775 available (16.6% excluded from seasonal pool)"
+    },
+    {
+      "imageName": "S02E07_-_Inspector_34-0196.jpg",
+      "timestamp": "2026-03-08T14:08:13.308Z",
+      "altText": "The Adventures of Pete & Pete - Season 2, Episode 7: Inspector 34",
+      "episode": "S2E7",
+      "season": 2,
+      "episodeNumber": 7,
+      "cycleInfo": "Post 3042 - 6775 available (16.6% excluded from seasonal pool)"
     }
   ],
-  "lastUpdated": "2026-03-08T13:45:24.618Z"
+  "lastUpdated": "2026-03-08T14:08:13.308Z"
 }
