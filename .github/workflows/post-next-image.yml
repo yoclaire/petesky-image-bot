@@ -28,8 +28,8 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Type check
-        run: npx tsc --noEmit
+      - name: Build
+        run: yarn build
 
       - name: Post to Bluesky
         id: post
@@ -37,7 +37,7 @@ jobs:
           BSKY_IDENTIFIER: ${{ secrets.BSKY_IDENTIFIER }}
           BSKY_PASSWORD: ${{ secrets.BSKY_PASSWORD }}
         run: |
-          yarn --silent run start
+          node dist/index.js
           posted_image=$(cat .last_posted_image)
           echo "posted_image=$posted_image" >> $GITHUB_OUTPUT
           echo "Posted image: $posted_image"

@@ -1,47 +1,19 @@
 import { BskyAgent, stringifyLex, jsonToLex } from '@atproto/api';
 import * as fs from 'fs';
-import sharp from 'sharp';
 
 const GET_TIMEOUT = 15e3; // 15s
 const POST_TIMEOUT = 60e3; // 60s
 
 async function loadImageData(imagePath: fs.PathLike) {
-  let buffer = await fs.promises.readFile(imagePath);
+  const buffer = await fs.promises.readFile(imagePath);
 
   if (buffer.byteLength > 1024 * 1024) {
-    buffer = await resizeImage(buffer);
+    throw new Error(
+      `Image exceeds Bluesky's 1MB limit (${(buffer.byteLength / 1024 / 1024).toFixed(2)}MB). Resize before adding to imagequeue.`
+    );
   }
 
   return { data: new Uint8Array(buffer.buffer, buffer.byteOffset, buffer.byteLength) };
-}
-
-async function resizeImage(buffer: Buffer): Promise<Buffer> {
-  const metadata = await sharp(buffer).metadata();
-  if (!metadata.width) {
-    throw new Error('Unable to determine image dimensions');
-  }
-
-  let newSize = 0.9;
-  let outputBuffer = buffer;
-
-  while (outputBuffer.byteLength > 976.56 * 1024) {
-    if (newSize <= 0.1) {
-      throw new Error('Unable to resize image below 1MB');
-    }
-
-    const newWidth = Math.round(metadata.width * newSize);
-
-    // Create a fresh sharp instance each iteration to avoid pipeline reuse issues
-    outputBuffer = await sharp(buffer)
-      .rotate()
-      .resize(newWidth)
-      .jpeg()
-      .toBuffer();
-
-    newSize -= 0.1;
-  }
-
-  return outputBuffer;
 }
 
 interface FetchHandlerResponse {

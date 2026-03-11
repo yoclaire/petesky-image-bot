@@ -2,10 +2,8 @@ import { postImage, PostImageOptions } from './clients/at';
 import { getNextImage } from './images';
 import * as fs from 'fs';
 import * as path from 'path';
-import * as dotenv from 'dotenv';
 import { extractEpisodeInfo } from './utils/episode';
 import { PROJECT_ROOT } from './utils/paths';
-dotenv.config();
 
 interface PostingHistoryEntry {
   imageName: string;
