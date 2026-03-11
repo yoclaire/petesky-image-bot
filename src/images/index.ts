@@ -1,11 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import * as util from 'util';
 import { LargeScaleImageSelector } from './large-scale-selector';
-
-type GetNextImageOptions = {
-  lastImageName: string | undefined;
-};
+import { PROJECT_ROOT } from '../utils/paths';
 
 type NextImage = {
   imageName: string;
@@ -14,10 +10,9 @@ type NextImage = {
   cycleInfo?: string;
 };
 
-async function getNextImage(options?: GetNextImageOptions): Promise<NextImage> {
-  const readdir = util.promisify(fs.readdir);
-  const imagesDir = path.resolve(process.cwd(), 'imagequeue');
-  const imageFiles = await readdir(imagesDir);
+async function getNextImage(): Promise<NextImage> {
+  const imagesDir = path.resolve(PROJECT_ROOT, 'imagequeue');
+  const imageFiles = await fs.promises.readdir(imagesDir);
   const imageRegex = /\.(jpg|jpeg|png|gif|bmp)$/i;
   const validImageFiles = imageFiles.filter((filename) => imageRegex.test(filename));
 
@@ -30,10 +25,10 @@ async function getNextImage(options?: GetNextImageOptions): Promise<NextImage> {
   // For large collections (>1000 images), use exclusion-based approach
   if (validImageFiles.length > 1000) {
     console.log('Using large-scale selector for optimal memory usage');
-    
+
     const selector = new LargeScaleImageSelector(validImageFiles);
     const selection = selector.selectNextImage();
-    
+
     console.log(`Selected: ${selection.imageName}`);
     console.log(`Status: ${selector.getStatus()}`);
 
@@ -43,7 +38,7 @@ async function getNextImage(options?: GetNextImageOptions): Promise<NextImage> {
       imageName: selection.imageName,
       absolutePath,
       loopedAround: false,
-      cycleInfo: selection.cycleInfo
+      cycleInfo: selection.cycleInfo,
     };
   }
 
@@ -56,7 +51,7 @@ async function getNextImage(options?: GetNextImageOptions): Promise<NextImage> {
     imageName: selectedImage,
     absolutePath,
     loopedAround: false,
-    cycleInfo: `Random selection from ${validImageFiles.length} images`
+    cycleInfo: `Random selection from ${validImageFiles.length} images`,
   };
 }
 

@@ -249,7 +249,8 @@ class ScreenshotExtractor {
           console.log('');
           
         } catch (error) {
-          this.log(`Failed to process ${video.name}: ${error.message}`, 'error');
+          const message = error instanceof Error ? error.message : String(error);
+          this.log(`Failed to process ${video.name}: ${message}`, 'error');
           console.log('');
         }
       }
@@ -272,7 +273,8 @@ class ScreenshotExtractor {
       }
 
     } catch (error) {
-      this.log(`Fatal error: ${error.message}`, 'error');
+      const message = error instanceof Error ? error.message : String(error);
+      this.log(`Fatal error: ${message}`, 'error');
       process.exit(1);
     }
   }
