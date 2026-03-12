@@ -10,22 +10,21 @@ export interface SeasonalStatus {
   seasonType?: string;
 }
 
-const SEASON_EPISODE_PATTERNS = [
-  /(?:Season?\s*)?(\d+)x(\d+)/i,
-  /S(\d+)E(\d+)/i,
-  /(\d+)\s*x\s*(\d+)/i,
-];
-
 export function extractEpisodeInfo(imageName: string): EpisodeInfo {
   const cleanName = imageName.replace(/\.(jpg|jpeg|png|gif|bmp)$/i, '');
 
-  for (const pattern of SEASON_EPISODE_PATTERNS) {
-    const match = cleanName.match(pattern);
-    if (match) {
-      const season = parseInt(match[1]);
-      const episode = parseInt(match[2]);
-      return { season, episode, episodeId: `S${season}E${episode}` };
-    }
+  // Shorts: "The_Adventures_of_Pete_&_Pete_-_0x01_-_..." → Short1
+  const shortMatch = cleanName.match(/(\d+)x(\d+)/i);
+  if (shortMatch && cleanName.includes('Pete_&_Pete')) {
+    return { season: 0, episode: parseInt(shortMatch[2]), episodeId: `Short${parseInt(shortMatch[2])}` };
+  }
+
+  // Standard: S01E08, S00E05, etc.
+  const stdMatch = cleanName.match(/S(\d+)E(\d+)/i);
+  if (stdMatch) {
+    const season = parseInt(stdMatch[1]);
+    const episode = parseInt(stdMatch[2]);
+    return { season, episode, episodeId: `S${season}E${episode}` };
   }
 
   return {};
@@ -45,10 +44,12 @@ export function getSeasonalStatus(imageName: string): SeasonalStatus {
   const month = now.getMonth() + 1;
   const content = imageName.toLowerCase();
 
-  if (content.includes('halloweenie')) {
+  // S02E06 Halloweenie + 0x17 Halloween short
+  if (content.includes('halloweenie') || content.includes('0x17_-_halloween')) {
     return { isSeasonalEpisode: true, currentlySeasonal: month === 10, seasonType: 'halloween' };
   }
 
+  // S03E11 O' Christmas Pete + S00E05 New Year's Pete
   if (
     content.includes('christmas_pete') ||
     content.includes("o'_christmas_pete") ||

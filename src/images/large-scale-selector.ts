@@ -1,280 +1,246 @@
 import * as fs from 'fs';
 import * as path from 'path';
-import * as crypto from 'crypto';
 import { getSeasonalStatus, extractEpisodeIdentifier } from '../utils/episode';
 import { PROJECT_ROOT } from '../utils/paths';
 
-interface LargeScaleHistory {
-  recentlyUsed: string[]; // Last N image hashes
-  totalImagesEver: number;
-  postsThisCycle: number;
+interface SelectionState {
+  postedBits: string;        // hex-encoded bit vector (1 bit per image)
+  imageCount: number;        // image count when bit vector was created
+  recentEpisodes: string[];  // recent episode IDs for spacing
   cycleStartedAt: string;
   lastUpdated: string;
   formatVersion: number;
 }
 
-// Efficient selector for large screenshot collections (9000+ images)
-// Uses exclusion list instead of full cycle tracking to minimize memory usage
+const EPISODE_SPACING = 5;
+const FORMAT_VERSION = 2;
+
+// Tracks every posted image with a bit vector (~1KB for 9000 images)
+// guaranteeing full pool exhaustion before any repeats.
+// Selection is random within the unposted pool — unpredictable but thorough.
 class LargeScaleImageSelector {
-  private historyPath: string;
-  private recentExclusionSize: number;
-  private maxFileSize = 50 * 1024; // 50KB limit
+  private statePath: string;
+  private sortedImages: string[];
+  private indexMap: Map<string, number>;
 
   constructor(private validImageFiles: string[]) {
-    this.historyPath = path.join(PROJECT_ROOT, '.large-scale-history.json');
-
-    // Scale exclusion size based on collection size
-    // For 8,973 images, exclude last ~1,346 (15% - good for hourly bot variety)
-    this.recentExclusionSize = Math.min(
-      Math.floor(validImageFiles.length * 0.15), // 15% of collection
-      2000 // Cap at 2000 for memory efficiency
-    );
-
-    console.log(`Managing ${validImageFiles.length} images with ${this.recentExclusionSize}-image exclusion list`);
+    this.statePath = path.join(PROJECT_ROOT, '.large-scale-history.json');
+    this.sortedImages = [...validImageFiles].sort();
+    this.indexMap = new Map(this.sortedImages.map((img, i) => [img, i]));
+    console.log(`Managing ${this.sortedImages.length} images with bit-vector tracking`);
   }
 
   private filterImagesBySeasonalRules(): string[] {
-    const now = new Date();
-    const month = now.getMonth() + 1; // 1-12
+    const month = new Date().getMonth() + 1;
 
     if (month === 10) {
-      // October: ONLY Halloweenie screenshots
-      const halloweenieImages = this.validImageFiles.filter(image => {
-        const status = getSeasonalStatus(image);
-        return status.isSeasonalEpisode && status.seasonType === 'halloween';
+      const imgs = this.sortedImages.filter(img => {
+        const s = getSeasonalStatus(img);
+        return s.isSeasonalEpisode && s.seasonType === 'halloween';
       });
-
-      if (halloweenieImages.length > 0) {
-        console.log(`October: Using only ${halloweenieImages.length} Halloweenie screenshots`);
-        return halloweenieImages;
-      } else {
-        console.warn('October: No Halloweenie screenshots found, falling back to all images');
-        return this.validImageFiles;
+      if (imgs.length > 0) {
+        console.log(`October: ${imgs.length} Halloweenie + Halloween screenshots`);
+        return imgs;
       }
+      console.warn('October: No Halloween screenshots found, using all');
+      return this.sortedImages;
     }
 
     if (month === 12) {
-      // December: ONLY Christmas Pete and New Year's Pete screenshots
-      const christmasImages = this.validImageFiles.filter(image => {
-        const status = getSeasonalStatus(image);
-        return status.isSeasonalEpisode && status.seasonType === 'christmas';
+      const imgs = this.sortedImages.filter(img => {
+        const s = getSeasonalStatus(img);
+        return s.isSeasonalEpisode && s.seasonType === 'christmas';
       });
-
-      if (christmasImages.length > 0) {
-        console.log(`December: Using only ${christmasImages.length} Christmas Pete screenshots`);
-        return christmasImages;
-      } else {
-        console.warn('December: No Christmas Pete screenshots found, falling back to all images');
-        return this.validImageFiles;
+      if (imgs.length > 0) {
+        console.log(`December: ${imgs.length} Christmas + New Year's screenshots`);
+        return imgs;
       }
+      console.warn('December: No Christmas screenshots found, using all');
+      return this.sortedImages;
     }
 
-    // All other months: ONLY non-seasonal episodes
-    const nonSeasonalImages = this.validImageFiles.filter(image => {
-      const status = getSeasonalStatus(image);
-      return !status.isSeasonalEpisode;
-    });
-
-    console.log(`Using ${nonSeasonalImages.length} non-seasonal screenshots (excluding seasonal episodes)`);
-    return nonSeasonalImages;
+    const imgs = this.sortedImages.filter(img => !getSeasonalStatus(img).isSeasonalEpisode);
+    console.log(`${imgs.length} non-seasonal screenshots available`);
+    return imgs;
   }
 
-  private hashFilename(filename: string): string {
-    // 16 hex chars = 64-bit space, effectively collision-free for <10k images
-    return crypto.createHash('sha256').update(filename).digest('hex').slice(0, 16);
+  // --- Bit vector operations ---
+
+  private createBitVector(size: number): Buffer {
+    return Buffer.alloc(Math.ceil(size / 8), 0);
   }
 
-  private loadHistory(): LargeScaleHistory {
-    if (!fs.existsSync(this.historyPath)) {
-      return this.createFreshHistory();
+  private setBit(bits: Buffer, index: number): void {
+    bits[index >> 3] |= 1 << (index & 7);
+  }
+
+  private getBit(bits: Buffer, index: number): boolean {
+    return (bits[index >> 3] & (1 << (index & 7))) !== 0;
+  }
+
+  private clearBit(bits: Buffer, index: number): void {
+    bits[index >> 3] &= ~(1 << (index & 7));
+  }
+
+  // --- State persistence ---
+
+  private loadState(): SelectionState {
+    if (!fs.existsSync(this.statePath)) {
+      return this.createFreshState();
     }
 
     try {
-      const data = fs.readFileSync(this.historyPath, 'utf8');
-
-      if (data.length > this.maxFileSize) {
-        console.warn(`History file too large (${data.length} bytes), resetting`);
-        return this.createFreshHistory();
-      }
-
+      const data = fs.readFileSync(this.statePath, 'utf8');
       const parsed: unknown = JSON.parse(data);
 
-      if (this.isValidHistory(parsed)) {
-        return parsed;
-      } else {
-        console.warn('Invalid history structure, resetting');
-        return this.createFreshHistory();
+      if (!this.isValidState(parsed)) {
+        console.log('Migrating from v1 format, resetting');
+        return this.createFreshState();
       }
+
+      if (parsed.imageCount !== this.sortedImages.length) {
+        console.log(`Image count changed (${parsed.imageCount} -> ${this.sortedImages.length}), resetting`);
+        return this.createFreshState();
+      }
+
+      return parsed;
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
-      console.warn('Could not load history:', message);
-      return this.createFreshHistory();
+      console.warn('Could not load state:', message);
+      return this.createFreshState();
     }
   }
 
-  private createFreshHistory(): LargeScaleHistory {
+  private createFreshState(): SelectionState {
+    const bits = this.createBitVector(this.sortedImages.length);
     return {
-      recentlyUsed: [],
-      totalImagesEver: this.validImageFiles.length,
-      postsThisCycle: 0,
+      postedBits: bits.toString('hex'),
+      imageCount: this.sortedImages.length,
+      recentEpisodes: [],
       cycleStartedAt: new Date().toISOString(),
       lastUpdated: new Date().toISOString(),
-      formatVersion: 1,
+      formatVersion: FORMAT_VERSION,
     };
   }
 
-  private isValidHistory(data: unknown): data is LargeScaleHistory {
+  private isValidState(data: unknown): data is SelectionState {
     if (typeof data !== 'object' || data === null) return false;
     const obj = data as Record<string, unknown>;
     return (
-      Array.isArray(obj.recentlyUsed) &&
-      typeof obj.totalImagesEver === 'number' &&
-      typeof obj.postsThisCycle === 'number'
+      typeof obj.postedBits === 'string' &&
+      typeof obj.imageCount === 'number' &&
+      Array.isArray(obj.recentEpisodes) &&
+      obj.formatVersion === FORMAT_VERSION
     );
   }
 
-  private saveHistory(history: LargeScaleHistory): void {
-    history.lastUpdated = new Date().toISOString();
-
+  private saveState(state: SelectionState): void {
+    state.lastUpdated = new Date().toISOString();
     try {
-      // Trim exclusion list if it's getting too large
-      if (history.recentlyUsed.length > this.recentExclusionSize) {
-        history.recentlyUsed = history.recentlyUsed.slice(-this.recentExclusionSize);
-      }
-
-      let jsonData = JSON.stringify(history, null, 2);
-
-      if (jsonData.length > this.maxFileSize) {
-        // Emergency trim - keep only most recent exclusions
-        const emergencySize = Math.floor(this.recentExclusionSize * 0.7);
-        history.recentlyUsed = history.recentlyUsed.slice(-emergencySize);
-        jsonData = JSON.stringify(history, null, 2);
-        console.warn(`Trimmed exclusion list to ${emergencySize} items`);
-      }
-
-      fs.writeFileSync(this.historyPath, jsonData, 'utf8');
+      fs.writeFileSync(this.statePath, JSON.stringify(state), 'utf8');
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
-      console.error('Failed to save history:', message);
-      // Continue without saving - graceful degradation
+      console.error('Failed to save state:', message);
     }
   }
 
-  private getRecentPostingHistory(historySize: number = 8): string[] {
-    const historyPath = path.join(PROJECT_ROOT, '.bot-history.json');
-
-    if (!fs.existsSync(historyPath)) {
-      return [];
-    }
-
-    try {
-      const data = fs.readFileSync(historyPath, 'utf8');
-      const history = JSON.parse(data);
-
-      return history.entries
-        .slice(-historySize)
-        .map((entry: { imageName: string }) => entry.imageName);
-    } catch {
-      return [];
-    }
-  }
+  // --- Selection ---
 
   public selectNextImage(): { imageName: string; cycleInfo: string } {
-    let history = this.loadHistory();
+    const state = this.loadState();
+    const seasonalPool = this.filterImagesBySeasonalRules();
+    let bits = Buffer.from(state.postedBits, 'hex');
 
-    // Check if image collection size changed significantly
-    if (Math.abs(history.totalImagesEver - this.validImageFiles.length) > 50) {
-      console.log(`Image collection changed significantly (${history.totalImagesEver} -> ${this.validImageFiles.length}), resetting`);
-      history = this.createFreshHistory();
+    // Ensure bit vector is correctly sized
+    const expectedSize = Math.ceil(this.sortedImages.length / 8);
+    if (bits.length !== expectedSize) {
+      bits = this.createBitVector(this.sortedImages.length);
+      state.postedBits = bits.toString('hex');
     }
 
-    // Apply seasonal filtering FIRST - this determines what images we can even consider
-    const seasonallyAllowedImages = this.filterImagesBySeasonalRules();
-
-    // Create exclusion set for fast lookup
-    const excludedHashes = new Set(history.recentlyUsed);
-    const recentPosts = this.getRecentPostingHistory();
-    const recentEpisodes = recentPosts.map(name => extractEpisodeIdentifier(name));
-
-    // Find available images from the seasonally allowed set (not recently used)
-    const availableImages = seasonallyAllowedImages.filter(image => {
-      const hash = this.hashFilename(image);
-      return !excludedHashes.has(hash);
-    });
-
-    let selectedImage: string;
-
-    if (availableImages.length === 0) {
-      // All seasonally allowed images recently used - reset exclusion list for this seasonal set
-      console.log(`All ${seasonallyAllowedImages.length} seasonally allowed images recently used - resetting exclusions`);
-      console.log(`Completed cycle: ${history.postsThisCycle} posts since ${history.cycleStartedAt}`);
-
-      history.recentlyUsed = [];
-      history.postsThisCycle = 0;
-      history.cycleStartedAt = new Date().toISOString();
-
-      // Select from seasonally allowed collection
-      selectedImage = seasonallyAllowedImages[Math.floor(Math.random() * seasonallyAllowedImages.length)];
-    } else {
-      // Try to avoid episode clustering within available seasonal images
-      const episodeFilteredImages = availableImages.filter(image => {
-        const episode = extractEpisodeIdentifier(image);
-        return !recentEpisodes.slice(-3).includes(episode); // Avoid last 3 episodes
-      });
-
-      if (episodeFilteredImages.length > 0) {
-        selectedImage = episodeFilteredImages[Math.floor(Math.random() * episodeFilteredImages.length)];
-      } else {
-        // No episode variety possible, use any available seasonal image
-        selectedImage = availableImages[Math.floor(Math.random() * availableImages.length)];
-        console.log('Episode clustering unavoidable with available seasonal images');
+    // Collect unposted images in the seasonal pool
+    let unposted: number[] = [];
+    for (const img of seasonalPool) {
+      const idx = this.indexMap.get(img)!;
+      if (!this.getBit(bits, idx)) {
+        unposted.push(idx);
       }
     }
 
-    // Update history
-    const selectedHash = this.hashFilename(selectedImage);
-    history.recentlyUsed.push(selectedHash);
-    history.postsThisCycle++;
+    // Pool exhausted — clear bits for this seasonal pool only
+    if (unposted.length === 0) {
+      console.log(`All ${seasonalPool.length} seasonal images posted — new cycle`);
 
-    // Save updated history
-    this.saveHistory(history);
+      for (const img of seasonalPool) {
+        this.clearBit(bits, this.indexMap.get(img)!);
+      }
+      state.postedBits = bits.toString('hex');
+      state.cycleStartedAt = new Date().toISOString();
+      state.recentEpisodes = [];
 
-    // Calculate statistics based on seasonal pool
-    const exclusionRate = (history.recentlyUsed.length / seasonallyAllowedImages.length * 100).toFixed(1);
-    const availableCount = seasonallyAllowedImages.length - history.recentlyUsed.length;
+      unposted = seasonalPool.map(img => this.indexMap.get(img)!);
+    }
 
-    const cycleInfo = `Post ${history.postsThisCycle} - ${availableCount} available (${exclusionRate}% excluded from seasonal pool)`;
+    // Episode spacing: prefer images not from recently posted episodes
+    const recentEps = new Set(state.recentEpisodes.slice(-EPISODE_SPACING));
+    const spaced = unposted.filter(idx => {
+      const ep = extractEpisodeIdentifier(this.sortedImages[idx]);
+      return !recentEps.has(ep);
+    });
 
-    console.log(`Selected: ${selectedImage}`);
-    console.log(`Status: ${cycleInfo}`);
+    const candidates = spaced.length > 0 ? spaced : unposted;
+    const selectedIdx = candidates[Math.floor(Math.random() * candidates.length)];
+    const selectedImage = this.sortedImages[selectedIdx];
 
-    return {
-      imageName: selectedImage,
-      cycleInfo,
-    };
+    // Update state
+    this.setBit(bits, selectedIdx);
+    state.postedBits = bits.toString('hex');
+
+    const episode = extractEpisodeIdentifier(selectedImage);
+    state.recentEpisodes.push(episode);
+    if (state.recentEpisodes.length > EPISODE_SPACING * 2) {
+      state.recentEpisodes = state.recentEpisodes.slice(-EPISODE_SPACING * 2);
+    }
+
+    this.saveState(state);
+
+    // Stats: count set bits in seasonal pool
+    let posted = 0;
+    for (const img of seasonalPool) {
+      if (this.getBit(bits, this.indexMap.get(img)!)) {
+        posted++;
+      }
+    }
+    const total = seasonalPool.length;
+    const remaining = total - posted;
+    const pct = (posted / total * 100).toFixed(1);
+    const cycleInfo = `Post ${posted}/${total} (${pct}%) — ${remaining} remaining`;
+
+    return { imageName: selectedImage, cycleInfo };
   }
 
   public getStatus(): string {
     try {
-      const history = this.loadHistory();
-      const seasonallyAllowedImages = this.filterImagesBySeasonalRules();
-      const excludedCount = history.recentlyUsed.length;
-      const availableCount = seasonallyAllowedImages.length - excludedCount;
-      const exclusionRate = (excludedCount / seasonallyAllowedImages.length * 100).toFixed(1);
+      const state = this.loadState();
+      const seasonalPool = this.filterImagesBySeasonalRules();
+      const bits = Buffer.from(state.postedBits, 'hex');
 
-      const now = new Date();
-      const month = now.getMonth() + 1;
-      let seasonalInfo = '';
-
-      if (month === 10) {
-        seasonalInfo = ' (October: Halloweenie only)';
-      } else if (month === 12) {
-        seasonalInfo = ' (December: Christmas Pete only)';
-      } else {
-        seasonalInfo = ' (Non-seasonal episodes only)';
+      let posted = 0;
+      for (const img of seasonalPool) {
+        const idx = this.indexMap.get(img);
+        if (idx !== undefined && this.getBit(bits, idx)) {
+          posted++;
+        }
       }
 
-      return `${excludedCount}/${seasonallyAllowedImages.length} recently used (${exclusionRate}%) - ${availableCount} available${seasonalInfo}`;
+      const total = seasonalPool.length;
+      const remaining = total - posted;
+      const month = new Date().getMonth() + 1;
+      let tag = '';
+      if (month === 10) tag = ' (Halloween)';
+      else if (month === 12) tag = ' (Christmas)';
+
+      return `${posted}/${total} posted (${remaining} remaining)${tag}`;
     } catch {
       return 'Error reading status';
     }
