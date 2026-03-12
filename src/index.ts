@@ -1,25 +1,8 @@
 import { postImage, PostImageOptions } from './clients/at';
 import { getNextImage } from './images';
 import * as fs from 'fs';
-import * as path from 'path';
-import { extractEpisodeInfo } from './utils/episode';
 import { generateVisionAltText } from './utils/alt-text';
 import { PROJECT_ROOT } from './utils/paths';
-
-interface PostingHistoryEntry {
-  imageName: string;
-  timestamp: string;
-  altText: string;
-  episode?: string;
-  season?: number;
-  episodeNumber?: number;
-  cycleInfo?: string;
-}
-
-interface PostingHistory {
-  entries: PostingHistoryEntry[];
-  lastUpdated: string;
-}
 
 // Extract episode info from filename for alt text
 function altTextFromImageName(imageName: string): string {
@@ -142,37 +125,6 @@ function altTextFromImageName(imageName: string): string {
   return altText;
 }
 
-// Load posting history
-function loadPostingHistory(): PostingHistory {
-  const historyPath = path.join(PROJECT_ROOT, '.bot-history.json');
-
-  if (!fs.existsSync(historyPath)) {
-    return { entries: [], lastUpdated: new Date().toISOString() };
-  }
-
-  try {
-    const data = fs.readFileSync(historyPath, 'utf8');
-    return JSON.parse(data);
-  } catch (error) {
-    const message = error instanceof Error ? error.message : String(error);
-    console.warn('Could not load posting history, starting fresh:', message);
-    return { entries: [], lastUpdated: new Date().toISOString() };
-  }
-}
-
-// Save posting history
-function savePostingHistory(history: PostingHistory): void {
-  const historyPath = path.join(PROJECT_ROOT, '.bot-history.json');
-  history.lastUpdated = new Date().toISOString();
-
-  try {
-    fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf8');
-  } catch (error) {
-    const message = error instanceof Error ? error.message : String(error);
-    console.warn('Could not save posting history:', message);
-  }
-}
-
 // Post with retry logic
 async function postWithRetry(imageData: PostImageOptions, maxRetries = 3): Promise<void> {
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
@@ -197,7 +149,7 @@ async function postWithRetry(imageData: PostImageOptions, maxRetries = 3): Promi
 
 // Write the posted image name to a file for GitHub Actions to read
 function savePostedImageName(imageName: string): void {
-  const filePath = path.join(PROJECT_ROOT, '.last_posted_image');
+  const filePath = `${PROJECT_ROOT}/.last_posted_image`;
   fs.writeFileSync(filePath, imageName.trim(), 'utf8');
 }
 
@@ -225,34 +177,8 @@ async function main() {
 
     console.log('Successfully posted to Bluesky!');
 
-    // Save to posting history
-    const history = loadPostingHistory();
-    const episodeInfo = extractEpisodeInfo(nextImage.imageName);
-
-    const entry: PostingHistoryEntry = {
-      imageName: nextImage.imageName,
-      timestamp: new Date().toISOString(),
-      altText: altText,
-      episode: episodeInfo.episodeId,
-      season: episodeInfo.season,
-      episodeNumber: episodeInfo.episode,
-      cycleInfo: nextImage.cycleInfo,
-    };
-
-    history.entries.push(entry);
-
-    // Keep last 100 entries (increased for large-scale tracking)
-    if (history.entries.length > 100) {
-      history.entries = history.entries.slice(-100);
-    }
-
-    savePostingHistory(history);
-
     // Save the posted image name for GitHub Actions
     savePostedImageName(nextImage.imageName);
-
-    // Log statistics
-    console.log(`Total posts in history: ${history.entries.length}`);
 
   } catch (error) {
     console.error('Error posting to Bluesky:', error);
