@@ -6,7 +6,6 @@ import { PROJECT_ROOT } from '../utils/paths';
 type NextImage = {
   imageName: string;
   absolutePath: string;
-  loopedAround: boolean;
   cycleInfo?: string;
 };
 
@@ -37,7 +36,6 @@ async function getNextImage(): Promise<NextImage> {
     return {
       imageName: selection.imageName,
       absolutePath,
-      loopedAround: false,
       cycleInfo: selection.cycleInfo,
     };
   }
@@ -50,7 +48,6 @@ async function getNextImage(): Promise<NextImage> {
   return {
     imageName: selectedImage,
     absolutePath,
-    loopedAround: false,
     cycleInfo: `Random selection from ${validImageFiles.length} images`,
   };
 }
