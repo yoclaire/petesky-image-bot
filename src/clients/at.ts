@@ -1,8 +1,7 @@
-import { BskyAgent, stringifyLex, jsonToLex } from '@atproto/api';
+import { AtpAgent } from '@atproto/api';
 import * as fs from 'fs';
 
-const GET_TIMEOUT = 15e3; // 15s
-const POST_TIMEOUT = 60e3; // 60s
+const REQUEST_TIMEOUT = 60e3; // 60s
 
 async function loadImageData(imagePath: fs.PathLike) {
   const buffer = await fs.promises.readFile(imagePath);
@@ -14,63 +13,6 @@ async function loadImageData(imagePath: fs.PathLike) {
   }
 
   return { data: new Uint8Array(buffer.buffer, buffer.byteOffset, buffer.byteLength) };
-}
-
-interface FetchHandlerResponse {
-  status: number;
-  headers: Record<string, string>;
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  body: any;
-}
-
-async function fetchHandler(
-  reqUri: string,
-  reqMethod: string,
-  reqHeaders: Record<string, string>,
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  reqBody: any,
-): Promise<FetchHandlerResponse> {
-  const reqMimeType = reqHeaders['Content-Type'] || reqHeaders['content-type'];
-  if (reqMimeType && reqMimeType.startsWith('application/json')) {
-    reqBody = stringifyLex(reqBody);
-  }
-
-  const controller = new AbortController();
-  const to = setTimeout(() => controller.abort(), reqMethod === 'post' ? POST_TIMEOUT : GET_TIMEOUT);
-
-  try {
-    const res = await fetch(reqUri, {
-      method: reqMethod,
-      headers: reqHeaders,
-      body: reqBody,
-      signal: controller.signal,
-    });
-
-    const resStatus = res.status;
-    const resHeaders: Record<string, string> = {};
-    res.headers.forEach((value: string, key: string) => {
-      resHeaders[key] = value;
-    });
-    const resMimeType = resHeaders['Content-Type'] || resHeaders['content-type'];
-    let resBody;
-    if (resMimeType) {
-      if (resMimeType.startsWith('application/json')) {
-        resBody = jsonToLex(await res.json());
-      } else if (resMimeType.startsWith('text/')) {
-        resBody = await res.text();
-      } else {
-        resBody = await res.blob();
-      }
-    }
-
-    return {
-      status: resStatus,
-      headers: resHeaders,
-      body: resBody,
-    };
-  } finally {
-    clearTimeout(to);
-  }
 }
 
 export type PostImageOptions = {
@@ -87,28 +29,34 @@ async function postImage({ path, text, altText }: PostImageOptions) {
     throw new Error('Missing BSKY_IDENTIFIER or BSKY_PASSWORD environment variables');
   }
 
-  const agent = new BskyAgent({ service: 'https://bsky.social' });
-  BskyAgent.configure({
-    fetch: fetchHandler,
+  const agent = new AtpAgent({
+    service: 'https://bsky.social',
+    fetch: async (input, init) => {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT);
+      try {
+        return await globalThis.fetch(input, { ...init, signal: controller.signal });
+      } finally {
+        clearTimeout(timeout);
+      }
+    },
   });
+
   await agent.login({ identifier, password });
   const { data } = await loadImageData(path);
 
-  const testUpload = await agent.uploadBlob(data, { encoding: 'image/jpg' });
+  const upload = await agent.uploadBlob(data, { encoding: 'image/jpeg' });
   await agent.post({
-    text: text,
+    text,
     embed: {
+      $type: 'app.bsky.embed.images',
       images: [
         {
-          image: testUpload.data.blob,
+          image: upload.data.blob,
           alt: altText,
-          aspectRatio: {
-            width: 4,
-            height: 3,
-          },
+          aspectRatio: { width: 4, height: 3 },
         },
       ],
-      $type: 'app.bsky.embed.images',
     },
   });
 }

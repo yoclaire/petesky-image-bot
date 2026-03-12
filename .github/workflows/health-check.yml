@@ -1,0 +1,72 @@
+name: Bot Health Check
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  actions: read
+
+jobs:
+  check-health:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check bot health
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Count failures in last 6 posting runs
+          FAILURES=$(gh run list \
+            --repo "${{ github.repository }}" \
+            --workflow "post-next-image.yml" \
+            --limit 6 \
+            --json conclusion \
+            --jq '[.[] | select(.conclusion == "failure")] | length')
+
+          echo "Failures in last 6 runs: $FAILURES"
+
+          if [ "$FAILURES" -ge 3 ]; then
+            # Check for existing open alert
+            EXISTING=$(gh issue list \
+              --repo "${{ github.repository }}" \
+              --label "bot-health" \
+              --state open \
+              --json number \
+              --jq 'length' 2>/dev/null || echo "0")
+
+            if [ "$EXISTING" = "0" ]; then
+              # Create label if it doesn't exist
+              gh label create "bot-health" \
+                --description "Automated bot health alerts" \
+                --color "d73a4a" \
+                --repo "${{ github.repository }}" 2>/dev/null || true
+
+              gh issue create \
+                --repo "${{ github.repository }}" \
+                --title "Bot health alert: posting failures detected" \
+                --body "The bot has failed 3+ times in the last 6 posting attempts. Check the [workflow runs](https://github.com/${{ github.repository }}/actions/workflows/post-next-image.yml) for details." \
+                --label "bot-health"
+
+              echo "Created health alert issue"
+            else
+              echo "Health alert already exists"
+            fi
+          else
+            # Auto-close any open alerts if bot is healthy
+            OPEN_ISSUES=$(gh issue list \
+              --repo "${{ github.repository }}" \
+              --label "bot-health" \
+              --state open \
+              --json number \
+              --jq '.[].number' 2>/dev/null || true)
+
+            for issue in $OPEN_ISSUES; do
+              gh issue close "$issue" \
+                --repo "${{ github.repository }}" \
+                --comment "Bot has recovered - closing alert automatically."
+              echo "Closed health alert issue #$issue"
+            done
+
+            echo "Bot is healthy"
+          fi

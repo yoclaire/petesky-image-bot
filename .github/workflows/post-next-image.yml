@@ -2,7 +2,8 @@ name: 'bsky-image-bot Post Next Image'
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0,30 * * * *"
+    - cron: "*/20 0-3,13-23 * * *"   # Every 20 min during US peak (8am-10pm ET)
+    - cron: "0 4-12 * * *"            # Hourly during US off-peak (11pm-7am ET)
 
 # Only need contents:write - no external tokens required
 permissions:
@@ -36,6 +37,7 @@ jobs:
         env:
           BSKY_IDENTIFIER: ${{ secrets.BSKY_IDENTIFIER }}
           BSKY_PASSWORD: ${{ secrets.BSKY_PASSWORD }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           node dist/index.js
           posted_image=$(cat .last_posted_image)

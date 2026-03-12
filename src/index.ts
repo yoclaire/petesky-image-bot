@@ -3,6 +3,7 @@ import { getNextImage } from './images';
 import * as fs from 'fs';
 import * as path from 'path';
 import { extractEpisodeInfo } from './utils/episode';
+import { generateVisionAltText } from './utils/alt-text';
 import { PROJECT_ROOT } from './utils/paths';
 
 interface PostingHistoryEntry {
@@ -210,8 +211,9 @@ async function main() {
       console.log(`Large-scale status: ${nextImage.cycleInfo}`);
     }
 
-    // Generate alt text and log it for debugging
-    const altText = altTextFromImageName(nextImage.imageName);
+    // Generate alt text: try vision API first, fall back to filename-based
+    const filenameAltText = altTextFromImageName(nextImage.imageName);
+    const altText = await generateVisionAltText(nextImage.absolutePath, filenameAltText);
     console.log(`Alt text: ${altText}`);
 
     // Post with retry logic
