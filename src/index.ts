@@ -6,123 +6,23 @@ import { PROJECT_ROOT } from './utils/paths';
 
 // Extract episode info from filename for alt text
 function altTextFromImageName(imageName: string): string {
-  // Clean up the filename by removing file extension and replacing separators
-  const cleanName = imageName
-    .replace(/\.(jpg|jpeg|png|gif|bmp)$/i, '') // Remove file extension
-    .replace(/[_\-]+/g, ' ') // Replace underscores and dashes with spaces
-    .replace(/\s+/g, ' ') // Replace multiple spaces with single space
-    .trim();
+  const base = imageName.replace(/-\d+\.jpg$/i, '');
+  const toSpaces = (s: string) => s.replace(/_/g, ' ');
 
-  // Try to extract season and episode info with various patterns
-  const seasonEpisodePatterns = [
-    /(?:Season?\s*)?(\d+)x(\d+)/i,           // 1x05, Season 1x05
-    /S(\d+)E(\d+)/i,                         // S01E08
-    /Season\s*(\d+)\s*Episode\s*(\d+)/i,     // Season 1 Episode 5
-    /(\d+)\s*x\s*(\d+)/i                     // 3 x 12
-  ];
+  // Shorts: The_Adventures_of_Pete_&_Pete_-_0x01_-_Title
+  const shortMatch = base.match(/^The_Adventures_of_Pete_&_Pete_-_0x\d+_-_(.+)$/);
+  if (shortMatch) return `The Adventures of Pete & Pete - ${toSpaces(shortMatch[1])}`;
 
-  let season: string | null = null;
-  let episode: string | null = null;
-
-  for (const pattern of seasonEpisodePatterns) {
-    const match = cleanName.match(pattern);
-    if (match) {
-      season = match[1];
-      episode = match[2];
-      break;
-    }
+  // Episodes: S01E08_-_Title
+  const epMatch = base.match(/^S(\d+)E(\d+)_-_(.+)$/);
+  if (epMatch) {
+    const [, s, e, title] = epMatch;
+    const prettyTitle = toSpaces(title);
+    if (parseInt(s) === 0) return `The Adventures of Pete & Pete - ${prettyTitle}`;
+    return `The Adventures of Pete & Pete - Season ${parseInt(s)}, Episode ${parseInt(e)}: ${prettyTitle}`;
   }
 
-  // Try to extract episode title
-  let episodeTitle: string | null = null;
-
-  if (season && episode) {
-    // Look for title after the season/episode info
-    const titlePatterns = [
-      new RegExp(`(?:Season?\\s*)?${season}\\s*x\\s*${episode}\\s*[\\-_]?\\s*(.+?)(?:\\s*\\-?\\s*\\d+)?$`, 'i'),
-      new RegExp(`S${season.padStart(2, '0')}E${episode.padStart(2, '0')}\\s*[\\-_]?\\s*(.+?)(?:\\s*\\-?\\s*\\d+)?$`, 'i'),
-      new RegExp(`${season}\\s*x\\s*${episode}\\s*[\\-_]?\\s*(.+?)(?:\\s*\\-?\\s*\\d+)?$`, 'i')
-    ];
-
-    for (const pattern of titlePatterns) {
-      const match = cleanName.match(pattern);
-      if (match && match[1]) {
-        episodeTitle = match[1].trim();
-        break;
-      }
-    }
-  } else {
-    // If no season/episode found, try to extract title from common patterns
-    const generalTitlePatterns = [
-      /The Adventures of Pete\s*&?\s*Pete\s*[\\-_]?\s*(.+?)(?:\s*\-?\s*\d+)?$/i,
-      /Pete\s*&?\s*Pete\s*[\\-_]?\s*(.+?)(?:\s*\-?\s*\d+)?$/i,
-      /^(.+?)(?:\s*\-?\s*\d+)?$/  // Fallback: everything except trailing numbers
-    ];
-
-    for (const pattern of generalTitlePatterns) {
-      const match = cleanName.match(pattern);
-      if (match && match[1] && match[1].trim().length > 0) {
-        episodeTitle = match[1].trim();
-        break;
-      }
-    }
-  }
-
-  // Clean up episode title if found
-  if (episodeTitle) {
-    episodeTitle = episodeTitle
-      .replace(/^[\\-_\s]+|[\\-_\s]+$/g, '') // Remove leading/trailing separators
-      .replace(/[_]+/g, ' ') // Replace underscores with spaces
-      .replace(/\s+/g, ' ') // Replace multiple spaces with single space
-      .trim();
-
-    // Fix common formatting issues
-    episodeTitle = episodeTitle
-      .replace(/\b([a-z])\s+([smldt])\b/gi, "$1'$2") // Fix missing apostrophes
-      .replace(/\bpete\b/gi, 'Pete') // Capitalize Pete
-      .replace(/\band\b/gi, 'and') // Normalize 'and'
-      .replace(/\bthe\b/gi, 'the'); // Normalize 'the'
-
-    // Capitalize first letter of each word for title case
-    episodeTitle = episodeTitle.replace(/\b\w+/g, (word) => {
-      // Don't capitalize small words unless they're the first word
-      const smallWords = ['a', 'an', 'and', 'as', 'at', 'but', 'by', 'for', 'if', 'in', 'of', 'on', 'or', 'the', 'to', 'up'];
-      const isFirstWord = episodeTitle!.indexOf(word) === 0;
-
-      if (!isFirstWord && smallWords.includes(word.toLowerCase())) {
-        return word.toLowerCase();
-      }
-
-      return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
-    });
-  }
-
-  // Build the alt text
-  let altText = 'The Adventures of Pete & Pete';
-
-  if (season && episode) {
-    // Don't include season/episode info for Season 0 (specials/shorts)
-    if (parseInt(season) === 0) {
-      // For Season 0, just use the title if available
-      if (episodeTitle && episodeTitle.length > 0) {
-        altText += ` - ${episodeTitle}`;
-      }
-    } else {
-      // Normal season/episode format
-      altText += ` - Season ${parseInt(season)}, Episode ${parseInt(episode)}`;
-
-      if (episodeTitle && episodeTitle.length > 0) {
-        altText += `: ${episodeTitle}`;
-      }
-    }
-  } else if (episodeTitle && episodeTitle.length > 0 &&
-             !episodeTitle.toLowerCase().includes('pete') &&
-             episodeTitle.length > 3) {
-    // Only add title if it's meaningful and doesn't already contain "pete"
-    altText += ` - ${episodeTitle}`;
-  }
-
-  return altText;
+  return 'The Adventures of Pete & Pete';
 }
 
 // Post with retry logic

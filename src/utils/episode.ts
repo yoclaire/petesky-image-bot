@@ -1,4 +1,4 @@
-export interface EpisodeInfo {
+interface EpisodeInfo {
   season?: number;
   episode?: number;
   episodeId?: string;
@@ -6,11 +6,10 @@ export interface EpisodeInfo {
 
 export interface SeasonalStatus {
   isSeasonalEpisode: boolean;
-  currentlySeasonal: boolean;
   seasonType?: string;
 }
 
-export function extractEpisodeInfo(imageName: string): EpisodeInfo {
+function extractEpisodeInfo(imageName: string): EpisodeInfo {
   const cleanName = imageName.replace(/\.(jpg|jpeg|png|gif|bmp)$/i, '');
 
   // Shorts: "The_Adventures_of_Pete_&_Pete_-_0x01_-_..." → Short1
@@ -40,13 +39,11 @@ export function extractEpisodeIdentifier(imageName: string): string {
 }
 
 export function getSeasonalStatus(imageName: string): SeasonalStatus {
-  const now = new Date();
-  const month = now.getMonth() + 1;
   const content = imageName.toLowerCase();
 
   // S02E06 Halloweenie + 0x17 Halloween short
   if (content.includes('halloweenie') || content.includes('0x17_-_halloween')) {
-    return { isSeasonalEpisode: true, currentlySeasonal: month === 10, seasonType: 'halloween' };
+    return { isSeasonalEpisode: true, seasonType: 'halloween' };
   }
 
   // S03E11 O' Christmas Pete + S00E05 New Year's Pete
@@ -56,8 +53,8 @@ export function getSeasonalStatus(imageName: string): SeasonalStatus {
     content.includes("new_year's_pete") ||
     content.includes('new_years_pete')
   ) {
-    return { isSeasonalEpisode: true, currentlySeasonal: month === 12, seasonType: 'christmas' };
+    return { isSeasonalEpisode: true, seasonType: 'christmas' };
   }
 
-  return { isSeasonalEpisode: false, currentlySeasonal: true };
+  return { isSeasonalEpisode: false };
 }
