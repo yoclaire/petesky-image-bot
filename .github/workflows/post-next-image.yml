@@ -2,8 +2,8 @@ name: 'bsky-image-bot Post Next Image'
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/20 0-3,13-23 * * *"   # Every 20 min during US peak (8am-10pm ET)
-    - cron: "0 4-12 * * *"            # Hourly during US off-peak (11pm-7am ET)
+    - cron: "13,43 0-3,13-23 * * *"   # Every 30 min during US peak (8am-10pm ET), off the :00 rush
+    - cron: "13 4-12 * * *"           # Hourly during US off-peak (11pm-7am ET)
 
 # Only need contents:write - no external tokens required
 permissions:
