@@ -16,6 +16,7 @@ Requires a Bluesky account with an [app password](https://bsky.app/settings/app-
 Add these as repository secrets in GitHub Actions:
 - `BSKY_IDENTIFIER` — your Bluesky handle
 - `BSKY_PASSWORD` — your app password
+- `ANTHROPIC_API_KEY` — optional; enables vision-generated scene descriptions in alt text. Without it, alt text uses episode info from the filename only.
 
 Add `.jpg` images to the `imagequeue/` folder and push.
 

@@ -1,29 +1,8 @@
 import { postImage, PostImageOptions } from './clients/at';
 import { getNextImage } from './images';
 import * as fs from 'fs';
-import { generateVisionAltText } from './utils/alt-text';
+import { composeAltText, generateVisionAltText } from './utils/alt-text';
 import { PROJECT_ROOT } from './utils/paths';
-
-// Extract episode info from filename for alt text
-function altTextFromImageName(imageName: string): string {
-  const base = imageName.replace(/-\d+\.jpg$/i, '');
-  const toSpaces = (s: string) => s.replace(/_/g, ' ');
-
-  // Shorts: The_Adventures_of_Pete_&_Pete_-_0x01_-_Title
-  const shortMatch = base.match(/^The_Adventures_of_Pete_&_Pete_-_0x\d+_-_(.+)$/);
-  if (shortMatch) return `The Adventures of Pete & Pete - ${toSpaces(shortMatch[1])}`;
-
-  // Episodes: S01E08_-_Title
-  const epMatch = base.match(/^S(\d+)E(\d+)_-_(.+)$/);
-  if (epMatch) {
-    const [, s, e, title] = epMatch;
-    const prettyTitle = toSpaces(title);
-    if (parseInt(s) === 0) return `The Adventures of Pete & Pete - ${prettyTitle}`;
-    return `The Adventures of Pete & Pete - Season ${parseInt(s)}, Episode ${parseInt(e)}: ${prettyTitle}`;
-  }
-
-  return 'The Adventures of Pete & Pete';
-}
 
 // Post with retry logic
 async function postWithRetry(imageData: PostImageOptions, maxRetries = 3): Promise<void> {
@@ -63,9 +42,9 @@ async function main() {
       console.log(`Large-scale status: ${nextImage.cycleInfo}`);
     }
 
-    // Generate alt text: try vision API first, fall back to filename-based
-    const filenameAltText = altTextFromImageName(nextImage.imageName);
-    const altText = await generateVisionAltText(nextImage.absolutePath, filenameAltText);
+    // Alt text: episode info from the filename, plus a vision description when available
+    const visionDescription = await generateVisionAltText(nextImage.absolutePath);
+    const altText = composeAltText(nextImage.imageName, visionDescription);
     console.log(`Alt text: ${altText}`);
 
     // Post with retry logic
