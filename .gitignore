@@ -21,17 +21,8 @@ dist/
 .env.local
 .env.*.local
 
-# Bot state
-.last_posted_image
-
 # Video/screenshot working dirs
 /videos/
 /videos_staging/
 /raw_screenshots/
 /raw_screenshots_hq/
-
-# Old extraction scripts
-extract_screenshots.sh
-extract_screenshots_fixed.sh
-extract_screenshots2.sh
-extract_screenshots2_fixed.sh

@@ -2,13 +2,14 @@ import { AtpAgent } from '@atproto/api';
 import * as fs from 'fs';
 
 const REQUEST_TIMEOUT = 60e3; // 60s
+const MAX_IMAGE_BYTES = 1_000_000; // Bluesky lexicon limit for image blobs (not 1 MiB)
 
-async function loadImageData(imagePath: fs.PathLike) {
+export async function loadImageData(imagePath: fs.PathLike) {
   const buffer = await fs.promises.readFile(imagePath);
 
-  if (buffer.byteLength > 1024 * 1024) {
+  if (buffer.byteLength > MAX_IMAGE_BYTES) {
     throw new Error(
-      `Image exceeds Bluesky's 1MB limit (${(buffer.byteLength / 1024 / 1024).toFixed(2)}MB). Resize before adding to imagequeue.`
+      `Image exceeds Bluesky's ${MAX_IMAGE_BYTES.toLocaleString()}-byte limit (${buffer.byteLength.toLocaleString()} bytes). Resize before adding to imagequeue.`
     );
   }
 

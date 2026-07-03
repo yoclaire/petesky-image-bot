@@ -1,8 +1,6 @@
 import { postImage, PostImageOptions } from './clients/at';
 import { getNextImage } from './images';
-import * as fs from 'fs';
 import { composeAltText, generateVisionAltText } from './utils/alt-text';
-import { PROJECT_ROOT } from './utils/paths';
 
 // Post with retry logic
 async function postWithRetry(imageData: PostImageOptions, maxRetries = 3): Promise<void> {
@@ -24,12 +22,6 @@ async function postWithRetry(imageData: PostImageOptions, maxRetries = 3): Promi
       await new Promise(resolve => setTimeout(resolve, delay));
     }
   }
-}
-
-// Write the posted image name to a file for GitHub Actions to read
-function savePostedImageName(imageName: string): void {
-  const filePath = `${PROJECT_ROOT}/.last_posted_image`;
-  fs.writeFileSync(filePath, imageName.trim(), 'utf8');
 }
 
 // Main function
@@ -55,10 +47,6 @@ async function main() {
     });
 
     console.log('Successfully posted to Bluesky!');
-
-    // Save the posted image name for GitHub Actions
-    savePostedImageName(nextImage.imageName);
-
   } catch (error) {
     console.error('Error posting to Bluesky:', error);
     process.exit(1);
