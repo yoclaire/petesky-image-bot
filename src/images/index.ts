@@ -29,7 +29,6 @@ async function getNextImage(): Promise<NextImage> {
     const selection = selector.selectNextImage();
 
     console.log(`Selected: ${selection.imageName}`);
-    console.log(`Status: ${selector.getStatus()}`);
 
     const absolutePath = path.join(imagesDir, selection.imageName);
 

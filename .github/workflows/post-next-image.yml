@@ -49,9 +49,10 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          git add -f .large-scale-history.json || true
+          git add .large-scale-history.json .image-manifest.json
 
           if ! git diff --staged --quiet; then
             git commit -m "Update bot state [skip ci]"
+            git pull --rebase origin main
             git push
           fi
